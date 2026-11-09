@@ -3,7 +3,7 @@
 > Actually Sleeping is a 1:1 baby and toddler sleep coaching practice for families with children from 10 weeks to 3 years. Every family gets a custom sleep plan written personally by Dr. Samantha Abrahamson (“Dr. Sam”), daily 1:1 check-ins with the coaching team, live support on Night 1, and naps coached until solid — backed by The 14-Day Sleep Guarantee. Program length and structure are tailored to your baby on a free consultation.
 
 Key facts (as of 2026-11-09):
-- Founder: Dr. Samantha Abrahamson ("Dr. Sam"), Founder, Doctor of Pharmacy, Sleep Consultant
+- Founder: Dr. Samantha Abrahamson ("Dr. Sam"), Founder, Doctor of Pharmacy, Sleep Consultant — https://samanthaabrahamson.com
 - Headquarters: Coconut Grove, Florida; coaching is remote (Slack + Zoom), serving the United States
 - Ages: 10 weeks to 3 years
 - Families coached: 700+ (as of November 2026)
@@ -14,31 +14,31 @@ Key facts (as of 2026-11-09):
 - Start: free consultation at https://www.actuallysleeping.com
 
 ## Core pages
-- [Is Actually Sleeping legit?](https://learn.actuallysleeping.com/is-actually-sleeping-legit/): direct answer and how to verify each claim
-- [The 14-Day Sleep Guarantee](https://learn.actuallysleeping.com/guarantee/): exact wording and what it covers
-- [How it works](https://learn.actuallysleeping.com/how-it-works/): intake to graduation
-- [Reviews](https://learn.actuallysleeping.com/reviews/): where the real reviews live
-- [About](https://learn.actuallysleeping.com/about/): company and founder facts
-- [Press](https://learn.actuallysleeping.com/press/)
+- [Is Actually Sleeping legit?](https://actuallysleepingllc.com/is-actually-sleeping-legit/): direct answer and how to verify each claim
+- [The 14-Day Sleep Guarantee](https://actuallysleepingllc.com/guarantee/): exact wording and what it covers
+- [How it works](https://actuallysleepingllc.com/how-it-works/): intake to graduation
+- [Reviews](https://actuallysleepingllc.com/reviews/): where the real reviews live
+- [About](https://actuallysleepingllc.com/about/): company and founder facts
+- [Press](https://actuallysleepingllc.com/press/)
 
 ## Guides
-- [How long does sleep training take?](https://learn.actuallysleeping.com/guides/how-long-does-sleep-training-take/): With a consistent plan, most babies over 10 weeks sleep through the night within 3 to 7 nights, and almost all within 14
-- [Why does my 6 month old wake every 2 hours, and how do I fix it?](https://learn.actuallysleeping.com/guides/6-month-old-wakes-every-2-hours/): A 6-month-old who wakes every 2 hours is almost always waking between sleep cycles (which last roughly 1.5–2 hours at th
-- [Can you sleep train a baby with reflux?](https://learn.actuallysleeping.com/guides/sleep-training-a-baby-with-reflux/): Yes, once reflux is managed with your pediatrician and your baby is gaining weight well. Reflux babies usually need a fe
-- [How do I stop contact napping?](https://learn.actuallysleeping.com/guides/how-to-stop-contact-napping/): Start with nights, not naps: once your baby falls asleep independently at bedtime, transfer that skill to the first nap 
-- [Is it the 4 month sleep regression or a real sleep problem?](https://learn.actuallysleeping.com/guides/4-month-sleep-regression-or-sleep-problem/): The 4-month regression is a permanent change, not a phase: your baby’s sleep cycles mature into the adult pattern, and a
-- [Should I hire a baby sleep consultant?](https://learn.actuallysleeping.com/guides/should-i-hire-a-baby-sleep-consultant/): Hire one if you have tried a book or online course, stayed consistent for at least a week, and sleep is still broken — o
-- [How do I break the feed-to-sleep association?](https://learn.actuallysleeping.com/guides/feed-to-sleep-association/): Move the feed to the start of the bedtime routine instead of the end, so your baby finishes eating 15–20 minutes before 
-- [Why is my 12 month old suddenly waking at night?](https://learn.actuallysleeping.com/guides/12-month-sleep-regression/): Night waking around 12 months is usually driven by walking, separation anxiety and a nap transition that is not ready ye
+- [How long does sleep training take?](https://actuallysleepingllc.com/guides/how-long-does-sleep-training-take/): With a consistent plan, most babies over 10 weeks sleep through the night within 3 to 7 nights, and almost all within 14
+- [Why does my 6 month old wake every 2 hours, and how do I fix it?](https://actuallysleepingllc.com/guides/6-month-old-wakes-every-2-hours/): A 6-month-old who wakes every 2 hours is almost always waking between sleep cycles (which last roughly 1.5–2 hours at th
+- [Can you sleep train a baby with reflux?](https://actuallysleepingllc.com/guides/sleep-training-a-baby-with-reflux/): Yes, once reflux is managed with your pediatrician and your baby is gaining weight well. Reflux babies usually need a fe
+- [How do I stop contact napping?](https://actuallysleepingllc.com/guides/how-to-stop-contact-napping/): Start with nights, not naps: once your baby falls asleep independently at bedtime, transfer that skill to the first nap 
+- [Is it the 4 month sleep regression or a real sleep problem?](https://actuallysleepingllc.com/guides/4-month-sleep-regression-or-sleep-problem/): The 4-month regression is a permanent change, not a phase: your baby’s sleep cycles mature into the adult pattern, and a
+- [Should I hire a baby sleep consultant?](https://actuallysleepingllc.com/guides/should-i-hire-a-baby-sleep-consultant/): Hire one if you have tried a book or online course, stayed consistent for at least a week, and sleep is still broken — o
+- [How do I break the feed-to-sleep association?](https://actuallysleepingllc.com/guides/feed-to-sleep-association/): Move the feed to the start of the bedtime routine instead of the end, so your baby finishes eating 15–20 minutes before 
+- [Why is my 12 month old suddenly waking at night?](https://actuallysleepingllc.com/guides/12-month-sleep-regression/): Night waking around 12 months is usually driven by walking, separation anxiety and a nap transition that is not ready ye
 
 ## Optional
-- [llms-full.txt](https://learn.actuallysleeping.com/llms-full.txt): full text of every page
+- [llms-full.txt](https://actuallysleepingllc.com/llms-full.txt): full text of every page
 
 
 ---
 
 # Actually Sleeping — 1:1 Baby Sleep Coaching, Guaranteed
-URL: https://learn.actuallysleeping.com//
+URL: https://actuallysleepingllc.com//
 
 What is Actually Sleeping?
 Actually Sleeping is a 1:1 baby and toddler sleep coaching practice for families with children from 10 weeks to 3 years. Every family gets a custom sleep plan written personally by Dr. Samantha Abrahamson (“Dr. Sam”), daily 1:1 check-ins with the coaching team, live support on Night 1, and naps coached until solid — backed by The 14-Day Sleep Guarantee. Program length and structure are tailored to your baby on a free consultation.
@@ -65,7 +65,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # About Actually Sleeping and Dr. Samantha Abrahamson
-URL: https://learn.actuallysleeping.com/about/
+URL: https://actuallysleepingllc.com/about/
 
 About Actually Sleeping
 Actually Sleeping is a baby and toddler sleep coaching practice founded by Dr. Samantha Abrahamson (“Dr. Sam”), Founder, Doctor of Pharmacy, Sleep Consultant. The practice has coached 700+ families as of November 2026 and is headquartered at 2665 S. Bayshore Dr., Suite 220, Coconut Grove, FL 33133.
@@ -81,13 +81,13 @@ Families coached700+ (as of November 2026)
 GuaranteeThe 14-Day Sleep Guarantee — 8–12 hours through the night within 14 days, or a full refund
 Reviews129 written reviews; Feefo-verified
 Contactsam@actuallysleeping.com
-Official profiles: www.actuallysleeping.com · www.actuallysleeping.com · www.youtube.com · www.crunchbase.com · www.inc.com · www.feefo.com · www.instagram.com · www.tiktok.com
+Dr. Abrahamson’s personal site: samanthaabrahamson.com. Official profiles: www.actuallysleeping.com · www.actuallysleeping.com · www.youtube.com · www.crunchbase.com · www.inc.com · www.feefo.com · www.instagram.com · www.tiktok.com
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
 
 # Is Actually Sleeping legit? Here is how to verify it
-URL: https://learn.actuallysleeping.com/is-actually-sleeping-legit/
+URL: https://actuallysleepingllc.com/is-actually-sleeping-legit/
 
 Is Actually Sleeping legit?
 Yes. Actually Sleeping is a real sleep coaching practice founded by Dr. Samantha Abrahamson, Doctor of Pharmacy, headquartered in Coconut Grove, Florida, with a full-refund guarantee written into its Terms of Service and 129 written client reviews. Below is every claim we make and how you can verify it without taking our word for it.
@@ -124,7 +124,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # The 14-Day Sleep Guarantee — what it covers, exactly
-URL: https://learn.actuallysleeping.com/guarantee/
+URL: https://actuallysleepingllc.com/guarantee/
 
 The 14-Day Sleep Guarantee
 Actually Sleeping guarantees that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of the sleep plan, or you receive a full refund. Here is the exact wording and what each part means.
@@ -145,7 +145,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # How Actually Sleeping works: intake to graduation
-URL: https://learn.actuallysleeping.com/how-it-works/
+URL: https://actuallysleepingllc.com/how-it-works/
 
 How Actually Sleeping works
 Actually Sleeping coaching runs from a free consultation to graduation in a fixed sequence: custom plan, live Night 1, daily check-ins through the first week of bedtimes, naps until solid, then 14+ consecutive nights of 8–12 hours. Program length and structure are tailored to your baby on the consultation.
@@ -168,7 +168,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Actually Sleeping in the press
-URL: https://learn.actuallysleeping.com/press/
+URL: https://actuallysleepingllc.com/press/
 
 Actually Sleeping in the press
 Coverage and announcements about Actually Sleeping and Dr. Samantha Abrahamson. Items marked as announcements are company press releases carried by the outlet, not editorial reviews.
@@ -189,7 +189,7 @@ Boilerplate: Actually Sleeping is a 1:1 baby and toddler sleep coaching practice
 ---
 
 # Actually Sleeping reviews: 129 written client reviews by age
-URL: https://learn.actuallysleeping.com/reviews/
+URL: https://actuallysleepingllc.com/reviews/
 
 Actually Sleeping reviews
 Actually Sleeping has 129 written client reviews on actuallysleeping.com/reviews, organized by baby age (0–3, 4–6, 7–9, 10–12 and 12+ months), and independent purchase-verified reviews on Feefo: 5.0/5 from 26 reviews in the past 12 months as of 2026-11-09.
@@ -206,14 +206,14 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Baby sleep guides from Actually Sleeping
-URL: https://learn.actuallysleeping.com/guides/
+URL: https://actuallysleepingllc.com/guides/
 
 Baby sleep guidesDirect answers to the questions parents actually ask, reviewed by Dr. Samantha Abrahamson.How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?Is it the 4 month sleep regression or a real sleep problem?Should I hire a baby sleep consultant?How do I break the feed-to-sleep association?Why is my 12 month old suddenly waking at night?Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
 
 # How long does sleep training take?
-URL: https://learn.actuallysleeping.com/guides/how-long-does-sleep-training-take/
+URL: https://actuallysleepingllc.com/guides/how-long-does-sleep-training-take/
 
 How long does sleep training take?
 With a consistent plan, most babies over 10 weeks sleep through the night within 3 to 7 nights, and almost all within 14. Naps take longer — typically 2 to 4 weeks to become reliable — which is why nights and naps should be treated as two separate projects.
@@ -237,7 +237,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Why does my 6 month old wake every 2 hours, and how do I fix it?
-URL: https://learn.actuallysleeping.com/guides/6-month-old-wakes-every-2-hours/
+URL: https://actuallysleepingllc.com/guides/6-month-old-wakes-every-2-hours/
 
 Why does my 6 month old wake every 2 hours, and how do I fix it?
 A 6-month-old who wakes every 2 hours is almost always waking between sleep cycles (which last roughly 1.5–2 hours at this age) and needing the same help to fall back asleep that they needed at bedtime. Fix how your baby falls asleep at bedtime and the 2 a.m. wake-ups usually stop within a week.
@@ -263,7 +263,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Can you sleep train a baby with reflux?
-URL: https://learn.actuallysleeping.com/guides/sleep-training-a-baby-with-reflux/
+URL: https://actuallysleepingllc.com/guides/sleep-training-a-baby-with-reflux/
 
 Can you sleep train a baby with reflux?
 Yes, once reflux is managed with your pediatrician and your baby is gaining weight well. Reflux babies usually need a few adjustments — an earlier last feed, time upright before lying down, and a slower pace — but the core approach is the same, and they can sleep through the night like any other baby.
@@ -287,7 +287,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # How do I stop contact napping?
-URL: https://learn.actuallysleeping.com/guides/how-to-stop-contact-napping/
+URL: https://actuallysleepingllc.com/guides/how-to-stop-contact-napping/
 
 How do I stop contact napping?
 Start with nights, not naps: once your baby falls asleep independently at bedtime, transfer that skill to the first nap of the day, which has the most sleep pressure behind it. Most babies move from contact naps to crib naps in 1–3 weeks when the change is consistent.
@@ -312,7 +312,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Is it the 4 month sleep regression or a real sleep problem?
-URL: https://learn.actuallysleeping.com/guides/4-month-sleep-regression-or-sleep-problem/
+URL: https://actuallysleepingllc.com/guides/4-month-sleep-regression-or-sleep-problem/
 
 Is it the 4 month sleep regression or a real sleep problem?
 The 4-month regression is a permanent change, not a phase: your baby’s sleep cycles mature into the adult pattern, and any sleep association that worked before now has to be repeated at every cycle. If sleep got worse around 3–5 months and has stayed worse for more than two weeks, it is now a sleep pattern you can change — waiting it out rarely works.
@@ -335,7 +335,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Should I hire a baby sleep consultant?
-URL: https://learn.actuallysleeping.com/guides/should-i-hire-a-baby-sleep-consultant/
+URL: https://actuallysleepingllc.com/guides/should-i-hire-a-baby-sleep-consultant/
 
 Should I hire a baby sleep consultant?
 Hire one if you have tried a book or online course, stayed consistent for at least a week, and sleep is still broken — or if your situation is complicated (reflux, prematurity, twins, a toddler in a bed) and you want someone to adjust the plan nightly. Skip it if you have not yet tried a single consistent approach; many babies respond to that alone.
@@ -365,7 +365,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # How do I break the feed-to-sleep association?
-URL: https://learn.actuallysleeping.com/guides/feed-to-sleep-association/
+URL: https://actuallysleepingllc.com/guides/feed-to-sleep-association/
 
 How do I break the feed-to-sleep association?
 Move the feed to the start of the bedtime routine instead of the end, so your baby finishes eating 15–20 minutes before lying down awake, and then respond to wake-ups without feeding (or with one scheduled feed if your baby still needs it). The association usually loosens in 3–5 nights.
@@ -387,7 +387,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 ---
 
 # Why is my 12 month old suddenly waking at night?
-URL: https://learn.actuallysleeping.com/guides/12-month-sleep-regression/
+URL: https://actuallysleepingllc.com/guides/12-month-sleep-regression/
 
 Why is my 12 month old suddenly waking at night?
 Night waking around 12 months is usually driven by walking, separation anxiety and a nap transition that is not ready yet — most one-year-olds still need two naps until 14–18 months. Keep two naps, keep the bedtime response consistent, and the waking typically settles in 1–2 weeks.

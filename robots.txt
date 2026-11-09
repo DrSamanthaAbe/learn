@@ -64,4 +64,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://learn.actuallysleeping.com/sitemap.xml
+Sitemap: https://actuallysleepingllc.com/sitemap.xml
