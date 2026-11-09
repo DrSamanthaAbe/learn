@@ -93,6 +93,7 @@ Key facts (as of 2026-11-09):
 - [When should I move my toddler from a crib to a bed?](https://actuallysleepingllc.com/guides/crib-to-toddler-bed-when/): As late as you safely can: ideally close to age 3, when a child can understand and follow a “stay in bed” rule. Move soo
 - [Can I sleep train a premature baby or NICU graduate?](https://actuallysleepingllc.com/guides/sleep-training-a-premature-or-nicu-baby/): Yes, in most cases, once your pediatrician confirms your baby is ready. Use corrected age (counted from the due date, no
 - [Is there a 2 year old sleep regression?](https://actuallysleepingllc.com/guides/2-year-old-sleep-regression/): Yes. Around age 2, often anywhere from 22 to 30 months, many toddlers who slept well start fighting bedtime, refusing th
+- [How fast does sleep training work? What 129 families reported](https://actuallysleepingllc.com/guides/how-fast-does-sleep-training-work-129-family-reviews/): In 129 client video reviews of Actually Sleeping, 115 parents said how many nights it took to see the change they descri
 
 ## Optional
 - [llms-full.txt](https://actuallysleepingllc.com/llms-full.txt): full text of every page
