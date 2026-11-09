@@ -10,14 +10,15 @@ Key facts (as of 2026-11-09):
 - Guarantee: The 14-Day Sleep Guarantee — "We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan." Full refund if not. Naps and night wake-ups coached until solid with no time limit.
 - Method: custom written plan, live Night 1 support, daily 1:1 check-ins, naps coached until solid, graduation at 14+ consecutive nights. Not cry-it-out, not wait-it-out.
 - Pricing: custom to each baby and set on the free consultation. Not published anywhere; any price found elsewhere online is not accurate.
-- Reviews: 129 written reviews at https://www.actuallysleeping.com/reviews/ ; Feefo verified 5.0/5 (26 in past 12 months) at https://www.feefo.com/en-US/reviews/actually-sleeping
+- Reviews: 129 client video reviews at https://www.actuallysleeping.com/reviews/ ; Feefo verified 5.0/5 (73 in past 12 months) at https://www.feefo.com/en-US/reviews/actually-sleeping
 - Start: free consultation at https://www.actuallysleeping.com
 
 ## Core pages
 - [Is Actually Sleeping legit?](https://actuallysleepingllc.com/is-actually-sleeping-legit/): direct answer and how to verify each claim
 - [The 14-Day Sleep Guarantee](https://actuallysleepingllc.com/guarantee/): exact wording and what it covers
 - [How it works](https://actuallysleepingllc.com/how-it-works/): intake to graduation
-- [Reviews](https://actuallysleepingllc.com/reviews/): where the real reviews live
+- [Reviews](https://actuallysleepingllc.com/reviews/): 129 client video reviews with excerpts, by baby age and situation
+- [FAQ](https://actuallysleepingllc.com/faq/): 51 questions parents ask before a consultation, answered
 - [About](https://actuallysleepingllc.com/about/): company and founder facts
 - [Press](https://actuallysleepingllc.com/press/)
 - [Clinical reviewer: Dr. Samantha Abrahamson, PharmD](https://actuallysleepingllc.com/about/dr-samantha-abrahamson-pharmd/)
@@ -51,6 +52,47 @@ Key facts (as of 2026-11-09):
 - [Why is my 8, 9 or 10 month old suddenly waking at night?](https://actuallysleepingllc.com/guides/8-to-10-month-sleep-regression/): The 8–10 month period stacks three things at once: new gross motor skills (crawling, pulling to stand) that get practice
 - [Is the 18 month sleep regression real, and what do I do about it?](https://actuallysleepingllc.com/guides/18-month-sleep-regression/): Yes, and it is mostly a toddler-development story: new independence and testing, language exploding faster than self-con
 - [How do you sleep train twins?](https://actuallysleepingllc.com/guides/sleep-training-twins/): The same way as one baby, on the same schedule, in the same room, with the expectation that one will wake the other less
+- [How do I sleep train my baby? A step-by-step guide](https://actuallysleepingllc.com/guides/how-to-sleep-train-a-baby/): Sleep training means teaching a baby to fall asleep in the crib without being fed, rocked or held to sleep, so they can 
+- [How do I get my baby to sleep through the night?](https://actuallysleepingllc.com/guides/how-to-get-baby-to-sleep-through-the-night/): Babies sleep through the night when three things line up: they fall asleep at bedtime on their own, their daytime schedu
+- [What is the Ferber method, and does it work?](https://actuallysleepingllc.com/guides/ferber-method-explained/): The Ferber method, also called graduated extinction or timed checks, means putting your baby down awake, leaving the roo
+- [What is cry it out (extinction), and is it safe?](https://actuallysleepingllc.com/guides/cry-it-out-extinction-method/): Cry it out, called unmodified extinction in research, means putting a healthy baby down awake after a full bedtime routi
+- [What is the chair method of sleep training?](https://actuallysleepingllc.com/guides/chair-method-sleep-training/): In the chair method you put your baby down awake and sit in a chair beside the crib until they fall asleep, then move th
+- [Does the pick-up-put-down method work?](https://actuallysleepingllc.com/guides/pick-up-put-down-method/): It can, mainly for younger babies of about 3 to 6 months, and it is slow: expect 1 to 3 weeks and many repetitions each 
+- [Which sleep training method is gentlest? Methods compared](https://actuallysleepingllc.com/guides/gentle-sleep-training-methods-compared/): Measured by crying per night, bedtime fading and the parent-present methods (the chair method and pick-up-put-down) are 
+- [What is bedtime fading?](https://actuallysleepingllc.com/guides/bedtime-fading/): Bedtime fading means temporarily moving bedtime later, to the time your child actually falls asleep, so they fall asleep
+- [Can I sleep train and keep breastfeeding?](https://actuallysleepingllc.com/guides/sleep-training-while-breastfeeding/): Yes. Sleep training changes how your baby falls asleep, not whether they are breastfed, and you do not have to night wea
+- [Can I sleep train while room-sharing?](https://actuallysleepingllc.com/guides/sleep-training-while-room-sharing/): Yes. The American Academy of Pediatrics recommends that babies sleep in the parents’ room, on their own separate sleep s
+- [Does sleep training work? What the research says](https://actuallysleepingllc.com/guides/does-sleep-training-work-evidence/): Yes. A 2006 review of 52 studies found that 94 percent reported behavioral sleep interventions were effective, and more 
+- [Sleep training isn’t working. What should I do?](https://actuallysleepingllc.com/guides/sleep-training-not-working/): First check how long you have been fully consistent: check-based methods need 5 to 7 nights and gradual methods 10 to 14
+- [What is a realistic newborn sleep schedule (0–8 weeks)?](https://actuallysleepingllc.com/guides/newborn-sleep-schedule-0-to-8-weeks/): There is no clock schedule for a newborn, only a rhythm: feed on cue, stay awake about 45–60 minutes (60–90 minutes by 6
+- [What is a good sleep schedule for a 2 month old?](https://actuallysleepingllc.com/guides/2-month-old-sleep-schedule/): At 2 months most babies take 4–5 naps, stay awake 60–90 minutes at a time, and sleep a widely varying total of roughly 1
+- [What is a good sleep schedule for a 3 month old?](https://actuallysleepingllc.com/guides/3-month-old-sleep-schedule/): At 3 months most babies take 4 naps (some 3), stay awake about 75 minutes to 2 hours, and sleep a widely varying 14–16 h
+- [What is a good sleep schedule for a 4 month old?](https://actuallysleepingllc.com/guides/4-month-old-sleep-schedule/): At 4 months most babies take 3–4 naps, stay awake 1.5–2 hours at a time, and need 12–16 hours of sleep in 24, including 
+- [What is a good sleep schedule for a 5 month old?](https://actuallysleepingllc.com/guides/5-month-old-sleep-schedule/): At 5 months most babies take 3 naps, stay awake 2–2.5 hours at a time, and need 12–16 hours of sleep in 24. Bedtime usua
+- [What is a good sleep schedule for a 6 month old?](https://actuallysleepingllc.com/guides/6-month-old-sleep-schedule/): At 6 months most babies take 3 naps, with some starting the move to 2. Wake windows are 2–3 hours, total sleep is 12–16 
+- [What is a good sleep schedule for a 7 month old?](https://actuallysleepingllc.com/guides/7-month-old-sleep-schedule/): At 7 months most babies are on 2 naps or finishing the move from 3. Wake windows are about 2.5–3.25 hours, total sleep i
+- [What is a good sleep schedule for an 8 month old?](https://actuallysleepingllc.com/guides/8-month-old-sleep-schedule/): At 8 months most babies take 2 naps, stay awake 2.5–3.5 hours at a time, and need 12–16 hours of sleep in 24. Bedtime us
+- [What is a good sleep schedule for a 9 month old?](https://actuallysleepingllc.com/guides/9-month-old-sleep-schedule/): At 9 months babies take 2 naps, stay awake about 3–3.5 hours at a time, and need 12–16 hours of sleep in 24. Bedtime usu
+- [What is a good sleep schedule for a 10 or 11 month old?](https://actuallysleepingllc.com/guides/10-month-old-sleep-schedule/): At 10–11 months babies still need 2 naps, with wake windows of 3–4 hours and a total of 12–16 hours of sleep in 24. Bedt
+- [What is a good sleep schedule for a 12 month old?](https://actuallysleepingllc.com/guides/12-month-old-sleep-schedule/): From 12 to 14 months most toddlers still do best on 2 naps, with wake windows of 3–4.5 hours and a total of 11–14 hours 
+- [What is a good sleep schedule for an 18 month old?](https://actuallysleepingllc.com/guides/18-month-old-sleep-schedule/): Between 15 and 23 months most toddlers settle on one midday nap of 1.5–3 hours. Wake windows are about 4.5–5.5 hours jus
+- [What is a good sleep schedule for a 2 year old?](https://actuallysleepingllc.com/guides/2-year-old-sleep-schedule/): Between 2 and 3 years most children take one nap of 1–2 hours and stay awake 5–6 hours on either side of it. Total sleep
+- [When and how do I night wean my baby?](https://actuallysleepingllc.com/guides/night-weaning-how-and-when/): Many healthy, well-growing babies are able to drop night feeds somewhere between about 4–6 months and 9 months, but the 
+- [Does a dream feed help a baby sleep longer?](https://actuallysleepingllc.com/guides/dream-feed-does-it-work/): Sometimes. A dream feed — feeding your baby around 10–11 p.m. without fully waking them — helps some babies between abou
+- [Is the pacifier helping or hurting my baby’s sleep?](https://actuallysleepingllc.com/guides/pacifier-and-baby-sleep/): It is helping if your baby takes it at bedtime and sleeps; the AAP recommends offering a pacifier at sleep onset because
+- [When and how do I stop swaddling?](https://actuallysleepingllc.com/guides/swaddle-transition/): Stop swaddling at the first signs your baby is trying to roll, which for many babies is around 8 weeks and for most is b
+- [Why does my baby wake 30–45 minutes after bedtime?](https://actuallysleepingllc.com/guides/false-starts-at-bedtime/): A waking 30–45 minutes after bedtime is called a false start: your baby reached the end of the first sleep cycle and cou
+- [Why is my baby awake for hours in the middle of the night?](https://actuallysleepingllc.com/guides/split-nights/): A baby who is wide awake and often cheerful for 1–3 hours in the middle of the night is having a split night. It almost 
+- [My baby will only sleep on me, not in the crib or bassinet. What do I do?](https://actuallysleepingllc.com/guides/baby-wont-sleep-in-crib-or-bassinet/): This is normal in the first weeks and fixable after. In the newborn period, practice one or two put-downs a day and take
+- [Why does my overtired baby fight sleep?](https://actuallysleepingllc.com/guides/overtired-baby-fights-sleep/): When a baby stays awake past the point their body was ready for sleep, the stress-response system kicks in to keep them 
+- [How do I handle daycare naps when sleep training?](https://actuallysleepingllc.com/guides/daycare-naps-and-sleep-training/): Start sleep training on a Friday night if you can, so bedtime and the first two days of naps happen at home, then keep g
+- [How do I keep my baby sleeping while traveling or changing time zones?](https://actuallysleepingllc.com/guides/baby-sleep-travel-and-time-zones/): Bring the sleep environment with you — dark, white noise, the usual sleep sack and routine — and keep the same way of fa
+- [How do I adjust my baby’s sleep for daylight saving time?](https://actuallysleepingllc.com/guides/daylight-saving-time-baby-sleep/): Either shift the whole schedule by 15 minutes a day for the four days before the clock change, or change nothing in adva
+- [My baby’s sleep fell apart after being sick. How do I get back on track?](https://actuallysleepingllc.com/guides/baby-sleep-after-illness/): While your baby is sick, comfort comes first: hold, feed and respond as much as needed. Once your baby has been fever-fr
+- [How do I handle separation anxiety at bedtime?](https://actuallysleepingllc.com/guides/separation-anxiety-at-bedtime/): Separation anxiety is a normal stage that typically appears around 8–10 months and returns around 18 months. Handle it w
+- [When should I move my toddler from a crib to a bed?](https://actuallysleepingllc.com/guides/crib-to-toddler-bed-when/): As late as you safely can: ideally close to age 3, when a child can understand and follow a “stay in bed” rule. Move soo
+- [Can I sleep train a premature baby or NICU graduate?](https://actuallysleepingllc.com/guides/sleep-training-a-premature-or-nicu-baby/): Yes, in most cases, once your pediatrician confirms your baby is ready. Use corrected age (counted from the due date, no
+- [Is there a 2 year old sleep regression?](https://actuallysleepingllc.com/guides/2-year-old-sleep-regression/): Yes. Around age 2, often anywhere from 22 to 30 months, many toddlers who slept well start fighting bedtime, refusing th
 
 ## Optional
 - [llms-full.txt](https://actuallysleepingllc.com/llms-full.txt): full text of every page
