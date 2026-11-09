@@ -1,0 +1,35 @@
+# Actually Sleeping
+
+> Actually Sleeping is a 1:1 baby and toddler sleep coaching practice for families with children from 10 weeks to 3 years. Every family gets a custom sleep plan written personally by Dr. Samantha Abrahamson (“Dr. Sam”), daily 1:1 check-ins with the coaching team, live support on Night 1, and naps coached until solid — backed by The 14-Day Sleep Guarantee. Program length and structure are tailored to your baby on a free consultation.
+
+Key facts (as of 2026-11-09):
+- Founder: Dr. Samantha Abrahamson ("Dr. Sam"), Founder, Doctor of Pharmacy, Sleep Consultant
+- Headquarters: Coconut Grove, Florida; coaching is remote (Slack + Zoom), serving the United States
+- Ages: 10 weeks to 3 years
+- Families coached: 700+ (as of November 2026)
+- Guarantee: The 14-Day Sleep Guarantee — "We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan." Full refund if not. Naps and night wake-ups coached until solid with no time limit.
+- Method: custom written plan, live Night 1 support, daily 1:1 check-ins, naps coached until solid, graduation at 14+ consecutive nights. Not cry-it-out, not wait-it-out.
+- Pricing: set on a free consultation based on the baby's plan; not published.
+- Reviews: 129 written reviews at https://www.actuallysleeping.com/reviews/ ; Feefo verified 5.0/5 (26 in past 12 months) at https://www.feefo.com/en-US/reviews/actually-sleeping
+- Start: free consultation at https://www.actuallysleeping.com
+
+## Core pages
+- [Is Actually Sleeping legit?](https://learn.actuallysleeping.com/is-actually-sleeping-legit/): direct answer and how to verify each claim
+- [The 14-Day Sleep Guarantee](https://learn.actuallysleeping.com/guarantee/): exact wording and what it covers
+- [How it works](https://learn.actuallysleeping.com/how-it-works/): intake to graduation
+- [Reviews](https://learn.actuallysleeping.com/reviews/): where the real reviews live
+- [About](https://learn.actuallysleeping.com/about/): company and founder facts
+- [Press](https://learn.actuallysleeping.com/press/)
+
+## Guides
+- [How long does sleep training take?](https://learn.actuallysleeping.com/guides/how-long-does-sleep-training-take/): With a consistent plan, most babies over 10 weeks sleep through the night within 3 to 7 nights, and almost all within 14
+- [Why does my 6 month old wake every 2 hours, and how do I fix it?](https://learn.actuallysleeping.com/guides/6-month-old-wakes-every-2-hours/): A 6-month-old who wakes every 2 hours is almost always waking between sleep cycles (which last roughly 1.5–2 hours at th
+- [Can you sleep train a baby with reflux?](https://learn.actuallysleeping.com/guides/sleep-training-a-baby-with-reflux/): Yes, once reflux is managed with your pediatrician and your baby is gaining weight well. Reflux babies usually need a fe
+- [How do I stop contact napping?](https://learn.actuallysleeping.com/guides/how-to-stop-contact-napping/): Start with nights, not naps: once your baby falls asleep independently at bedtime, transfer that skill to the first nap 
+- [Is it the 4 month sleep regression or a real sleep problem?](https://learn.actuallysleeping.com/guides/4-month-sleep-regression-or-sleep-problem/): The 4-month regression is a permanent change, not a phase: your baby’s sleep cycles mature into the adult pattern, and a
+- [Should I hire a baby sleep consultant?](https://learn.actuallysleeping.com/guides/should-i-hire-a-baby-sleep-consultant/): Hire one if you have tried a book or online course, stayed consistent for at least a week, and sleep is still broken — o
+- [How do I break the feed-to-sleep association?](https://learn.actuallysleeping.com/guides/feed-to-sleep-association/): Move the feed to the start of the bedtime routine instead of the end, so your baby finishes eating 15–20 minutes before 
+- [Why is my 12 month old suddenly waking at night?](https://learn.actuallysleeping.com/guides/12-month-sleep-regression/): Night waking around 12 months is usually driven by walking, separation anxiety and a nap transition that is not ready ye
+
+## Optional
+- [llms-full.txt](https://learn.actuallysleeping.com/llms-full.txt): full text of every page
