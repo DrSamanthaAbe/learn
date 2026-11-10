@@ -41,7 +41,6 @@ Key facts (as of 2026-11-09):
 - [Which of my medications could affect my breastfed baby’s sleep?](https://actuallysleepingllc.com/guides/medications-while-breastfeeding-and-infant-sleep/): Most medications are compatible with breastfeeding, but a handful that reach milk can make a baby drowsier or more restl
 - [How do a baby’s sleep cycles and circadian rhythm develop?](https://actuallysleepingllc.com/guides/how-infant-sleep-cycles-develop/): Newborns have no day–night rhythm and spend about half their sleep in active (REM-like) sleep in short cycles. Between r
 - [Is sleep training safe? What the AAP safe-sleep rules mean for a sleep plan](https://actuallysleepingllc.com/guides/safe-sleep-and-sleep-training/): Yes, when the sleep plan follows the AAP safe-sleep guidance: baby on the back, on a firm flat surface in a crib or bass
-- [Taking Cara Babies vs a 1:1 sleep consultant: which should you choose?](https://actuallysleepingllc.com/guides/taking-cara-babies-vs-1-on-1-sleep-consultant/): Taking Cara Babies is a well-regarded set of self-paced video courses by a pediatric nurse; a 1:1 consultant gives you a
 - [Sleep consultant vs pediatric sleep specialist: which does my baby need?](https://actuallysleepingllc.com/guides/sleep-consultant-vs-pediatric-sleep-specialist/): A pediatric sleep specialist (a physician or psychologist in sleep medicine) diagnoses and treats medical and clinical s
 - [What is the best age to sleep train a baby?](https://actuallysleepingllc.com/guides/best-age-to-sleep-train/): Between about 4 and 6 months is the sweet spot for most babies: sleep cycles have matured, most babies can go long stret
 - [What are the right wake windows by age?](https://actuallysleepingllc.com/guides/wake-windows-by-age/): Roughly 45–90 minutes for newborns, 1.5–2.5 hours at 4–6 months, 2–3.5 hours at 6–9 months, 3–4 hours at 9–12 months, an
@@ -93,6 +92,19 @@ Key facts (as of 2026-11-09):
 - [When should I move my toddler from a crib to a bed?](https://actuallysleepingllc.com/guides/crib-to-toddler-bed-when/): As late as you safely can: ideally close to age 3, when a child can understand and follow a “stay in bed” rule. Move soo
 - [Can I sleep train a premature baby or NICU graduate?](https://actuallysleepingllc.com/guides/sleep-training-a-premature-or-nicu-baby/): Yes, in most cases, once your pediatrician confirms your baby is ready. Use corrected age (counted from the due date, no
 - [Is there a 2 year old sleep regression?](https://actuallysleepingllc.com/guides/2-year-old-sleep-regression/): Yes. Around age 2, often anywhere from 22 to 30 months, many toddlers who slept well start fighting bedtime, refusing th
+- [Is a baby sleep consultant worth it?](https://actuallysleepingllc.com/guides/is-a-baby-sleep-consultant-worth-it/): It is worth it when the thing you are missing is not information but a plan fitted to your baby and someone to adjust it
+- [What does a baby sleep consultant actually do?](https://actuallysleepingllc.com/guides/what-does-a-baby-sleep-consultant-do/): A baby sleep consultant assesses how your baby falls asleep, wakes and naps, writes a plan to change the behavioral part
+- [How do I choose a baby sleep consultant? Questions to ask before you hire](https://actuallysleepingllc.com/guides/how-to-choose-a-baby-sleep-consultant/): Ask every consultant the same questions and compare the answers in writing: Is there a written guarantee and exactly wha
+- [Sleep course vs app vs 1:1 sleep consultant: which is right for my family?](https://actuallysleepingllc.com/guides/sleep-course-vs-app-vs-sleep-consultant/): Pick by how much personalization and live support you need. Books and self-paced courses suit families who follow writte
+- [What are the red flags when hiring a baby sleep consultant?](https://actuallysleepingllc.com/guides/sleep-consultant-red-flags/): Walk away from a consultant who bends AAP safe sleep rules, suggests medication or supplements for sleep, tells you to d
+- [Do sleep consultants use cry it out?](https://actuallysleepingllc.com/guides/do-sleep-consultants-use-cry-it-out/): Some do, many do not, and most use a range of methods. Approaches run from full extinction (cry it out) to graduated che
+- [When is the right time to hire a baby sleep consultant?](https://actuallysleepingllc.com/guides/when-to-hire-a-sleep-consultant/): There are two good moments. In the newborn weeks, for foundations: safe sleep, feeding on cue, a simple routine and real
+- [Can a sleep consultant help with a toddler, or is it too late?](https://actuallysleepingllc.com/guides/sleep-consultant-for-toddlers/): It is not too late. Behavioral sleep methods have been studied in toddlers and young children as well as babies, and the
+- [What should a sleep-training guarantee actually say?](https://actuallysleepingllc.com/guides/sleep-training-guarantee-what-it-should-say/): A real guarantee is written in the agreement, not only in marketing. It names a measurable result (such as hours of nigh
+- [Is online sleep coaching as effective as in-person?](https://actuallysleepingllc.com/guides/online-vs-in-person-sleep-coaching/): There is no trial comparing remote and in-person sleep coaching head to head that we are aware of. A randomized trial of
+- [What credentials should a baby sleep consultant have?](https://actuallysleepingllc.com/guides/sleep-consultant-credentials/): Sleep consulting has no required license. Certifications come from private training programs that set their own standard
+- [How long does it take to see results with a sleep consultant?](https://actuallysleepingllc.com/guides/sleep-consultant-how-long-for-results/): Many families see the first changes within the first week, with more by the second, if the plan is followed consistently
+- [Sleep consultant vs night nurse vs postpartum doula: what’s the difference?](https://actuallysleepingllc.com/guides/sleep-consultant-vs-night-nurse-vs-postpartum-doula/): A night nurse cares for your baby overnight so you can sleep. A postpartum doula supports you and your household in the 
 - [How fast does sleep training work? What 129 families reported](https://actuallysleepingllc.com/guides/how-fast-does-sleep-training-work-129-family-reviews/): In 129 client video reviews of Actually Sleeping, 115 parents said how many nights it took to see the change they descri
 
 ## Optional
@@ -121,7 +133,7 @@ Graduation. Seven sleep-throughs, then 14+ consecutive nights of 8–12 hours.
 The method is not “cry it out” and not “wait it out.” It is a written plan plus daily human accountability. Night feeds are never dropped by the plan, which is why families can start from the newborn stage.
 Who it is for
 Parents of babies and toddlers from newborn to 3 years — commonly babies waking three to six times a night, contact nappers, babies fed or rocked to sleep, reflux babies, NICU graduates, twins, 4-month and 12-month regressions, and toddlers newly in a bed.
-Most-asked questionsHow do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the best age to sleep train a baby?How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Is it the 4 month sleep regression or a real sleep problem?What are the right wake windows by age?Which sleep training method is gentlest? Methods comparedDoes sleep training work? What the research saysShould I hire a baby sleep consultant?Is melatonin safe for babies and toddlers?How do I stop contact napping?All 69 guides · 52 questions about working with us · 129 client reviews by age and situation
+Most-asked questionsHow do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the best age to sleep train a baby?How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Is it the 4 month sleep regression or a real sleep problem?What are the right wake windows by age?Which sleep training method is gentlest? Methods comparedDoes sleep training work? What the research saysShould I hire a baby sleep consultant?Is melatonin safe for babies and toddlers?How do I stop contact napping?All 81 guides · 52 questions about working with us · 129 client reviews by age and situation
 Verify it yourself
 129 client video reviews on actuallysleeping.com, organized by baby age (read excerpts here).
 Independent, purchase-verified reviews on Feefo — 5.0/5 from 73 reviews in the past 12 months (as of 2026-11-09).
@@ -313,7 +325,7 @@ Dr. Samantha Abrahamson, PharmD
 Dr. Samantha Abrahamson is a Doctor of Pharmacy (Duquesne University, 2017), a Pennsylvania-licensed pharmacist (NPI 1730650979), and the founder of Actually Sleeping. She writes every client’s sleep plan and reviews every guide published here.
 Her full profile, credentials and official links are on her personal site, samanthaabrahamson.com.
 Guides reviewed by Dr. Sam
-How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?Is it the 4 month sleep regression or a real sleep problem?Should I hire a baby sleep consultant?How do I break the feed-to-sleep association?Why is my 12 month old suddenly waking at night?Is melatonin safe for babies and toddlers?Does teething medicine help a baby sleep?Which over-the-counter medicines affect a baby’s sleep?Do reflux medications help a baby sleep?Does my caffeine affect my breastfed baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?How do a baby’s sleep cycles and circadian rhythm develop?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planTaking Cara Babies vs a 1:1 sleep consultant: which should you choose?Sleep consultant vs pediatric sleep specialist: which does my baby need?What is the best age to sleep train a baby?What are the right wake windows by age?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?Why does my baby wake at 5 a.m., and how do I fix it?Why does my baby only nap for 30 minutes, and how do I lengthen naps?My toddler won’t stay in bed. How do I fix it?Why is my 8, 9 or 10 month old suddenly waking at night?Is the 18 month sleep regression real, and what do I do about it?How do you sleep train twins?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the Ferber method, and does it work?What is cry it out (extinction), and is it safe?What is the chair method of sleep training?Does the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is bedtime fading?Can I sleep train and keep breastfeeding?Can I sleep train while room-sharing?Does sleep training work? What the research saysSleep training isn’t working. What should I do?What is a realistic newborn sleep schedule (0–8 weeks)?What is a good sleep schedule for a 2 month old?What is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 4 month old?What is a good sleep schedule for a 5 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 10 or 11 month old?What is a good sleep schedule for a 12 month old?What is a good sleep schedule for an 18 month old?What is a good sleep schedule for a 2 year old?When and how do I night wean my baby?Does a dream feed help a baby sleep longer?Is the pacifier helping or hurting my baby’s sleep?When and how do I stop swaddling?Why does my baby wake 30–45 minutes after bedtime?Why is my baby awake for hours in the middle of the night?My baby will only sleep on me, not in the crib or bassinet. What do I do?Why does my overtired baby fight sleep?How do I handle daycare naps when sleep training?How do I keep my baby sleeping while traveling or changing time zones?How do I adjust my baby’s sleep for daylight saving time?My baby’s sleep fell apart after being sick. How do I get back on track?How do I handle separation anxiety at bedtime?When should I move my toddler from a crib to a bed?Can I sleep train a premature baby or NICU graduate?Is there a 2 year old sleep regression?How fast does sleep training work? What 129 families reported
+How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?Is it the 4 month sleep regression or a real sleep problem?Should I hire a baby sleep consultant?How do I break the feed-to-sleep association?Why is my 12 month old suddenly waking at night?Is melatonin safe for babies and toddlers?Does teething medicine help a baby sleep?Which over-the-counter medicines affect a baby’s sleep?Do reflux medications help a baby sleep?Does my caffeine affect my breastfed baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?How do a baby’s sleep cycles and circadian rhythm develop?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planSleep consultant vs pediatric sleep specialist: which does my baby need?What is the best age to sleep train a baby?What are the right wake windows by age?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?Why does my baby wake at 5 a.m., and how do I fix it?Why does my baby only nap for 30 minutes, and how do I lengthen naps?My toddler won’t stay in bed. How do I fix it?Why is my 8, 9 or 10 month old suddenly waking at night?Is the 18 month sleep regression real, and what do I do about it?How do you sleep train twins?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the Ferber method, and does it work?What is cry it out (extinction), and is it safe?What is the chair method of sleep training?Does the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is bedtime fading?Can I sleep train and keep breastfeeding?Can I sleep train while room-sharing?Does sleep training work? What the research saysSleep training isn’t working. What should I do?What is a realistic newborn sleep schedule (0–8 weeks)?What is a good sleep schedule for a 2 month old?What is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 4 month old?What is a good sleep schedule for a 5 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 10 or 11 month old?What is a good sleep schedule for a 12 month old?What is a good sleep schedule for an 18 month old?What is a good sleep schedule for a 2 year old?When and how do I night wean my baby?Does a dream feed help a baby sleep longer?Is the pacifier helping or hurting my baby’s sleep?When and how do I stop swaddling?Why does my baby wake 30–45 minutes after bedtime?Why is my baby awake for hours in the middle of the night?My baby will only sleep on me, not in the crib or bassinet. What do I do?Why does my overtired baby fight sleep?How do I handle daycare naps when sleep training?How do I keep my baby sleeping while traveling or changing time zones?How do I adjust my baby’s sleep for daylight saving time?My baby’s sleep fell apart after being sick. How do I get back on track?How do I handle separation anxiety at bedtime?When should I move my toddler from a crib to a bed?Can I sleep train a premature baby or NICU graduate?Is there a 2 year old sleep regression?Is a baby sleep consultant worth it?What does a baby sleep consultant actually do?How do I choose a baby sleep consultant? Questions to ask before you hireSleep course vs app vs 1:1 sleep consultant: which is right for my family?What are the red flags when hiring a baby sleep consultant?Do sleep consultants use cry it out?When is the right time to hire a baby sleep consultant?Can a sleep consultant help with a toddler, or is it too late?What should a sleep-training guarantee actually say?Is online sleep coaching as effective as in-person?What credentials should a baby sleep consultant have?How long does it take to see results with a sleep consultant?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?How fast does sleep training work? What 129 families reported
 Review standards are described in our editorial and review policy.
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -509,17 +521,17 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 
 ---
 
-# 69 baby sleep guides from Actually Sleeping
+# 81 baby sleep guides from Actually Sleeping
 URL: https://actuallysleepingllc.com/guides/
 
-Baby sleep guides69 direct answers to the questions parents actually ask about baby and toddler sleep, each reviewed by Dr. Samantha Abrahamson, PharmD. Start with how to sleep train a baby.
+Baby sleep guides81 direct answers to the questions parents actually ask about baby and toddler sleep, each reviewed by Dr. Samantha Abrahamson, PharmD. Start with how to sleep train a baby.
 Start hereHow long does sleep training take?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planWhat is the best age to sleep train a baby?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?Does sleep training work? What the research says
 Sleep training methodsWhat is the Ferber method, and does it work?What is cry it out (extinction), and is it safe?What is the chair method of sleep training?Does the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is bedtime fading?Can I sleep train and keep breastfeeding?Can I sleep train while room-sharing?Sleep training isn’t working. What should I do?How fast does sleep training work? What 129 families reported
 Sleep schedules by ageWhat are the right wake windows by age?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?What is a realistic newborn sleep schedule (0–8 weeks)?What is a good sleep schedule for a 2 month old?What is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 4 month old?What is a good sleep schedule for a 5 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 10 or 11 month old?What is a good sleep schedule for a 12 month old?What is a good sleep schedule for an 18 month old?What is a good sleep schedule for a 2 year old?
 Common sleep problemsWhy does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?How do I break the feed-to-sleep association?Why does my baby wake at 5 a.m., and how do I fix it?Why does my baby only nap for 30 minutes, and how do I lengthen naps?My toddler won’t stay in bed. How do I fix it?How do you sleep train twins?When and how do I night wean my baby?Does a dream feed help a baby sleep longer?Is the pacifier helping or hurting my baby’s sleep?When and how do I stop swaddling?Why does my baby wake 30–45 minutes after bedtime?Why is my baby awake for hours in the middle of the night?My baby will only sleep on me, not in the crib or bassinet. What do I do?Why does my overtired baby fight sleep?How do I handle daycare naps when sleep training?How do I keep my baby sleeping while traveling or changing time zones?How do I adjust my baby’s sleep for daylight saving time?My baby’s sleep fell apart after being sick. How do I get back on track?How do I handle separation anxiety at bedtime?When should I move my toddler from a crib to a bed?
 RegressionsIs it the 4 month sleep regression or a real sleep problem?Why is my 12 month old suddenly waking at night?Why is my 8, 9 or 10 month old suddenly waking at night?Is the 18 month sleep regression real, and what do I do about it?Is there a 2 year old sleep regression?
 Medications and safety (pharmacist-reviewed)Is melatonin safe for babies and toddlers?Does teething medicine help a baby sleep?Which over-the-counter medicines affect a baby’s sleep?Do reflux medications help a baby sleep?Does my caffeine affect my breastfed baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?How do a baby’s sleep cycles and circadian rhythm develop?Can I sleep train a premature baby or NICU graduate?
-Choosing helpShould I hire a baby sleep consultant?Taking Cara Babies vs a 1:1 sleep consultant: which should you choose?Sleep consultant vs pediatric sleep specialist: which does my baby need?Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+Choosing helpShould I hire a baby sleep consultant?Sleep consultant vs pediatric sleep specialist: which does my baby need?Is a baby sleep consultant worth it?What does a baby sleep consultant actually do?How do I choose a baby sleep consultant? Questions to ask before you hireSleep course vs app vs 1:1 sleep consultant: which is right for my family?What are the red flags when hiring a baby sleep consultant?Do sleep consultants use cry it out?When is the right time to hire a baby sleep consultant?Can a sleep consultant help with a toddler, or is it too late?What should a sleep-training guarantee actually say?Is online sleep coaching as effective as in-person?What credentials should a baby sleep consultant have?How long does it take to see results with a sleep consultant?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
 
@@ -543,7 +555,7 @@ Frequently asked
 How long does sleep training take for a 6 month old?Usually 3–7 nights for nights, with naps settling over the following 2–4 weeks. Six months is one of the easier ages because most babies no longer need night feeds and are not yet mobile.
 How long does sleep training take for a toddler?Toddlers in a crib respond in about the same time as babies. Toddlers in a bed take longer because they can leave the room; expect 1–2 weeks of consistent boundaries.
 Is it normal for sleep training to take 3 weeks?For naps, yes. For nights, three weeks without progress usually means something in the plan or the consistency needs to change, which is exactly where daily coaching earns its keep.
-Related guidesIs sleep training safe? What the AAP safe-sleep rules mean for a sleep planDoes sleep training work? What the research saysHow do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the best age to sleep train a baby?
+Related guidesIs sleep training safe? What the AAP safe-sleep rules mean for a sleep planDoes sleep training work? What the research saysHow long does it take to see results with a sleep consultant?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -676,7 +688,7 @@ Frequently asked
 Are sleep consultants worth the money?If you have already tried a consistent approach and it failed, usually yes: the cost is weeks of lost sleep for the whole family. If you have not, try one free method consistently first.
 What is the difference between a sleep consultant and a sleep coach?Nothing regulated. Neither is a licensed title. Judge the person by credentials, process, support and whether results are guaranteed.
 Can a sleep consultant help with naps?Yes, and naps are where coaching matters most because they take longest and tempt parents to give up.
-Related guidesTaking Cara Babies vs a 1:1 sleep consultant: which should you choose?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep training isn’t working. What should I do?When should I move my toddler from a crib to a bed?What are the right wake windows by age?
+Related guidesWhen is the right time to hire a baby sleep consultant?What credentials should a baby sleep consultant have?How do I choose a baby sleep consultant? Questions to ask before you hireWhat does a baby sleep consultant actually do?What should a sleep-training guarantee actually say?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -944,35 +956,6 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 
 ---
 
-# Taking Cara Babies vs a 1:1 sleep consultant: which should you choose?
-URL: https://actuallysleepingllc.com/guides/taking-cara-babies-vs-1-on-1-sleep-consultant/
-
-Taking Cara Babies vs a 1:1 sleep consultant: which should you choose?
-Taking Cara Babies is a well-regarded set of self-paced video courses by a pediatric nurse; a 1:1 consultant gives you a plan written for your baby and a human adjusting it with you. Choose the course if you have not yet tried a consistent approach and your situation is simple. Choose 1:1 coaching if a course did not work, your baby has complicating factors, or you need someone there on the hard nights.
-Fair comparison
-Taking Cara Babies (courses)1:1 coaching (e.g., Actually Sleeping)
-FormatPre-recorded video classes by age, PDFs, email tipsIntake, custom written plan, live Night 1, daily check-ins
-PersonalizationBy age band; you adapt itWritten for your baby by Dr. Sam
-SupportCommunity and periodic email; no individual coaching includedDaily human replies, adjustments as the baby responds
-NapsCovered in course contentCoached until solid, no time limit
-GuaranteeNone on outcome8–12 hours within 14 days or a full refund (Terms of Service)
-PricingPublished on their siteCustom to your baby; set on the free consultation
-Best forFirst attempt, straightforward baby, self-directed parentsFailed attempts, reflux/NICU/twins/toddler-in-bed, parents who need accountability
-Where the course is the right answer
-If you have never followed one method consistently for a week, start there. Many babies respond to consistency alone, and the course is sound. Doing it properly also makes any later coaching faster, because the easy problems are already solved.
-Where it tends to fall short
-The course cannot see your baby. When night 3 goes badly, you are interpreting a PDF at 2 a.m. and deciding alone whether to hold the line or change something. That decision is where most self-directed attempts fail, and it is the entire job of a coach.
-A reasonable sequence
-Course first if you are starting from zero. If a week of consistent effort has not worked, stop iterating alone and get a plan built for your baby. Families often come to Actually Sleeping having “done Taking Cara Babies”; the course was fine, the baby needed more.
-Frequently asked
-Can I do Taking Cara Babies and hire a consultant?Yes, and many families do in that order. A coach will build on what you already know.
-Is Taking Cara Babies gentle?Its methods range from newborn soothing to a check-in approach for older babies. Reasonable people disagree on labels; consistency matters more than the label.
-Does Actually Sleeping use the same methods?The plan is built for the baby rather than from a fixed method. It is not cry-it-out and not wait-it-out; it is a written plan with daily human accountability.
-Related guidesSleep consultant vs pediatric sleep specialist: which does my baby need?Should I hire a baby sleep consultant?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?How do you sleep train twins?Sleep training isn’t working. What should I do?
-Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
-
----
-
 # Sleep consultant vs pediatric sleep specialist: which does my baby need?
 URL: https://actuallysleepingllc.com/guides/sleep-consultant-vs-pediatric-sleep-specialist/
 
@@ -998,7 +981,7 @@ Frequently asked
 Is a sleep consultant a medical professional?Usually not. Some have clinical backgrounds (nursing, pharmacy, psychology), but the role itself is coaching, not diagnosis or treatment.
 Can a sleep consultant diagnose sleep apnea?No. That requires a physician and often a sleep study. A consultant should refer you back to your pediatrician if they hear snoring or breathing pauses.
 My pediatrician said ‘they’ll grow out of it.’ Now what?Many do, eventually. If the waiting is costing your health or work, behavioral coaching is reasonable for a healthy baby over about 4 months.
-Related guidesTaking Cara Babies vs a 1:1 sleep consultant: which should you choose?Should I hire a baby sleep consultant?Which over-the-counter medicines affect a baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?Which sleep training method is gentlest? Methods compared
+Related guidesSleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?When is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?What are the red flags when hiring a baby sleep consultant?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -1087,7 +1070,7 @@ Frequently asked
 My 12 month old refuses the second nap. Is it time for one nap?Usually not. Twelve months is a regression age; most toddlers still need two naps until 14–18 months. Hold the schedule for two weeks before deciding.
 How long should the single nap be?Typically 2–3 hours once established, usually starting around midday.
 When do toddlers stop napping entirely?Most between 3 and 5 years. Keep a quiet rest time after the nap goes.
-Related guidesWhat is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 2 year old?What is a good sleep schedule for a 2 month old?Taking Cara Babies vs a 1:1 sleep consultant: which should you choose?Why does my baby only nap for 30 minutes, and how do I lengthen naps?
+Related guidesWhat is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 2 year old?What is a good sleep schedule for a 2 month old?Why does my baby only nap for 30 minutes, and how do I lengthen naps?How do I handle daycare naps when sleep training?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -1242,11 +1225,11 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/how-to-sleep-train-a-baby/
 
 How do I sleep train my baby? A step-by-step guide
-Sleep training means teaching a baby to fall asleep in the crib without being fed, rocked or held to sleep, so they can link sleep cycles on their own overnight. Most babies are ready between 4 and 6 months; you spend about a week fixing the schedule, routine and room, pick one method you can carry out the same way every time, and hold it for 2 weeks. Nights usually improve within 3 to 7 nights; naps take 1 to 3 weeks.
+Sleep training means teaching a baby to fall asleep in the crib without being fed, rocked or held to sleep, so they can link sleep cycles on their own overnight. Many families start between 4 and 6 months, once regular sleep cycles have developed. You spend about a week fixing the schedule, routine and room, pick one method you can carry out the same way every time, and hold it for 2 weeks. In practice nights often improve within a week; naps take longer.
 Your pediatrician is the authority on your child’s health. Confirm growth, night-feed needs and any medical concerns with them before changing how your baby sleeps.
 Step 1: Check readiness
 Start when every line below is true. If one is not, fix that first.
-Age: at least 4 months (corrected age for babies born early). Before that, shape habits gently rather than train; see the best age to sleep train.
+Age: at least 4 months (corrected age for babies born early). The AAP’s parent site notes that babies do not have regular sleep cycles until about 4 months, and from that age suggests putting babies down before they are asleep so they learn to fall asleep on their own. Before that, shape habits gently rather than train; see the best age to sleep train.
 Health: growing well, no current illness, and your pediatrician has told you how many night feeds your baby still needs.
 Safe sleep space: on the back, on a firm, flat mattress in an empty crib or bassinet. No inclines, wedges, positioners, bumpers or loose blankets. Swaddle off once there are signs of rolling.
 Calendar: 2 weeks with no travel, house move, new childcare or visitors sleeping in the baby’s room.
@@ -1267,8 +1250,9 @@ Extinction (cry it out)Leave awake; do not return except for planned feeds and s
 Chair methodSit beside the crib and move the chair out over about 2 weeks1–3 weeksParents who want to stay in the room; older babies and toddlers
 Pick up, put downPick up to calm, put down awake, repeat1–3 weeksYounger babies, roughly 3–6 months
 Bedtime fadingMove bedtime later to match real sleep onset, then walk it earlier1–3 weeksLong bedtime battles; often paired with another method
-A side-by-side view is in methods compared.
+The times in this table are typical ranges from practice when a method is applied consistently, not results from a trial. A side-by-side view is in methods compared.
 Step 4: Night by night
+This is a common pattern, not a research finding. Your baby may move faster or slower.
 Night 1. Routine, then into the crib fully awake. Expect the longest protest of the process, commonly 30 to 60 minutes and sometimes longer. Respond exactly as your method says. Treat night wakings the same way, apart from planned feeds.
 Night 2. Often similar or a little shorter. Occasionally worse than night 1.
 Night 3. Usually a clear drop in time to fall asleep. Some babies have a late surge here (an “extinction burst”) just before things settle.
@@ -1288,10 +1272,10 @@ When to get help
 Stop and call your pediatrician if your baby snores or gasps in sleep, seems to be in pain, is feeding poorly, or is not gaining weight. If your baby is healthy and you have been fully consistent for 7 to 10 nights without clear progress, the plan needs changing, not more effort; see what to do when sleep training is not working. That is also the point where 1:1 coaching earns its place. At Actually Sleeping, Dr. Sam writes a custom plan for your baby, is on live support on Night 1, checks in daily, and coaches naps until they are solid. The approach is not cry it out and not wait it out. See how it works.
 Frequently asked
 What is the easiest sleep training method?There is no single easiest method. Timed checks are the simplest to follow because the script is clear; the chair method feels easier emotionally for many parents but takes longer and demands more patience. The easiest one is the one both caregivers can repeat the same way every night.
-How long does it take to sleep train a baby?Nights usually improve within 3 to 7 nights with check-based methods and 1 to 3 weeks with gradual, parent-present methods. Naps typically take 1 to 3 weeks. Plan on 2 weeks of consistency.
+How long does it take to sleep train a baby?As a rule of thumb from practice, nights often improve within about a week with check-based methods and over 1 to 3 weeks with gradual, parent-present methods. Naps usually take longer. Plan on 2 weeks of consistency.
 Do I have to stop night feeds to sleep train?No. Sleep training teaches falling asleep independently; night weaning is a separate decision. Keep the feeds your pediatrician says your baby needs and apply your method to the other wakings.
 Can I sleep train without letting my baby cry?You can choose methods where you stay with your baby and respond throughout, which usually means less intense crying. No method can promise zero protest, because any change to how a baby falls asleep is frustrating at first.
-ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.Paruthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.Mindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.
+ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.Paruthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.Mindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.HealthyChildren.org (AAP). Getting Your Baby to Sleep.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.
 Related guidesWhat is the best age to sleep train a baby?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planHow do I get my baby to sleep through the night?How long does sleep training take?Does sleep training work? What the research says
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -1422,7 +1406,7 @@ Does cry it out cause attachment problems?Studies that measured attachment and t
 Can I do cry it out at 4 months?Most pediatric guidance points to about 6 months for extinction, because many 4-month-olds still need night feeds. Gentler shaping and gradual methods fit better at 4 months. Ask your pediatrician.
 What if my baby vomits from crying?Go in, clean up calmly with the lights low, offer comfort briefly, and put your baby back down awake. If it happens more than once, pause and talk to your pediatrician, and consider a method with more parental presence.
 ReferencesMindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.Price AM, et al. Five-year follow-up of harms and benefits of behavioral infant sleep intervention: randomized trial. Pediatrics. 2012.Gradisar M, et al. Behavioral Interventions for Infant Sleep Problems: A Randomized Controlled Trial. Pediatrics. 2016.American Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.
-Related guidesDoes the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is the Ferber method, and does it work?What is the chair method of sleep training?Can I sleep train while room-sharing?
+Related guidesDoes the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is the Ferber method, and does it work?What is the chair method of sleep training?Do sleep consultants use cry it out?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -3054,6 +3038,570 @@ Should I move my 2 year old to a bed during the regression?No, unless there is a
 Why is my 2 year old suddenly scared at bedtime?Imagination develops quickly around this age and fears come with it. Acknowledge the fear briefly, offer a dim night light, and keep the routine and response the same.
 ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.
 Related guidesWhy is my 8, 9 or 10 month old suddenly waking at night?Is it the 4 month sleep regression or a real sleep problem?Is the 18 month sleep regression real, and what do I do about it?Why is my 12 month old suddenly waking at night?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Is a baby sleep consultant worth it?
+URL: https://actuallysleepingllc.com/guides/is-a-baby-sleep-consultant-worth-it/
+
+Is a baby sleep consultant worth it?
+It is worth it when the thing you are missing is not information but a plan fitted to your baby and someone to adjust it night by night. It is usually not worth it if you have never tried one consistent approach for a week or more. Behavioral sleep methods work well in research; consistency is where most families struggle.
+What you are actually paying for
+The methods themselves are public. Books, courses and free guides describe them well. A consultant charges for three things a book cannot give you:
+Fit. A plan built from your baby’s age, feeding, naps, room, temperament and your own limits, instead of an age-band template.
+Adjustment. When night 3 looks different from night 2, someone who has seen the pattern before tells you what to change and what to leave alone.
+Accountability. Knowing you will report to a person tomorrow makes it easier to follow the plan at 2 a.m.
+What the research says about the methods
+An American Academy of Sleep Medicine review of 52 treatment studies found that 94% reported behavioral interventions for bedtime problems and night waking were effective, with over 80% of children treated showing clinically significant improvement, maintained for 3 to 6 months. That is evidence that the approaches work. It is not evidence that you need to hire anyone to use them. No trial has tested paid consultants against doing it yourself.
+It is often worth it when
+You tried a book or course, followed it for at least a week, and sleep is still broken.
+Your situation has extra moving parts: reflux under treatment, a premature baby, twins, a toddler who leaves the bed, a baby who shares your room.
+You and your partner disagree about what to do at night and need one plan you both trust.
+Sleep loss is affecting your health, your work or your mood, and waiting it out no longer feels acceptable.
+You know yourself: you will follow a plan with a person behind it and abandon one without.
+It is usually not worth it when
+You have not yet tried a single approach consistently. Start with a step-by-step guide and give it a fair week.
+The trouble started this week with a cold, travel or a new tooth. Give it time to pass.
+Your baby has a possible medical issue: loud snoring, pauses in breathing, poor weight gain. See your pediatrician first. Coaching can come after.
+You are happy with how things are. Contact naps and night feeds are not problems unless they are problems for you.
+A fair way to decide
+Write down what you have already tried and for how many nights. If the list is short, try one method properly first. If it is long, the gap is probably fit and follow-through, which is exactly what a consultant sells. Then compare categories honestly: course, app or 1:1 consultant. Each suits a different family.
+Questions that tell you whether a specific consultant is worth it
+Is there a written guarantee, and what exactly does it promise?
+Who writes the plan, and how much live support is included?
+Does the intake ask about feeding, growth and medical history?
+Will they tell you if they do not think they can help?
+The full checklist is in how to choose a sleep consultant.
+How Actually Sleeping handles this: Dr. Sam writes every plan personally. Families get live support on night one, daily 1:1 check-ins, and naps coached until solid. The outcome is guaranteed in writing: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, the family receives a full refund. Pricing is custom to your baby and is set on the free consultation.
+Frequently asked
+Are sleep consultants worth the money?For families who have tried a consistent approach and are still stuck, often yes, because the missing piece is usually fit and follow-through. For families who have not tried anything consistently yet, a free guide followed for a week is the better first step.
+How much does a baby sleep consultant cost?It varies widely by format and by how much live support is included. At Actually Sleeping, pricing is custom to your baby and is set on the free consultation. Compare what is included, not only the total.
+Can I just do it myself?Many families do. The methods are public and well studied. Doing it yourself works best when you pick one method, write it down, and keep it the same every night for at least a week before judging it.
+Is a sleep consultant worth it for a newborn?Only for foundations: safe sleep, feeding on cue, a simple routine and realistic expectations. Newborns should not be sleep trained. Some families value that early guidance; many do fine with a good guide.
+ReferencesMindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.
+Related guidesWhen is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# What does a baby sleep consultant actually do?
+URL: https://actuallysleepingllc.com/guides/what-does-a-baby-sleep-consultant-do/
+
+What does a baby sleep consultant actually do?
+A baby sleep consultant assesses how your baby falls asleep, wakes and naps, writes a plan to change the behavioral parts, and supports you while you carry it out. Good consultants screen for medical red flags and refer you to your pediatrician when they find them. They do not diagnose, prescribe, or make feeding decisions that belong to your pediatrician.
+The usual sequence
+Intake. A questionnaire or call covering age (and corrected age if your baby was born early), how your baby falls asleep, what happens at each waking, feeding, naps, the sleep space, health history and what you have already tried.
+Assessment. The consultant looks for the drivers: a sleep association, a schedule mismatch, an overtired or undertired baby, early morning light, or something that needs a doctor rather than a plan.
+The plan. A written document covering the bedtime routine, the schedule, how you respond to wakings, how night feeds are handled (with your pediatrician’s input), and how naps will be approached.
+Support while you do it. This is where formats differ most. Some consultants offer one call and a follow-up email. Others reply daily, or are available in real time on the first night.
+Adjustment. Babies rarely follow the script exactly. The consultant reads your notes or sleep log and changes timing or responses as needed.
+Wrap-up. Guidance for what comes next: nap transitions, illness, travel, a new sibling.
+What a consultant should not do
+Diagnose. Snoring, breathing pauses, poor weight gain, reflux symptoms and suspected allergies belong with your pediatrician. See sleep consultant vs pediatric sleep specialist.
+Recommend medication or supplements for sleep. Questions about medicines go to your pediatrician or pharmacist.
+Override your pediatrician on feeding. Whether your baby still needs night feeds is a growth and health question.
+Bend safe sleep rules. The AAP advises a firm, flat, non-inclined surface, on the back, without soft bedding, and says weighted swaddles and weighted objects on or near the baby are not safe. A plan should never work around these.
+What it is like for you
+You still do the nights. A consultant does not usually come to your home and put your baby down; you do it, following the plan, and report what happened. That is deliberate. Your baby is learning to fall asleep with you as the parent in the room, and you are learning what to do the next time sleep goes sideways.
+Expect to keep a simple log for the first week or two: when your baby went down, how long it took to fall asleep, each waking and what you did. The log is what lets a consultant adjust the plan instead of guessing.
+What a consultant brings that a book does not
+Pattern recognition. Someone who has worked with many babies can often tell from a short description whether an early waking is a schedule problem or a light problem, or whether night 4’s setback is normal. The value is less in knowing the method and more in knowing which detail to change.
+How formats differ
+ElementLighter-touch formatsHigher-support formats
+PlanAge-based template, lightly editedWritten from scratch for your baby
+First nightYou are on your ownLive support while you do it
+Follow-upOne call or a few emailsDaily check-ins
+NapsGeneral adviceCoached until they are reliable
+How Actually Sleeping handles this: The plan is written personally by Dr. Sam from a detailed intake. A coach supports you live on night one, the team checks in with you 1:1 every day, and naps are coached until solid. The approach is not cry it out and not wait it out.
+Frequently asked
+Does a sleep consultant come to my house?Most work remotely by video, phone and messaging. Some offer in-home visits. In either case, you are usually the one putting your baby down, because your baby needs to learn to sleep with you, not with a visitor.
+Is a sleep consultant the same as a sleep coach?In practice, yes. Neither title is a licensed profession, and people use them interchangeably. Judge the person by their process, support, credentials and what they put in writing, not by the title.
+Will a sleep consultant make me stop night feeds?A good one will not decide that for you. Whether your baby still needs to eat at night is a question for your pediatrician, based on age and growth. A plan can teach independent sleep while keeping feeds.
+What information should I have ready for a sleep consultant?A few days of notes on bedtime, wakings, feeds and naps, your baby’s birth date and due date, any health history, and a clear list of what you have already tried and for how long.
+ReferencesHealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing. 2022.
+Related guidesWhen is the right time to hire a baby sleep consultant?What should a sleep-training guarantee actually say?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# How do I choose a baby sleep consultant? Questions to ask before you hire
+URL: https://actuallysleepingllc.com/guides/how-to-choose-a-baby-sleep-consultant/
+
+How do I choose a baby sleep consultant? Questions to ask before you hire
+Ask every consultant the same questions and compare the answers in writing: Is there a written guarantee and exactly what does it say? Who writes the plan? What are their credentials? How much live support, for how long? What method, and how much crying? What ages do they work with? How are their reviews verified? Vague answers are an answer.
+The questions
+1. Is there a written guarantee, and what exactly does it say?
+Ask to see the wording. A useful guarantee names a measurable outcome (for example, hours of night sleep), a time frame, what you have to do to qualify, and what happens if it is not met (a refund, or something else). “We guarantee you’ll be happy” or “support until it works” are not outcome guarantees. Many consultants offer none, which is fine as long as they are clear about it. More detail: what a sleep-training guarantee should say.
+2. Who writes the plan?
+A named person reading your intake, or an age-based template with your baby’s name added? Ask: “If two families with 6-month-olds came to you this week, how different would their plans be?”
+3. What are their credentials?
+Sleep consulting has no required license. Ask which training they completed, whether they hold any licensed health care credential, and what that credential does and does not cover. See what credentials a sleep consultant should have.
+4. How much live support, and for how long?
+Is someone available in real time on the first night?
+How often do they check in after that: daily, every few days, weekly?
+Through what channel, and how fast do they reply?
+Does support end on a fixed date, or when sleep is solid? Are naps included?
+5. What method do they use, and is crying involved?
+Ask them to describe night one in plain words: where you are, what you do when your baby cries, and how long before you go in. Most changes to sleep involve some protest crying, because your baby is learning something new. The honest answer describes how much, and what you do about it. Be wary of “no tears, ever” and of an approach that does not fit your limits. See do sleep consultants use cry it out.
+6. What ages do they work with?
+Ask what they do with a newborn (foundations, not training), with a 4-month-old, and with a toddler in a big bed. A consultant who works across ages should explain how the plan changes with each.
+7. How are their reviews verified?
+Testimonials on a website are chosen by the business. Ask whether reviews are from real, identifiable clients (video reviews help), whether any are collected by an independent service that confirms each reviewer was a paying client, and how recent they are.
+Four more questions worth asking
+What does your intake ask about health? Look for questions on growth, feeding, reflux, prematurity, snoring and breathing.
+How do you handle night feeds? The right answer defers to your pediatrician.
+Do your plans follow AAP safe sleep guidance? Back to sleep, firm flat surface, nothing soft or weighted in the sleep space.
+Have you ever told a family you could not help them? A consultant who screens is a consultant who expects to deliver.
+Make the comparison easy
+Put each consultant’s answers in a simple table. Differences in support and guarantees tend to matter more than differences in method.
+How Actually Sleeping handles this: The guarantee is written into the Terms of Service: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” Full refund if not. Dr. Sam (Dr. Samantha Abrahamson, PharmD, a Pennsylvania-licensed pharmacist) writes every plan. There is live support on night one, daily 1:1 check-ins, and naps are coached until solid. It is not cry it out and not wait it out. The practice works with families from newborn to 3 years. Its 129 client video reviews are at actuallysleeping.com/reviews.
+Frequently asked
+What is the most important question to ask a sleep consultant?Ask how much live support you get and for how long. Most plans fail on nights 2 to 5, when something unexpected happens. A consultant you can reach then matters more than the method named on the website.
+Should I ask for references?You can. More useful is a set of reviews you can check: video reviews from identifiable families, or reviews collected by an independent service that confirms each reviewer paid. Ask how recent they are.
+Is it a red flag if a consultant has no guarantee?Not by itself. Many good consultants do not guarantee outcomes. It is a red flag if a consultant implies a guarantee in marketing but cannot show you the written wording.
+Should both parents be on the consultation call?If you can manage it, yes. Both parents usually handle nights at some point, and a plan works best when both of you have heard the reasoning and agreed to it before night one.
+ReferencesHealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing. 2022.
+Related guidesWhen is the right time to hire a baby sleep consultant?Should I hire a baby sleep consultant?What does a baby sleep consultant actually do?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep course vs app vs 1:1 sleep consultant: which is right for my family?
+URL: https://actuallysleepingllc.com/guides/sleep-course-vs-app-vs-sleep-consultant/
+
+Sleep course vs app vs 1:1 sleep consultant: which is right for my family?
+Pick by how much personalization and live support you need. Books and self-paced courses suit families who follow written instructions well. Apps suit families who want tracking and suggestions. Group programs add peer support. A 1:1 consultant suits families with a complicated situation or a failed attempt behind them. A night nurse is overnight newborn care, not sleep teaching.
+The categories side by side
+CategoryWhat you getWho adjusts the planLive supportUsually fitsWatch for
+Book or free guide (DIY)Explanation of methods and schedulesYouNoneConfident, consistent parents with a straightforward babyMixing methods from several sources
+AppSleep logging, schedule or nap suggestions, sometimes chatAn algorithm, or youVaries; often limitedParents who like data and want help with timingSuggestions are only as good as what you log; tracking is not teaching
+Self-paced courseVideos and written steps by ageYouUsually none, or an online communityFamilies who want structure and a clear method at their own paceAge-band templates may not fit your baby
+Group programCourse material plus group calls or a moderated groupYou, with general inputScheduled, sharedFamilies who want company and some expert accessYour question competes with everyone else’s
+1:1 sleep consultantIndividual plan and ongoing supportThe consultant, from your daily notesRanges from one call to daily check-ins and live first-night helpComplex situations, failed attempts, parents who want accountabilitySupport levels and guarantees vary a lot; ask exactly what is included
+Night nurse or overnight newborn careA person who cares for your baby overnightNot applicableIn person, overnightNewborn weeks, recovery from birth, multiplesRest for you, but it does not teach your baby to sleep on their own
+Cost generally rises as personalization and live support increase.
+How to decide
+Start with DIY or a course if
+Your baby is healthy and growing well.
+You have not tried any method consistently yet.
+You and your partner agree on how much crying you can accept.
+You are good at following written steps for a week without improvising.
+Consider an app if
+Timing is your main problem: short naps, an early morning, a bedtime that drifts.
+You will actually log every sleep and waking for a couple of weeks.
+Consider a group program if
+You want a method plus the chance to ask questions, and you do not mind waiting for an answer.
+Other parents going through the same thing keep you going.
+Consider a 1:1 consultant if
+You tried a course or book correctly for at least a week and it did not work.
+There are complicating factors: reflux under treatment, prematurity, twins, room sharing, a toddler out of the crib, daycare naps.
+You know you will give up at 2 a.m. without someone to check in with.
+Consider overnight newborn care if
+You need sleep yourself in the first weeks and your baby is too young for sleep teaching.
+You are recovering from a difficult birth or caring for multiples.
+Combining them
+Categories are not exclusive. Many families read a book first, then hire a consultant when they get stuck. Some use overnight newborn care early and add a consultant for foundations or for training later. A good consultant will build on what you already know rather than starting over.
+The evidence applies to all of them
+The behavioral methods behind every category are well studied. An AASM review of 52 studies found 94% reported behavioral interventions effective. A randomized trial of a fully online, self-directed program for children 6 to 36 months found fewer and shorter night wakings and faster sleep onset within three weeks. Format affects how easy it is to stay consistent; the methods are the same.
+How Actually Sleeping handles this: Actually Sleeping is a 1:1 option at the higher-support end: a plan written by Dr. Sam, live support on night one, daily 1:1 check-ins, and naps coached until solid, with a written refund-backed guarantee. It is a fit for families who want that level of support; for many families a good book or course is enough.
+Frequently asked
+Is a sleep course as good as a sleep consultant?For a straightforward situation and a consistent family, a course can work well, because the underlying methods are the same. A consultant adds a plan fitted to your baby and someone to adjust it when things do not go as described.
+Do baby sleep apps work?They can help with timing and with seeing patterns, because logging shows you what is really happening. Tracking alone does not change how your baby falls asleep. Pair an app with a clear plan.
+Can I start with a course and hire a consultant later?Yes, and many families do exactly that. Bring your notes on what you tried and for how many nights. It saves time and shows the consultant where the plan broke down.
+What is the cheapest way to sleep train?A free, reputable guide followed consistently. The methods are public and well studied. Pick one, write down exactly what you will do, and keep it the same for at least a week. Spend money when you need personalization or live support, not before.
+ReferencesMindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.Mindell JA, et al. Efficacy of an Internet-Based Intervention for Infant and Toddler Sleep Disturbances. Sleep. 2011.
+Related guidesSleep consultant vs pediatric sleep specialist: which does my baby need?When is the right time to hire a baby sleep consultant?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?What does a baby sleep consultant actually do?What are the red flags when hiring a baby sleep consultant?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# What are the red flags when hiring a baby sleep consultant?
+URL: https://actuallysleepingllc.com/guides/sleep-consultant-red-flags/
+
+What are the red flags when hiring a baby sleep consultant?
+Walk away from a consultant who bends AAP safe sleep rules, suggests medication or supplements for sleep, tells you to drop night feeds without your pediatrician, diagnoses medical problems, promises results without written terms, will not describe how much crying is involved, or pressures you to sign before you understand what is included.
+Safety red flags (disqualifying)
+Anything that conflicts with safe sleep. The AAP advises that babies sleep on their back, on a firm, flat, non-inclined surface, without soft toys, pillows, blankets or other bedding. It says weighted swaddles, weighted clothing and weighted objects on or near the baby are not safe, and it advises against commercial devices that claim to reduce the risk of SIDS. A plan that uses any of these, or that props or inclines a baby, is not a plan to follow.
+Medication or supplement suggestions for sleep. Melatonin, antihistamines and “natural” sleep products are not a coaching tool. Questions about medicines go to your pediatrician or pharmacist. See is melatonin safe for babies.
+Dropping night feeds on the consultant’s say-so. Whether a baby still needs to eat at night depends on age and growth, and that is your pediatrician’s call.
+Diagnosing. “It’s silent reflux,” “it’s a tongue tie,” “it’s sleep apnea.” A consultant who hears snoring, breathing pauses or poor weight gain should send you to your pediatrician, not name a condition.
+Sleep training a newborn. Newborn work should be foundations: safe sleep, feeding on cue, a simple routine. Not leaving a newborn to cry and not stretching feeds.
+Honesty red flags
+“Guaranteed” in the ads, nothing in writing. If a result is promised, the exact words should be in the agreement you sign.
+Medical-sounding titles that are not medical. “Sleep doctor” or “pediatric sleep specialist” from someone who is not a physician or a sleep-medicine clinician. Ask what the credential is and who issued it.
+“No tears, ever.” Most babies protest when something about bedtime changes. An honest consultant tells you how much crying to expect and what you will do about it.
+Vague about the method. If they cannot describe night one in plain words, you will be guessing when it arrives.
+Reviews you cannot check. Only first names, no dates, no way to tell whether the reviewer was a client.
+Claims that sound like research but have no source. Ask where a number came from.
+Process red flags
+No health questions at intake. A good intake asks about growth, feeding, reflux, prematurity and breathing.
+The same plan for every baby of the same age. Templates have their place, but then you are buying a course, not a consultant.
+Support that disappears after day one. Ask how often they check in, through what channel, and until when.
+Pressure. “Only two spots left today” or a discount that expires in an hour. You should be able to read the agreement and sleep on it.
+Telling you to stop asking your pediatrician. A consultant works alongside your pediatrician, not instead of them.
+Green flags to look for instead
+A clear, written description of what is included and for how long.
+An intake with real health questions and a willingness to say “check with your pediatrician first.”
+A plain description of how crying is handled, matched to your limits.
+Willingness to tell you if they do not think they can help.
+Reviews from identifiable families, with dates.
+For the full list of questions, see how to choose a sleep consultant.
+Frequently asked
+Is it a red flag if a sleep consultant is not a nurse or doctor?No. Most sleep consultants are not licensed health care providers, and the work is behavioral coaching. It is a red flag if they act like a clinician: diagnosing, suggesting medication, or overriding your pediatrician.
+Should a sleep consultant recommend a specific sleep product?Be cautious. Products that incline the baby, weight the baby, or claim to reduce SIDS risk conflict with AAP guidance. A plain crib or bassinet with a fitted sheet is all a plan should need.
+What if a consultant says my newborn should sleep through the night?That is a red flag. Newborns need to feed at night. Early work should focus on safe sleep, feeding on cue and a simple routine, with night feeds decided by your pediatrician.
+ReferencesHealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing. 2022.
+Related guidesWhen is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Do sleep consultants use cry it out?
+URL: https://actuallysleepingllc.com/guides/do-sleep-consultants-use-cry-it-out/
+
+Do sleep consultants use cry it out?
+Some do, many do not, and most use a range of methods. Approaches run from full extinction (cry it out) to graduated checks, staying in the room, and bedtime fading. Research supports several of these, not only cry it out. Ask any consultant to describe night one in plain words, including how much crying to expect and what you will do.
+The main approaches
+ApproachWhat you doCrying
+Extinction (“cry it out”)Bedtime routine, baby down awake, you do not return until morning or a planned feedMost intense, usually shortest
+Graduated extinction (timed checks)You check in briefly at planned intervals that lengthenLess intense for many parents; still some crying
+Parent in the room (chair or camping out)You stay beside the crib and move further away over daysUsually some protest; lasts longer overall
+Bedtime fadingYou temporarily move bedtime later to when your baby is truly sleepy, then bring it earlierOften less; slower
+Pick up, put down and other hands-on approachesYou comfort with touch or by lifting until calm, then return baby to the cribVaries with baby; can overstimulate some
+More detail on each: cry it out, timed checks, the chair method, bedtime fading, gentle methods compared.
+What the research says
+An American Academy of Sleep Medicine review of 52 studies found strong support for unmodified extinction and extinction with a parent present, clear support for graduated extinction, and support for positive routines with bedtime fading. The review reported no detrimental effects in the studies it examined. A randomized trial of 43 infants aged 6 to 16 months compared graduated extinction and bedtime fading with a sleep-education control. Both methods improved sleep. Infant cortisol and maternal stress fell more in the intervention groups, and at 12 months there were no differences in emotional or behavioral problems or in parent-child attachment.
+So the evidence does not require cry it out. Several approaches with less crying also work. What they have in common is consistency.
+Why “no crying at all” is rarely realistic
+When you change how your baby falls asleep, your baby notices and protests. That protest is communication, not harm, and it usually fades as the new pattern becomes familiar. A consultant who promises zero tears is either describing a baby who was nearly ready anyway or setting you up to feel you failed. A better promise is a clear plan for how you will respond.
+What to ask
+“Describe night one for my baby. Where am I, and what do I do when my baby cries?”
+“How long would my baby cry before I go in, if at all?”
+“Can you adjust the approach if it is too much for us?”
+“What is different for a younger baby versus a toddler?”
+Matching the method to your family
+The best method is the one you will carry out the same way every night. Parents who cannot listen to crying from outside the door often do better staying in the room, even though it takes longer. Parents who find the in-between approaches confusing sometimes prefer a cleaner, faster method. A consultant should ask about this before writing the plan, not after night one.
+How Actually Sleeping handles this: The plan is not cry it out and not wait it out. Dr. Sam writes it around your baby and your limits, a coach supports you live on night one, and daily 1:1 check-ins let the plan be adjusted as your baby responds.
+Frequently asked
+Is cry it out harmful?In the studies reviewed by the AASM, no detrimental effects were reported, and a randomized trial found no differences in emotional or behavioral problems or attachment at 12 months. Many families still prefer other methods, which also work.
+Can sleep training work without any crying?Some babies make the change with very little crying, especially with gradual methods. Most protest at least a little because something familiar changed. Plan for some crying and decide in advance how you will respond.
+Which sleep training method has the least crying?Approaches with a parent in the room and bedtime fading tend to involve less intense crying but take longer. Less crying per night can mean more nights. Consistency matters more than which method you pick.
+Do gentle methods take longer?Usually, yes. Methods where you stay close or change bedtime gradually tend to take more nights than extinction or timed checks. Many families accept that trade for less crying each night.
+ReferencesMindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.Gradisar M, et al. Behavioral Interventions for Infant Sleep Problems: A Randomized Controlled Trial. Pediatrics. 2016.
+Related guidesWhat is cry it out (extinction), and is it safe?When is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?What should a sleep-training guarantee actually say?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# When is the right time to hire a baby sleep consultant?
+URL: https://actuallysleepingllc.com/guides/when-to-hire-a-sleep-consultant/
+
+When is the right time to hire a baby sleep consultant?
+There are two good moments. In the newborn weeks, for foundations: safe sleep, feeding on cue, a simple routine and realistic expectations, with no crying-based training and no stretching of feeds. And later, when sleep has been a problem for more than two weeks and one consistent attempt has not fixed it. Hiring sooner beats waiting for things to break.
+Newborn: foundations, not training
+A newborn should not be sleep trained. That does not mean nothing can be done. The newborn weeks are when habits form, and parents can shape them gently:
+Safe sleep from night one. Back to sleep, firm flat surface, nothing soft or weighted in the crib or bassinet, room sharing without bed sharing, as the AAP recommends.
+Feeding on cue, day and night, with your pediatrician guiding growth.
+Day and night cues. Light and activity in the day, dim and quiet at night.
+A short, repeatable wind-down that becomes your baby’s signal for sleep.
+Some practice in the crib or bassinet when your baby is calm, without any pressure for it to work every time.
+Research supports this kind of early guidance. The AASM review found strong support for parent education delivered prenatally or in the first 6 months, in large studies covering over 1,000 parents. See the newborn sleep schedule.
+Later: when a problem has settled in
+Good signs it is time:
+Sleep has been hard for more than two weeks, and it is not explained by illness, travel or a new tooth.
+Your baby wakes at about the same times every night and needs the same help each time.
+You tried one approach consistently for at least a week and it did not take.
+Sleep loss is affecting your health, work, relationship or mood.
+A transition is coming: return to work, daycare, a new sibling, a move.
+Not yet
+Your baby is sick. Recover first; see sleep after illness.
+Your pediatrician is looking into weight gain, breathing or reflux. Start once you have the all-clear.
+You are about to travel in the next week or two. Start when you have two weeks at home.
+You are not sure you want to change anything. If things work for your family, they work.
+Is it ever too late?
+No. Older babies and toddlers respond well to behavioral plans; they just tend to have more established habits and more opinions. See sleep consultants for toddlers.
+Picking the start date
+Choose a stretch of about two weeks with no travel, visitors or big schedule changes.
+Start on a night when both parents, or a supportive second adult, can be around for the first few nights.
+Many families start on a Friday so the hardest nights fall on a weekend.
+Do the intake a few days ahead so the plan is ready, not rushed.
+Hiring help is not a sign you failed
+Parents often wait until they are exhausted because asking for help feels like giving up. It is not. Most families who get stuck have done many things right and are missing one or two details, or need someone to hold the line with them for a week. Getting help earlier usually means fewer hard nights overall.
+For age-specific guidance, see the best age to sleep train.
+How Actually Sleeping handles this: Actually Sleeping works with families from newborn to 3 years. Newborn plans focus on foundations, and no plan forces dropping night feeds; feeding decisions belong to your pediatrician. The written guarantee (“We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.”) applies from 10 weeks: the 14-day clock starts at your baby’s 10-week birthday.
+Frequently asked
+Can a sleep consultant help with a newborn?Yes, with foundations: safe sleep, feeding on cue, day and night cues and a simple routine. That is guidance, not sleep training. A consultant should never suggest leaving a newborn to cry or stretching feeds.
+Should I wait until the 4 month regression to hire help?You do not have to. Starting foundations earlier can make that period smoother. If sleep has already changed for the worse and stayed that way for more than two weeks, that is a reasonable time to get help.
+Is it better to hire a sleep consultant before going back to work?Often, yes. Give yourself about two weeks at home before your start date so new habits settle before mornings get rushed and daycare naps begin. Starting during the first week back adds stress for everyone.
+Should I hire a consultant while my baby is teething or sick?Wait until your baby is well. Teething can cause a few unsettled nights; illness is a reason to pause. Start when your baby is healthy and you have two calm weeks ahead.
+ReferencesMindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.HealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing. 2022.
+Related guidesSleep course vs app vs 1:1 sleep consultant: which is right for my family?Should I hire a baby sleep consultant?How do I choose a baby sleep consultant? Questions to ask before you hireWhat does a baby sleep consultant actually do?Sleep consultant vs pediatric sleep specialist: which does my baby need?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Can a sleep consultant help with a toddler, or is it too late?
+URL: https://actuallysleepingllc.com/guides/sleep-consultant-for-toddlers/
+
+Can a sleep consultant help with a toddler, or is it too late?
+It is not too late. Behavioral sleep methods have been studied in toddlers and young children as well as babies, and they work. Toddler plans look different: more talking, clear limits, a predictable routine, a plan for leaving the bed, and often a visual cue for morning. Expect more negotiation than with a baby, and fast progress once the rules are consistent.
+What the research covers
+The AASM review of 52 studies covered bedtime problems and night wakings in infants and young children, not only babies. A randomized trial of a self-directed online program enrolled children 6 to 36 months and found faster sleep onset and fewer, shorter night wakings within three weeks. Toddlers can and do change their sleep.
+How toddler sleep problems differ
+BabyToddler
+Wakes needing a feed, rock or pacifierWakes needing you, a drink, another story, your bed
+Protests by cryingProtests by negotiating, stalling, calling out, climbing out
+Cannot understand rulesCan understand simple rules and rewards
+Schedule is about wake windowsSchedule is often about dropping or shortening the nap
+What a good toddler plan includes
+A short, fixed routine, often shown as a picture chart, so the order is not up for debate.
+Limited choices inside the routine: this pajama or that one, this book or that one.
+A plan for curtain calls. One planned extra (a last drink, a last hug), then the same calm response every time.
+A plan for leaving the bed or climbing out. See toddler won’t stay in bed.
+A morning signal, such as a light that changes color, so “is it morning?” has an answer.
+Nap and bedtime timing. Many toddler bedtime battles are a toddler who is not tired yet. See the 2-year-old schedule.
+Daytime practice. Talk about the new plan when everyone is calm, not at bedtime.
+Common toddler situations a consultant sees
+Bed sharing that worked for a while and now does not.
+A move from crib to bed that came too early. See when to move to a toddler bed.
+Bedtimes that stretch past an hour.
+A new sibling, and an older child who suddenly wakes at night.
+Separation anxiety at bedtime. See separation anxiety at bedtime.
+Night waking that started with an illness and never stopped.
+What is harder with a toddler
+Habits are older, so the first few nights can be louder. Toddlers test whether the new rule is real. They also have more ways to delay. The trade-off is that toddlers understand explanations, respond to praise and simple rewards, and can see their own progress on a chart. Many families find toddlers change faster than they feared once both parents respond the same way.
+Getting everyone on the same plan
+Toddlers are quick to notice which adult gives in. Before night one, agree on the exact words and actions for each situation: calling out, getting up, asking for one more thing. Write them down and share them with anyone who does bedtime, including grandparents and sitters.
+When to check with your pediatrician first
+Loud snoring most nights, pauses in breathing, mouth breathing, very restless sleep, or daytime sleepiness that seems unusual. These can point to a medical cause. See sleep consultant vs pediatric sleep specialist.
+How Actually Sleeping handles this: Actually Sleeping works with families from newborn to 3 years, so toddlers are in scope. Dr. Sam writes the plan around your child’s age, room and bed setup, with live support on the first night and daily 1:1 check-ins.
+Frequently asked
+Is 2 too old for sleep training?No. Two-year-olds can learn new sleep habits, and many respond well to clear routines, simple rules and rewards. The approach changes from a baby’s, with more explanation and more planning for stalling and leaving the bed.
+Can a sleep consultant help my toddler stay in their bed?Yes. A plan usually covers what you say and do each time your toddler gets up, a morning signal, and timing changes. Consistency from every adult at bedtime is what makes it work.
+Should I move my toddler to a big bed to fix sleep?Usually not. A move rarely fixes a sleep problem and can add one, because a toddler in a bed can get up. Sort out sleep in the crib first if your child is still in one.
+ReferencesMindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.Mindell JA, et al. Efficacy of an Internet-Based Intervention for Infant and Toddler Sleep Disturbances. Sleep. 2011.
+Related guidesWhen is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# What should a sleep-training guarantee actually say?
+URL: https://actuallysleepingllc.com/guides/sleep-training-guarantee-what-it-should-say/
+
+What should a sleep-training guarantee actually say?
+A real guarantee is written in the agreement, not only in marketing. It names a measurable result (such as hours of night sleep), a time frame, when that time frame starts, what you must do to qualify, and what you get if the result is not met. If any of those five parts is missing, you have a slogan, not a guarantee.
+The five parts of a guarantee worth having
+A measurable outcome. Something you can count: hours of continuous night sleep, number of wakings, nights in a row. “Better sleep” and “a happier family” cannot be measured.
+A time frame. Within how many days or nights.
+A start point. When the clock starts. The first night of the plan? A certain age? This matters most for young babies.
+Your side of it. What counts as following the plan, and how that is shown. Daily notes or check-ins are a fair way to show it; vague terms that can always be read against you are not.
+The remedy. What happens if the outcome is not met. A full refund, a partial refund, extra sessions, or continued support. Know which one before you pay.
+Common wording and what it really means
+WordingWhat it really means
+“Satisfaction guaranteed”No defined outcome. Ask what happens if you are not satisfied.
+“We’ll support you until it works”More support, not money back. Can be valuable, but it is not a refund.
+“Results guaranteed” with no detailAsk for the written terms. If there are none, there is no guarantee.
+“Most babies sleep through in a week”A claim, not a guarantee. Ask where the figure comes from.
+Specific hours, specific days, refund namedA real outcome guarantee. Now read the conditions.
+Fair conditions versus unfair ones
+Every outcome guarantee has conditions, and that is reasonable. A consultant cannot be responsible for a plan that was not followed. Fair conditions:
+Following the written plan consistently.
+Reporting each day what happened, so the plan can be adjusted.
+A minimum age, because young babies still need to feed at night.
+Conditions that make a guarantee hollow:
+Terms that can never be checked, such as “perfect compliance” with no way to show it.
+Exclusions so broad that any normal event (a cold, a tooth) cancels it.
+A remedy you only learn about after you ask for it.
+Questions to ask
+“Can I read the exact guarantee wording before I sign?”
+“What does ‘through the night’ mean, in hours?”
+“When does the clock start for my baby?”
+“How is following the plan measured?”
+“If it is not met, what do I receive?”
+Get it before you pay
+Read the full wording before you pay, not after. Save a copy. If something is unclear, ask for it to be clarified in writing.
+No guarantee is not a deal-breaker
+Many consultants do not guarantee outcomes, and many of them are excellent. What matters is that they are clear about it. The real problem is a guarantee that appears in advertising but not in writing.
+How Actually Sleeping handles this: The guarantee is written into the Terms of Service, word for word: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, the family receives a full refund. The 14-day clock starts at the baby’s 10-week birthday, so younger babies can begin with foundations first. Daily 1:1 check-ins are how the team sees whether the plan is being followed and working.
+Frequently asked
+Do sleep consultants offer money-back guarantees?Some do, many do not. Ask to read the exact wording before you sign. A money-back guarantee should say what result is promised, by when, what you must do, and that a refund is the remedy.
+What does ‘sleeping through the night’ mean in a guarantee?It should be a number of hours, stated in writing. Without a number, you and the consultant may mean very different things. Ask before you start, not after a disappointing week.
+Is it fair for a guarantee to require following the plan?Yes. No one can promise results from a plan that was not followed. The fair version defines how following the plan is shown, for example through daily check-ins, so it can be checked.
+Why would a guarantee have a minimum age?Young babies need to feed at night, so expecting a long night stretch early is not reasonable. A minimum age, or a clock that starts at a set age, keeps the promise realistic.
+Related guidesWhat does a baby sleep consultant actually do?What credentials should a baby sleep consultant have?Should I hire a baby sleep consultant?Sleep training isn’t working. What should I do?When is the right time to hire a baby sleep consultant?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Is online sleep coaching as effective as in-person?
+URL: https://actuallysleepingllc.com/guides/online-vs-in-person-sleep-coaching/
+
+Is online sleep coaching as effective as in-person?
+There is no trial comparing remote and in-person sleep coaching head to head that we are aware of. A randomized trial of a fully online, self-directed program did improve sleep in children 6 to 36 months within three weeks. Because you are the one doing the nights either way, the quality of the plan and the support matters more than whether the coach is in the room.
+What the evidence shows
+A randomized trial of 264 mothers and children aged 6 to 36 months tested an online program that gave personalized recommendations from an algorithm, with no live coach. Compared with a control group, children in the program fell asleep faster and had fewer and shorter night wakings. Mothers’ sleep, mood and confidence improved. Changes appeared within the first week, with more by the second.
+That does not prove remote coaching beats in-person coaching. It does show that behavioral sleep help can work without anyone in your home.
+Why remote often works
+You do the nights anyway. In both formats, your baby needs to learn to fall asleep with you, not with a visitor. A coach in the house still hands the job back to you.
+Support in real time. Messaging and video mean you can get an answer at 9 p.m. on night two, which is when most plans wobble.
+Your baby behaves normally. A stranger in the room can change how a baby or toddler acts at bedtime.
+Daily adjustment. A remote coach reading your notes every day can change the plan as often as an in-person one.
+Access. You choose by quality and fit, not by who lives nearby.
+Where in-person can help
+Parents who want someone physically present on the first night for reassurance.
+Room setups that are hard to judge from photos or video.
+Families who prefer to talk face to face and do not like messaging.
+What to check in any remote service
+Response time. How fast do they reply in the evening and overnight on the first nights?
+Live first night. Is someone actually available while you do it?
+Daily review. Who reads your log, and how often?
+Room check. Do they ask for a photo or video of the sleep space to check it against AAP safe sleep guidance: firm, flat, non-inclined, nothing soft or weighted?
+A named person. Do you know who writes your plan and who answers your messages?
+Making remote coaching work for you
+Keep your phone nearby but on silent during the first nights, so you can message without waking the house.
+Write short notes as you go: times, what happened, what you did. Your coach can only adjust what they can see.
+Send a quick video of the room and of bedtime if your coach asks. It replaces much of what an in-person visit would show.
+Ask questions as they come up rather than saving them for a weekly call.
+Self-paced online versus coached online
+“Online” covers very different things. A self-paced course or app gives you material and leaves the adjusting to you. Coached remote support gives you a person who reads what happened and changes the plan. The trial above shows a well-designed self-directed program can help; families with more complicated situations often want the person. See course vs app vs consultant.
+How Actually Sleeping handles this: Actually Sleeping is fully remote, based in Coconut Grove, Florida. The plan is written by Dr. Sam, a coach supports you live on night one, and the team checks in with you 1:1 every day. More than 700 families have been coached this way since the practice was founded in 2025.
+Frequently asked
+Can a sleep consultant help without seeing my baby?Yes, if they gather enough detail. Photos or video of the room, a few days of sleep notes and a thorough intake give a remote consultant what they need. You do the nights in either format.
+Is virtual sleep training safe?The format does not change safety. What matters is that the plan follows AAP safe sleep guidance and that the consultant checks your sleep space, defers to your pediatrician on feeding and health, and never suggests medication.
+Does an in-person sleep consultant stay overnight?Some offer overnight visits. Even then, you usually do the settling yourself with the coach advising, because your baby needs to learn to sleep with you. Overnight care where someone else does the nights is a different service.
+ReferencesMindell JA, et al. Efficacy of an Internet-Based Intervention for Infant and Toddler Sleep Disturbances. Sleep. 2011.HealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing. 2022.
+Related guidesSleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?When is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# What credentials should a baby sleep consultant have?
+URL: https://actuallysleepingllc.com/guides/sleep-consultant-credentials/
+
+What credentials should a baby sleep consultant have?
+Sleep consulting has no required license. Certifications come from private training programs that set their own standards, so the letters after a name vary in meaning. Ask what training they completed, whether they hold a licensed health care credential, what that credential covers, and how they screen for medical issues. Judge the answers alongside their process, support and written commitments.
+What the title does and does not mean
+Anyone can call themselves a sleep consultant or sleep coach. There is no single standard credential. A 2018 survey of 142 practicing sleep coaches in 17 countries found education ranging from high school diplomas to doctoral degrees. Only 20% were or had been licensed health care providers, and 38% carried malpractice insurance. Most respondents named a formal sleep coach training program as the most important qualification. The authors suggested their findings could inform discussions about training and credentialing standards.
+None of this means consultants are unqualified. It means you have to ask.
+Types of background you will see
+BackgroundWhat it can addWhat it does not make them
+Private sleep consultant certificationStructured training in behavioral methods and schedulesA licensed health care provider
+Licensed nurseClinical training, infant care, recognizing when to referA sleep-medicine specialist
+Licensed pharmacistMedication and supplement knowledge; see belowA physician or a sleep-medicine specialist
+Psychologist in behavioral sleep medicineClinical expertise in behavioral treatment of sleep problemsA physician
+Physician in sleep medicineDiagnosis and treatment of sleep disordersUsually not a day-to-day coach
+Experience as a parent or caregiver onlyEmpathy and practical tipsTrained in screening or methods
+What a pharmacist’s training does and does not add
+A Doctor of Pharmacy is a professional doctorate centered on medications: how they work, how they interact, and how they are used safely. For a family, that background is useful in specific ways:
+Clear answers on why melatonin, antihistamines and “natural” sleep products are not a fix for a baby’s sleep, and when to take a medication question to the pediatrician.
+Understanding how a parent’s own medications or caffeine relate to breastfeeding, and where to look it up.
+Context on reflux medicines and other treatments a baby may already be on, without changing them.
+What it does not add: a pharmacist is not a physician, does not diagnose sleep disorders, and is not your baby’s doctor. Behavioral sleep coaching is a different skill, built through training and experience with many families. A pharmacist who coaches sleep should say this plainly.
+Questions to ask
+“What sleep training did you complete, and who ran it?”
+“Do you hold a license, and in which field?”
+“What questions do you ask to rule out medical causes?”
+“When do you refer a family back to the pediatrician?”
+“How many families have you worked with?”
+Credentials are one input
+A strong credential with thin support can do less for your family than a well-trained coach who answers you every day. Weigh credentials together with who writes the plan, how much live support you get, and what the consultant commits to in writing. See how to choose a sleep consultant.
+How Actually Sleeping handles this: Dr. Sam is Dr. Samantha Abrahamson, PharmD, a Doctor of Pharmacy and Pennsylvania-licensed pharmacist. She is not a physician and does not give medical advice; your pediatrician remains the authority on your baby’s health. She writes every family’s plan personally, and the practice has coached more than 700 families.
+Frequently asked
+Are sleep consultants certified?Many hold certifications from private training programs, which vary in content, length and standards. There is no single required credential. Ask which program they completed, what it covered, and whether it included screening for medical issues.
+Is a sleep consultant a medical professional?Usually not. In one survey of practicing sleep coaches, only 20% were or had been licensed health care providers. Even those who are should not diagnose or treat as part of coaching.
+Does it matter if my sleep consultant is a nurse or pharmacist?It can help with screening and with medication questions, and a license brings professional accountability. It does not make them a sleep-medicine specialist, and it does not replace your pediatrician for anything medical.
+Who should I see instead of a sleep consultant?Your pediatrician, if you notice snoring, breathing pauses, poor weight gain or unusual daytime sleepiness. They may refer you to a sleep-medicine specialist. Coaching can follow once medical causes are ruled out.
+ReferencesIngram DG, Mindell JA, Puzino K, Walters RM. A Survey of Practicing Sleep Coaches. Behavioral Sleep Medicine. 2018.
+Related guidesShould I hire a baby sleep consultant?When is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?What should a sleep-training guarantee actually say?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# How long does it take to see results with a sleep consultant?
+URL: https://actuallysleepingllc.com/guides/sleep-consultant-how-long-for-results/
+
+How long does it take to see results with a sleep consultant?
+Many families see the first changes within the first week, with more by the second, if the plan is followed consistently. Naps usually take longer than nights. In a randomized trial of an online program for children 6 to 36 months, improvements appeared within the first week. Timelines stretch with illness, inconsistency, travel or an older, well-established habit.
+What the research shows
+In a randomized trial of 264 families with children aged 6 to 36 months, a self-directed online program reduced the time to fall asleep and the number and length of night wakings. Improvements appeared within the first week, with additional benefit by the second. An AASM review of 52 studies found that improvements from behavioral interventions were maintained for 3 to 6 months.
+A typical shape
+Before night one: intake, plan, and any changes to the room or schedule.
+The first few nights: often the hardest. Protest is normal while your baby learns a new way to fall asleep.
+End of the first week: many families see shorter settling and fewer wakings.
+Second week: nights usually consolidate. A short bump, sometimes called an extinction burst, is common and does not mean the plan failed.
+Naps: usually lag behind nights. Daytime sleep pressure is lower, so naps take longer to become reliable.
+What speeds results up
+Every adult responding the same way, every time.
+A plan fitted to your baby’s actual schedule and sleep drivers.
+Daily review of what happened and quick adjustments.
+A healthy baby and two calm weeks at home.
+What slows them down
+Changing methods mid-way. Each switch resets the learning.
+Giving in on a hard night after holding steady on easier ones. Your baby learns to protest longer.
+Illness, travel, daylight saving time or starting daycare in the middle.
+A schedule that leaves your baby overtired or not tired enough at bedtime. See wake windows by age.
+Night feeds that are still needed. That is fine; it changes what “through the night” looks like for now.
+When to worry the plan is not working
+If you have been consistent for 7 to 10 nights and nothing has improved, something in the plan needs to change: timing, the response, or a missed medical issue. A consultant should spot this from your log. See sleep training not working and how long sleep training takes.
+Results by age
+Newborns: foundations, not results on a clock. The goal is safe sleep, good feeding and a routine your baby starts to recognize.
+Older babies: the trials cited here enrolled children 6 to 16 months and 6 to 36 months, and both found that sleep improved.
+Toddlers: often a louder first few nights, because habits are older and toddlers test limits, then steady progress once every adult responds the same way.
+How to measure progress
+Keep a simple log: time down, time asleep, each waking and how long it lasted, and nap lengths. Compare week to week, not night to night. One bad night inside a better week is normal.
+Ask before you hire
+“What do you expect in week one and week two for a baby like mine?”
+“How long are naps supported?”
+“What happens if we are not seeing progress by day 10?”
+How Actually Sleeping handles this: The written guarantee sets the timeline: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, the family receives a full refund. For younger babies, the 14-day clock starts at the 10-week birthday. Naps are coached until solid, with no fixed end date.
+Frequently asked
+How many nights does sleep training take?It varies by baby, age and method. In one randomized trial, improvements appeared within the first week and grew by the second. Plan for two calm weeks and judge progress after about a week of consistency.
+Why are naps taking longer than nights?Sleep pressure is lower during the day, so it is harder for a baby to fall asleep and stay asleep for a nap. Naps commonly lag behind nights and need their own patience.
+Is it normal for sleep to get worse before it gets better?A short setback a few nights in is common. It often means your baby is testing whether the new pattern is real. Stay consistent; if it lasts more than a few nights, check in with your coach.
+ReferencesMindell JA, et al. Efficacy of an Internet-Based Intervention for Infant and Toddler Sleep Disturbances. Sleep. 2011.Mindell JA, et al. Behavioral treatment of bedtime problems and night wakings in infants and young children. Sleep. 2006.Gradisar M, et al. Behavioral Interventions for Infant Sleep Problems: A Randomized Controlled Trial. Pediatrics. 2016.
+Related guidesWhen is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?Sleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+URL: https://actuallysleepingllc.com/guides/sleep-consultant-vs-night-nurse-vs-postpartum-doula/
+
+Sleep consultant vs night nurse vs postpartum doula: what’s the difference?
+A night nurse cares for your baby overnight so you can sleep. A postpartum doula supports you and your household in the weeks after birth. A sleep consultant writes a plan and coaches you to change how your baby sleeps, while you do the nights. The first two give you rest now; the third aims to make you need less help later.
+Side by side
+Night nurse or overnight newborn carePostpartum doulaSleep consultant
+Main focusYour baby, overnightYou and your householdYour baby’s sleep habits
+Who does the nightsThey doVaries; some offer overnight shiftsYou do
+Typical timingNewborn weeks and monthsLate pregnancy and the weeks after birthNewborn foundations through toddler years
+In personYesUsuallyOften remote
+GoalRest for you nowRecovery, confidence, practical helpIndependent sleep that lasts
+What it does not doTeach your baby to sleep without help, unless that is agreedSleep training, as a ruleCare for your baby overnight
+Night nurse or overnight newborn care
+Someone comes to your home in the evening and cares for your baby until morning: bringing the baby to you for breastfeeds or giving bottles, changing, settling and putting the baby back down. Some are licensed nurses; many are experienced newborn care providers without a nursing license. The title is used loosely, so ask what training and licenses they hold.
+Best for: the newborn weeks, recovery from a difficult birth, twins or triplets, or a parent who needs protected sleep for health reasons.
+Postpartum doula
+A postpartum doula supports the parent in the weeks after birth. That can include feeding support and referrals, newborn care teaching, emotional support, light household help, and time for you to rest or shower. Some offer overnight shifts.
+Best for: first-time parents who want hands-on teaching, families without nearby relatives, and anyone who wants support focused on their own recovery.
+Sleep consultant
+A consultant assesses how your baby sleeps, writes a plan, and supports you while you carry it out. With a newborn the work is foundations: safe sleep, feeding on cue, a simple routine. Later it can include teaching your baby to fall asleep independently. See what a sleep consultant does.
+Best for: families who want sleep to improve in a way that lasts after the help ends.
+Using more than one
+These roles fit together. A common sequence is overnight newborn care or a doula in the first weeks, then a sleep consultant once you want the nights to change for good. If you have overnight care while working with a consultant, share the plan so everyone responds to your baby the same way.
+Questions to ask any of them
+What training and licenses do you hold?
+What exactly will you do, and what will I do?
+How will you handle feeding, and how do you work with my pediatrician?
+Safety applies to all of them
+Whoever puts your baby down should follow AAP safe sleep guidance: alone, on the back, on a firm, flat, non-inclined surface, without soft toys, pillows, blankets or bedding, and never weighted swaddles or products. Ask any overnight helper to confirm this before the first night.
+How Actually Sleeping handles this: Actually Sleeping is a sleep consultant: remote, working with families from newborn to 3 years, with newborn plans focused on foundations and night feeds left to your pediatrician. If you have a night nurse or doula, the plan can be shared so everyone follows it.
+Frequently asked
+Is a night nurse a real nurse?Sometimes. Some overnight newborn care providers are licensed nurses; many are not. The title is used loosely. Ask what training and licenses they hold, and what they do if your baby seems unwell.
+Can a night nurse sleep train my baby?Some offer it, but it is not the core of the role. If you want sleep training, agree on one written plan with whoever does the nights, so your baby gets the same response from every adult.
+Do I need a doula or a sleep consultant?In the first weeks after birth, a doula supports your recovery and confidence. If what you want is for your baby’s sleep to change and stay changed, a sleep consultant is the closer fit. Many families use both at different times.
+ReferencesHealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces & Bed Sharing. 2022.
+Related guidesSleep course vs app vs 1:1 sleep consultant: which is right for my family?Sleep consultant vs pediatric sleep specialist: which does my baby need?When is the right time to hire a baby sleep consultant?What does a baby sleep consultant actually do?What are the red flags when hiring a baby sleep consultant?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
