@@ -25,14 +25,14 @@ Key facts (as of 2026-11-10):
 - [Editorial and review policy](https://actuallysleepingllc.com/editorial-policy/)
 
 ## Guides
-- [How long does sleep training take?](https://actuallysleepingllc.com/guides/how-long-does-sleep-training-take/): With a consistent plan, most babies over 10 weeks sleep through the night within 3 to 7 nights, and almost all within 14
-- [Why does my 6 month old wake every 2 hours, and how do I fix it?](https://actuallysleepingllc.com/guides/6-month-old-wakes-every-2-hours/): A 6-month-old who wakes every 2 hours is almost always waking between sleep cycles (which last roughly 1.5–2 hours at th
-- [Can you sleep train a baby with reflux?](https://actuallysleepingllc.com/guides/sleep-training-a-baby-with-reflux/): Yes, once reflux is managed with your pediatrician and your baby is gaining weight well. Reflux babies usually need a fe
-- [How do I stop contact napping?](https://actuallysleepingllc.com/guides/how-to-stop-contact-napping/): Start with nights, not naps: once your baby falls asleep independently at bedtime, transfer that skill to the first nap 
-- [Is it the 4 month sleep regression or a real sleep problem?](https://actuallysleepingllc.com/guides/4-month-sleep-regression-or-sleep-problem/): The 4-month regression is a permanent change, not a phase: your baby’s sleep cycles mature into the adult pattern, and a
-- [Should I hire a baby sleep consultant?](https://actuallysleepingllc.com/guides/should-i-hire-a-baby-sleep-consultant/): Hire one if you have tried a book or online course, stayed consistent for at least a week, and sleep is still broken — o
-- [How do I break the feed-to-sleep association?](https://actuallysleepingllc.com/guides/feed-to-sleep-association/): Move the feed to the start of the bedtime routine instead of the end, so your baby finishes eating 15–20 minutes before 
-- [Why is my 12 month old suddenly waking at night?](https://actuallysleepingllc.com/guides/12-month-sleep-regression/): Night waking around 12 months is usually driven by walking, separation anxiety and a nap transition that is not ready ye
+- [How long does sleep training take?](https://actuallysleepingllc.com/guides/how-long-does-sleep-training-take/): It depends on your baby’s age, how they fall asleep now and how consistently the plan is followed, so any single number 
+- [Why does my 6 month old wake every 2 hours, and how do I fix it?](https://actuallysleepingllc.com/guides/6-month-old-wakes-every-2-hours/): Most often, your baby is surfacing between sleep cycles and needs the same help to get back to sleep that they needed at
+- [Can you sleep train a baby with reflux?](https://actuallysleepingllc.com/guides/sleep-training-a-baby-with-reflux/): Yes, once reflux is being managed with your pediatrician and your baby is growing well. Reflux babies still sleep on the
+- [How do I stop contact napping?](https://actuallysleepingllc.com/guides/how-to-stop-contact-napping/): Contact naps stop when your baby learns to fall asleep independently. That skill usually comes more easily at bedtime th
+- [Is it the 4 month sleep regression or a real sleep problem?](https://actuallysleepingllc.com/guides/4-month-sleep-regression-or-sleep-problem/): Usually it is both. From about 3 months, a baby’s sleep starts to organize into distinct cycles, and a baby who needs fe
+- [Should I hire a baby sleep consultant?](https://actuallysleepingllc.com/guides/should-i-hire-a-baby-sleep-consultant/): If your baby’s sleep is wearing your family down, yes. A good consultant gives you what books and courses cannot: a plan
+- [How do I break the feed-to-sleep association?](https://actuallysleepingllc.com/guides/feed-to-sleep-association/): The association loosens when your baby learns to fall asleep without feeding, while still getting every feed they need. 
+- [Why is my 12 month old suddenly waking at night?](https://actuallysleepingllc.com/guides/12-month-sleep-regression/): Night waking around 12 months usually comes from new motor skills, separation anxiety or a day schedule that no longer f
 - [Is melatonin safe for babies and toddlers?](https://actuallysleepingllc.com/guides/is-melatonin-safe-for-babies/): No for babies, and not recommended for toddlers without a pediatrician’s direction. Melatonin is a hormone, it is sold a
 - [Does teething medicine help a baby sleep?](https://actuallysleepingllc.com/guides/teething-medicine-and-baby-sleep/): Acetaminophen or ibuprofen can relieve real teething pain for a few hours when your pediatrician says they are appropria
 - [Which over-the-counter medicines affect a baby’s sleep?](https://actuallysleepingllc.com/guides/otc-medicines-and-infant-sleep/): Fever and pain relievers can help a sick baby rest but do not cause sleep; antihistamines and cough-and-cold products sh
@@ -540,9 +540,9 @@ Is Actually Sleeping a scam?No. Actually Sleeping is a registered company in Coc
 Have there been cases where clients haven’t gotten results?The honest answer is that outcomes depend on implementation. Families who follow the plan as written and report in daily get there; the cases that stall are the ones where only parts of the plan are used. That is the reason the guarantee is conditioned on consistent, correct implementation, and the reason a coach checks in every day rather than once a week.
 Is it worth it?
 How is this different from other sleep consultants?Three things. The plan is written for your baby by Dr. Sam, not assembled from an age template. Support is daily and 1:1, with a coach live on Night 1, rather than a handful of scheduled calls with days of guesswork in between. And the outcome is guaranteed with a refund. The method itself concentrates on the few actions that matter most, done in a specific order, so the baby understands quickly and there is less protest overall.
-How is this different from a course or a book?Courses and books usually contain sound information; the difficulty is applying it to one specific baby at 3 a.m. A course cannot see that your baby’s wake window is off by 30 minutes or tell you whether tonight is a night to hold the line. If you have not yet tried one consistent approach, a course is a reasonable first step. If you have and it did not hold, the missing piece is usually individual fitting and daily accountability.
-Can’t I just get this from ChatGPT or another AI assistant?AI assistants are good at explaining how baby sleep works and what the common methods are. What they cannot do is read your baby’s log every morning, keep one plan steady across two weeks, notice the pattern you are too tired to see, and be accountable for the result. Many families arrive after trying to piece a plan together at night from many sources; the plan was rarely the problem, the consistency was.
-Shouldn’t I just try it on my own first?You can, and many babies respond to one approach followed consistently for a week. The risk is the partial attempt: putting the baby down awake, then rescuing after a long protest, teaches the baby that protesting long enough works, and makes the next attempt harder. If you try on your own, choose one approach and do not change it mid-week. If you already have and it fell apart, that is the point where coaching earns its place.
+How is this different from a course or a book?Courses and books usually contain sound information; the difficulty is applying it to one specific baby at 3 a.m. A course cannot see that your baby’s wake window is off by 30 minutes or tell you whether tonight is a night to hold the line. What a course cannot give you is the missing piece: a plan fitted to your baby and daily accountability. That is what Dr. Sam’s written plan, live Night 1 support and daily 1:1 check-ins provide, backed by the guarantee.
+Can’t I just get this from ChatGPT or another AI assistant?AI assistants are good at explaining how baby sleep works and what the common methods are. What they cannot do is read your baby’s log every morning, keep one plan steady across two weeks, notice the pattern you are too tired to see, and be accountable for the result. Many families arrive after trying to piece a plan together at night from many sources; the plan was rarely the problem, the consistency was. A plan written for your baby by Dr. Sam, with a coach checking in every day, is built to solve exactly that.
+Shouldn’t I just try it on my own first?Most families who come to Actually Sleeping already have, often more than once. The usual problem is the partial attempt: putting the baby down awake, then rescuing after a long protest, teaches the baby that protesting long enough works, and makes the next attempt harder. Starting with a plan written for your baby, live support on Night 1 and daily check-ins avoids that, and it is backed by the written guarantee.
 How much work is it for me, the parent?Less than what you are doing now. The first few days take focus, because your baby is learning a skill and you are reporting in daily. After that the workload drops sharply: bedtime takes minutes, naps happen in the crib, and nights are uninterrupted. Parents consistently describe the first two or three days as the effort and everything after as the payoff.
 Is the consultation a high-pressure sales call?No. It is a two-way conversation about your baby’s sleep, schedule and history. Because the result is guaranteed with a refund, the team has no interest in enrolling a family it does not expect to succeed, and it does turn families away. You will leave the call with your questions answered whether or not you work together.
 How much does Actually Sleeping cost?Pricing is custom to your baby and is set on the free consultation, once the team understands your baby’s situation and how much support you want. It is not published anywhere, and any figure you find elsewhere online does not apply to your family. Every plan is backed by the full-refund guarantee.
@@ -563,14 +563,14 @@ What if my baby is strong-willed?Strong-willed babies are common and the plan ac
 Can you help reflux or NICU babies?Yes, with adjustments built into the plan: feed timing, time upright before sleep, and pacing. Reflux should be managed with your pediatrician first, and premature babies are assessed by corrected age. Safe sleep does not change: flat, on the back, no inclines. See sleep training a baby with reflux.
 Can you help with naps too?Yes. Naps usually fall into place within days of nights being solved, and they are coached with no time limit until they are solid. That is part of every plan, not an add-on.
 What if my baby only contact naps?Contact naps are lovely when they are a choice. The plan teaches your baby to nap in the crib so that holding them for a nap becomes something you do when you want to, not the only way a nap happens. See how to stop contact napping.
-What if my baby can stand, sit, or pull up in the crib?That is normal for most of the babies we work with and does not get in the way. Practise getting down from standing during the day; at night the response stays the same. Mobile babies are old enough to understand a consistent routine quickly.
-What if my baby is going through a regression?The change around 4 months is a permanent shift in how sleep is organized, so there is nothing to wait out. Later “regressions” are usually developmental phases layered on a baby who needs help falling asleep. Babies who can fall asleep independently typically ride those phases out in a few nights.
+What if my baby can stand, sit, or pull up in the crib?That is normal for most of the babies we work with and does not get in the way. Your plan covers exactly how to handle it, and your coach adjusts it day by day. Mobile babies are old enough to understand a consistent routine quickly.
+What if my baby is going through a regression?The change around 4 months is a permanent shift in how sleep is organized, so there is nothing to wait out. Later “regressions” are usually developmental phases layered on a baby who needs help falling asleep. Babies who can fall asleep independently typically ride those phases out in a few nights, and teaching that skill is what an Actually Sleeping plan does, with daily check-ins until it holds.
 Sleep setup
 Can I still co-sleep?During the program your baby sleeps in their own crib or bassinet, so the message is clear. That is also what the American Academy of Pediatrics recommends for infants, and it advises against bed-sharing in the first year. Most families who come to us were bed-sharing out of exhaustion rather than choice.
 What if my baby sleeps in our room?Room-sharing is fine and is what the AAP recommends for the first 6 months. The plan works with a crib or bassinet in your room; families have done it with relatives staying in the same room.
 Can you help us transition out of our bed?Yes. The large majority of families who contact us are bed-sharing when they start. Moving a baby from the parents’ bed to their own sleep space is one of the most common things the plan covers.
 Can you help us transition from bassinet to crib?Yes. Done as part of a plan, the move is usually easier than parents expect, because the baby is learning to fall asleep independently at the same time and the skill travels with them.
-What about the Snoo or a smart bassinet?Whether to use one is a personal choice, and some young babies settle well in them. A motion bassinet does the soothing for the baby, so the skill of falling asleep independently still has to be learned when the baby outgrows it. We help families make that transition.
+What about a smart or motion bassinet?Whether to use one is a personal choice, and some young babies settle well in them. A motion bassinet does the soothing for the baby, so the skill of falling asleep independently still has to be learned when the baby outgrows it. We help families make that transition.
 My household
 Does my partner really have to be on the consultation?Yes, we ask that both parents or all decision-makers attend. Because results are guaranteed, the team needs to hear from everyone who will be putting the baby to bed before it can judge honestly whether it can help, and a plan only works when both adults follow it the same way.
 What if my spouse or partner disagrees about sleep training?This is common, and often follows a previous attempt that went badly. A clear written plan, a neutral coach, and visible progress within the first night or two usually settle it. The skeptical parent frequently becomes the most committed one.
@@ -613,25 +613,29 @@ Tools and referenceBaby and toddler sleep statistics: what the research actually
 URL: https://actuallysleepingllc.com/guides/how-long-does-sleep-training-take/
 
 How long does sleep training take?
-With a consistent plan, most babies over 10 weeks sleep through the night within 3 to 7 nights, and almost all within 14. Naps take longer — typically 2 to 4 weeks to become reliable — which is why nights and naps should be treated as two separate projects.
+It depends on your baby’s age, how they fall asleep now and how consistently the plan is followed, so any single number is a guess. Nights usually improve before naps. At Actually Sleeping, naps are coached until solid, and the written guarantee reads: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.”
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
-Nights: 3–14 days
-Night sleep responds fastest because sleep pressure is highest at bedtime and the body’s clock is on your side. Families in Actually Sleeping coaching commonly report the first full night in the first one to five nights; the written guarantee is 8–12 hours within 14 days of consistent, correct implementation.
-Naps: 2–4 weeks
-Daytime sleep pressure is lower, naps are shorter, and one bad nap cascades into the next. Expect naps to lag nights by a few weeks even when nights are solved. This is normal, not a sign the plan failed.
+Why nights and naps move at different speeds
+Night sleep usually improves first. By bedtime your baby has been awake for most of the day and is ready to sleep. Naps are shorter, there is less tiredness behind them, and one short nap can knock the rest of the day off course. So naps often lag behind nights, even when nights are going well. That is normal. It is not a sign the plan has failed.
+Actually Sleeping is set up around the things that make sleep training drag on. Dr. Sam writes a plan for your baby, a coach is with you live on night one, and daily 1:1 check-ins catch a slipping response or a schedule that does not fit within days, not weeks.
 What makes it take longer
-Inconsistency. Responding differently on night 4 than night 1 teaches the baby that persistence works. This is the single biggest cause of “we tried for three weeks and it didn’t take.”
-Sleep props still in place. Feeding, rocking or a pacifier that is required to fall asleep will be required again between sleep cycles.
-Wrong schedule. Overtired or undertired babies fight sleep. Wake windows need to match the baby, not the chart.
-Illness or a developmental leap mid-plan. Pause, then resume the same plan; do not start a new one.
-When to expect regressions
-Around 4 months (sleep cycles mature), 8–10 months (crawling, standing, separation anxiety), 12 months and 18 months. A trained baby usually returns to baseline in a few nights if the response stays consistent.
+Inconsistency. Responding one way on night 1 and another way on night 4 teaches your baby that protesting longer works. This is the most common story behind “we tried for weeks and it didn’t take.”
+The old way of falling asleep is still in place. If a feed, rocking or a pacifier is needed to fall asleep at bedtime, it is needed again between sleep cycles.
+A day that does not fit the baby. Overtired and under-tired babies both fight sleep. Age charts describe an average baby, not yours.
+Illness or a big developmental change in the middle of the plan.
+Why a generic timeline does not fit your baby
+Timelines you read online assume an average baby. Yours has a particular age, feeding pattern, temperament and way of falling asleep, and a family schedule built around them. Each of those changes what the plan should look like and how quickly it works. A 5-month-old who feeds to sleep, a baby with reflux and a toddler who climbs out of bed need different plans. Most families who come to us have already tried a one-size-fits-all approach. The information was rarely the problem. Fitting it to their baby, and holding it steady on the hard nights, was.
+How the timeline works with Actually Sleeping
+Every family gets a plan written by Dr. Sam, live support on the first night, daily 1:1 check-ins, and naps coached until they are solid. Night feeds are never forced out of the plan; feeding decisions belong to your pediatrician.
+The outcome is guaranteed in writing: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, you get a full refund. We work with families from newborn to 3 years, with foundations from the newborn stage; the 14-day guarantee clock starts at your baby’s 10-week birthday.
+700+ families have been coached this way. You can watch some of them describe their own timeline in our video reviews.
+If you want to know what a realistic timeline looks like for your baby, book a free consultation and tell us where things stand now.
 Related guidesIs sleep training safe? What the AAP safe-sleep rules mean for a sleep planDoes sleep training work? What the research saysHow long does it take to see results with a sleep consultant?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-How long does sleep training take for a 6 month old?Usually 3–7 nights for nights, with naps settling over the following 2–4 weeks. Six months is one of the easier ages because most babies no longer need night feeds and are not yet mobile.
-How long does sleep training take for a toddler?Toddlers in a crib respond in about the same time as babies. Toddlers in a bed take longer because they can leave the room; expect 1–2 weeks of consistent boundaries.
-Is it normal for sleep training to take 3 weeks?For naps, yes. For nights, three weeks without progress usually means something in the plan or the consistency needs to change, which is exactly where daily coaching earns its keep.
+How long does sleep training take for a 6 month old?There is no fixed number of nights for every 6-month-old. It depends on how your baby falls asleep now, feeding, and how consistently the plan is followed. With Actually Sleeping, the guarantee covers 8–12 hours within 14 days of consistent, correct implementation, and night feeds stay until your pediatrician says otherwise.
+How long does sleep training take for a toddler?Toddlers often learn quickly once the message is consistent, and they test any inconsistency. A toddler in a bed who can leave the room needs a plan that covers that. Actually Sleeping works with children up to 3 years, including toddlers in beds, with a plan written by Dr. Sam and daily check-ins.
+Is it normal for sleep training to take 3 weeks?For naps, slower progress can be normal. For nights, three weeks without real progress usually means something in the plan or the consistency needs to change. That is what daily check-ins are for: a coach spots the problem within days and adjusts the plan for your baby.
 
 ---
 
@@ -639,27 +643,29 @@ Is it normal for sleep training to take 3 weeks?For naps, yes. For nights, three
 URL: https://actuallysleepingllc.com/guides/6-month-old-wakes-every-2-hours/
 
 Why does my 6 month old wake every 2 hours, and how do I fix it?
-A 6-month-old who wakes every 2 hours is almost always waking between sleep cycles (which last roughly 1.5–2 hours at this age) and needing the same help to fall back asleep that they needed at bedtime. Fix how your baby falls asleep at bedtime and the 2 a.m. wake-ups usually stop within a week.
+Most often, your baby is surfacing between sleep cycles and needs the same help to get back to sleep that they needed at bedtime: a feed, rocking, a pacifier or you. Hunger, the day’s schedule and illness can play a part, and your pediatrician decides on night feeds. The lasting fix is a plan that teaches your baby to fall asleep independently, which is what Actually Sleeping builds.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
-Why every two hours, specifically
-Infant sleep cycles run about 90–120 minutes. Every baby surfaces at the end of a cycle; a baby who can fall asleep independently rolls into the next one, while a baby who fell asleep feeding, rocking, bouncing or with a pacifier wakes fully and calls for the same thing. The wake-ups are not hunger every time — they are the bedtime method being requested again.
-Rule out the basics first
-Hunger: many 6-month-olds can go 10–12 hours without a feed, but not all. Ask your pediatrician if your baby is gaining well; if so, night feeds are usually habit, not need.
-Schedule: at 6 months most babies need 2–3 naps, wake windows of about 2–3 hours, and a bedtime between 6:30 and 8 p.m. Overtiredness causes more wake-ups, not fewer.
-Environment: dark room, white noise, 68–72°F, and a safe crib with nothing in it.
-Illness or teething: real, but temporary. If wake-ups have lasted weeks, it is a pattern, not a tooth.
-The fix
-Move the last feed earlier in the bedtime routine so your baby is not falling asleep on it.
-Put your baby down awake. This is the whole game.
-Decide in advance how you will respond to wake-ups — and respond the same way every time, every night.
-Expect nights 1–3 to be the hardest, and improvement by night 4–7.
-The method you choose (gradual, check-ins, or a parent-present approach) matters less than consistency. What derails most families is changing the response on night 3 when it gets hard, which is why having a coach to message at 2 a.m. changes outcomes.
+Why the wake-ups keep coming
+Babies sleep in cycles, and an infant’s cycles are shorter than an adult’s: about 50 minutes, compared with about 90 minutes for adults. At the end of each cycle, every baby surfaces briefly. A baby who fell asleep on their own usually drifts into the next cycle. A baby who fell asleep feeding, being rocked or bounced, or sucking a pacifier often wakes fully and asks for the same thing again. Many of the wake-ups are your bedtime routine being requested again, not hunger every time.
+This is exactly the problem Actually Sleeping was built for. Dr. Sam writes a plan for your 6-month-old that changes how they fall asleep at bedtime, so the wake-ups between cycles stop needing you. A coach is with you live on night one, and you check in 1:1 every day after.
+Other things that play a part
+Hunger. Some 6-month-olds still need a night feed. Whether yours does is your pediatrician’s call, based on growth. A Actually Sleeping plan never forces dropping night feeds.
+The day’s schedule. Naps and wake times that do not fit your baby can leave them overtired at bedtime, and overtired babies tend to sleep worse, not better.
+The sleep space. Safe sleep is not negotiable at any age: on the back for all naps and at night, on a firm, flat surface, with a fitted sheet only and nothing else in the crib. The AAP recommends sharing a room, not a bed, for at least the first 6 months.
+Illness or teething. Real, but usually temporary. If your baby seems unwell, call your pediatrician. Wake-ups that have followed the same pattern for weeks are a pattern, not a passing bug.
+Why quick fixes tend to fail at this age
+Most families who reach us have already tried things: an earlier bedtime, an extra feed, a method from a book. Generic approaches assume an average baby, and a 6-month-old’s feeding, naps, temperament and way of falling asleep all change what the right plan is. The other common reason is changing the response on night three, when it gets hard. That teaches a baby that protesting longer works, and the next attempt gets harder.
+How Actually Sleeping fixes it
+Dr. Sam writes a plan for your baby based on their age, feeds, naps, temperament, how they fall asleep now and your family’s schedule. You have live support on the first night and daily 1:1 check-ins, so the plan is adjusted as your baby responds. Naps are coached until they are solid. Night feeds stay until your pediatrician says otherwise.
+The result is guaranteed in writing: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund. Hear from other parents in our reviews from families of 4 to 6 month olds.
+Book a free consultation and tell us how often your baby wakes and what gets them back to sleep.
 Related guidesWhy does my baby wake at 5 a.m., and how do I fix it?My toddler won’t stay in bed. How do I fix it?My toddler sleepwalks. Is it dangerous, and should I wake them?Why is my baby awake for hours in the middle of the night?Why does my baby wake 30–45 minutes after bedtime?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-Is it the 6 month sleep regression?There is no universal 6-month regression. Wake-ups at this age are usually a sleep-association pattern or a schedule problem, not a developmental phase that passes on its own.
-Should I feed my 6 month old at night?If your baby is gaining well and your pediatrician agrees, most 6-month-olds do not need night feeds. If you want to keep one, schedule it rather than feeding at every wake-up.
-How do I know if it’s a sleep problem or just a phase?If it has lasted more than two weeks and the pattern is the same every night, it is a pattern. Phases are irregular and short.
+Is it the 6 month sleep regression?Wake-ups at 6 months usually have a cause you can find: how your baby falls asleep, the day’s schedule, hunger or illness. If the same pattern has gone on for weeks, it is a pattern rather than a phase, and that is what a Actually Sleeping plan addresses.
+Should I feed my 6 month old at night?That is your pediatrician’s call, based on your baby’s growth. Actually Sleeping plans never force dropping night feeds. What changes is how your baby falls asleep, so feeds your baby needs stay, and wake-ups that are not about hunger stop needing a feed.
+How do I know if it’s a sleep problem or just a phase?Phases tend to be irregular and short. If the waking has lasted weeks and looks similar most nights, it is a pattern, and patterns usually continue until how your baby falls asleep changes. That is the part Actually Sleeping works on, with a plan written for your baby and daily check-ins.
+ReferencesPatel AK, et al. Physiology, Sleep Stages. StatPearls, NCBI Bookshelf (NIH).HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.
 
 ---
 
@@ -667,25 +673,33 @@ How do I know if it’s a sleep problem or just a phase?If it has lasted more th
 URL: https://actuallysleepingllc.com/guides/sleep-training-a-baby-with-reflux/
 
 Can you sleep train a baby with reflux?
-Yes, once reflux is managed with your pediatrician and your baby is gaining weight well. Reflux babies usually need a few adjustments — an earlier last feed, time upright before lying down, and a slower pace — but the core approach is the same, and they can sleep through the night like any other baby.
+Yes, once reflux is being managed with your pediatrician and your baby is growing well. Reflux babies still sleep on their backs on a firm, flat surface, with no inclines. What they usually need is a plan paced more carefully, with feed timing and settling built around their history. That is the kind of plan Dr. Sam writes at Actually Sleeping.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
 First: medical before behavioral
-Sleep coaching does not treat reflux. If your baby is in pain, arching, refusing feeds, or not gaining weight, that is a conversation with your pediatrician first. Once reflux is managed (through feeding changes, positioning, or medication if prescribed), sleep becomes trainable. Many reflux babies sleep poorly for behavioral reasons layered on top of a medical one that is already under control.
+Sleep coaching does not treat reflux. If your baby is in pain, arching, refusing feeds, or not gaining weight, that is a conversation with your pediatrician first. Once reflux is managed (through feeding changes, or medication if your pediatrician prescribes it), sleep becomes something you can change. Many reflux babies keep sleeping poorly for behavioral reasons layered on top of a medical problem that is already under control.
+That leftover sleep problem is the fixable part, and it is what Actually Sleeping does. Dr. Sam writes a plan for your baby that takes the reflux history into account, and a coach is with you live on night one.
 Safe sleep does not change
-The American Academy of Pediatrics is clear: reflux babies sleep on their backs, on a flat surface. Inclined sleepers, wedges and positioners are not safe. Elevation tricks are not part of any responsible plan.
-Adjustments that help
-Finish the last feed 20–30 minutes before lying down. Keep baby upright during that time; make it the quiet part of the routine.
-Smaller, more frequent daytime feeds if your pediatrician agrees, so the stomach is less full at bedtime.
-Burp thoroughly and avoid vigorous play after feeds.
-Go slower on changing the response if your baby has learned that crying means pain. Reflux babies have often been (rightly) picked up at every sound; the plan has to rebuild trust that the crib is comfortable.
-What to expect
-Nights often resolve on the same timeline as non-reflux babies once the medical side is settled. The difference is mostly in how carefully the first few nights are paced, which is where having a coach who has seen dozens of reflux babies prevents overcorrection in either direction.
+The American Academy of Pediatrics says babies with reflux should still sleep on their backs, and that back-sleeping babies are not more likely to choke, even when they spit up. Your baby should sleep on a firm, flat mattress in a crib, bassinet or play yard, free from soft bedding. According to the AAP:
+Elevating the head of the crib does not reduce reflux, and it can be unsafe.
+The AAP does not recommend letting infants sleep in inclined products, and there is evidence that a semi-inclined position can make reflux worse.
+The AAP does not recommend sleep positioners or nests.
+Car seats, swings and reclined bouncers are not safe places for sleep. If your baby falls asleep in one, move them to their crib or bassinet.
+Any sleep plan that relies on inclines, wedges or positioners is not one you should follow.
+Why reflux babies often keep waking after the reflux is managed
+Reflux babies have usually, and rightly, been picked up at every sound. Many have fallen asleep upright, feeding or being held for months, because that was what made them comfortable. When the reflux settles, the habits stay. Your baby still needs that help between sleep cycles, so the night stays broken even though the pain has eased.
+Why a generic plan often goes wrong for a reflux baby
+A standard plan assumes a baby with no medical history. For a reflux baby, feed timing, time upright before sleep and the pace of change all need to fit that baby. Go too fast and a baby who learned that crying means pain can become more upset. Rescue too often and nothing changes. Getting that balance right for one particular baby is hard to do from a book.
+How Actually Sleeping handles reflux
+We work with reflux babies and NICU graduates. Dr. Sam, a Doctor of Pharmacy, writes the plan around your baby’s reflux history, feeds and temperament. You get live support on the first night and daily 1:1 check-ins, so the pace is adjusted as your baby responds. Naps are coached until solid. Medical questions and feeding decisions stay with your pediatrician, and night feeds are never forced out of the plan.
+The outcome is guaranteed: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund. See what other parents say in our video reviews.
+If reflux is under control but sleep still is not, book a free consultation and tell us your baby’s history.
 Related guidesHow do you sleep train twins?How do I handle daycare naps when sleep training?Can I sleep train while room-sharing?Can I sleep train and keep breastfeeding?Can I sleep train a premature baby or NICU graduate?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-Does sleep training make reflux worse?Not when reflux is managed and feeds are timed away from sleep. Crying can increase spit-up in the moment, which is one reason reflux babies are coached with a gentler pace.
-At what age can a reflux baby sleep through the night?Many can by 4–6 months once reflux is controlled and weight gain is on track. Your pediatrician decides when night feeds can go.
-Should I use an incline for a reflux baby?No. The AAP advises against inclined sleep products for all infants, reflux or not.
+Does sleep training make reflux worse?Sleep coaching does not treat reflux, and it should start once reflux is being managed with your pediatrician. Some babies spit up more when upset, which is one reason Actually Sleeping paces plans for reflux babies carefully and adjusts them daily. Any change in symptoms goes to your pediatrician.
+At what age can a reflux baby sleep through the night?Actually Sleeping works with families from the newborn stage, and the 14-day guarantee clock starts at the 10-week birthday. For a reflux baby, the plan starts once reflux is being managed. Night feeds stay in the plan until your pediatrician says otherwise.
+Should I use an incline for a reflux baby?No. The AAP does not recommend inclined sleep products or sleep positioners, and says raising the head of the crib does not reduce reflux. Babies with reflux sleep on their backs on a firm, flat surface with nothing else in the crib.
+ReferencesHealthyChildren.org (AAP). What is the safest sleep solution for my baby with reflux?HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.
 
 ---
 
@@ -693,26 +707,30 @@ Should I use an incline for a reflux baby?No. The AAP advises against inclined s
 URL: https://actuallysleepingllc.com/guides/how-to-stop-contact-napping/
 
 How do I stop contact napping?
-Start with nights, not naps: once your baby falls asleep independently at bedtime, transfer that skill to the first nap of the day, which has the most sleep pressure behind it. Most babies move from contact naps to crib naps in 1–3 weeks when the change is consistent.
+Contact naps stop when your baby learns to fall asleep independently. That skill usually comes more easily at bedtime than at nap time, so nights are often the place to start, with naps following. How fast depends on your baby’s age, temperament and day. Actually Sleeping writes a plan for your baby and coaches naps until they are solid.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
-Why naps are harder than nights
-Sleep pressure is lower during the day, naps are short, and a baby who is used to warmth and motion has a strong preference. That is why most families who try to fix naps first burn out; nights are the easier win, and a baby who can self-settle at 7 p.m. can learn to do it at 9 a.m.
-The order that works
-Bedtime first. Put baby down awake at night and stay consistent for 3–7 nights.
-Then nap 1. It is the most reliable. Same routine as bedtime, shortened. Give it a defined window; if it does not happen, move on and preserve the rest of the day.
-Then nap 2. Once nap 1 is solid, repeat.
-Rescue the day, not the nap. Early on, a failed crib nap can be followed by an assisted nap so the baby is not wrecked by bedtime. The goal is the pattern, not a perfect day.
-Common mistakes
-Trying crib naps only sometimes. Partial attempts teach the baby that protest works.
-Wake windows too long or too short. Check the schedule before blaming the method.
-Giving up after a 30-minute nap. Short naps are normal in the first week; they lengthen as the skill solidifies.
-If you want to keep one contact nap a day because you love it, you can — but choose which one and keep it consistent, so the baby is not guessing.
+Why contact naps are so hard to change
+During the day there is less built-up tiredness than at bedtime, naps are short, and a baby who is used to warmth, movement and your heartbeat has a strong preference for it. That is why many families who try to fix naps first burn out. A baby who can settle independently at bedtime has the skill to do it at nap time, but naps still take their own work.
+Actually Sleeping plans start with nights and bring naps along with them. Dr. Sam writes the plan for your baby, a coach is with you live on night one, and naps are coached until they are solid, not left for you to figure out once nights are fixed.
+Why naps fall apart when parents try alone
+Crib naps only some of the time. Partial attempts teach a baby that protest eventually brings back the contact nap.
+Short naps read as failure. Early crib naps are often short. Parents give up just before they would have lengthened.
+A schedule that does not fit. A baby who is overtired or not tired enough fights any nap, and the method gets the blame.
+One bad nap spills into the next. A missed nap leads to an overtired bedtime, and a hard night undoes progress.
+Why naps need a plan for your baby
+The number of naps, how long your baby can stay awake, their temperament and how they fall asleep now all change what a sensible nap plan looks like. So does real life: daycare, a sibling’s school run, a parent going back to work. A generic schedule from a chart assumes none of that. This is where daily 1:1 check-ins matter most. Naps change from week to week, and a coach adjusts the plan as they do.
+Keeping a contact nap you love
+Contact naps are lovely when they are a choice. The aim of a plan is that holding your baby for a nap becomes something you do when you want to, not the only way a nap happens. If you do hold your baby for a nap, stay awake. The AAP warns that falling asleep with a baby on a couch, soft armchair or cushion carries a much higher risk of sleep-related death. Your baby’s own sleep space is a firm, flat surface with a fitted sheet and nothing else.
+How Actually Sleeping handles contact napping
+We work with families from newborn to 3 years, including contact nappers. You get a plan written by Dr. Sam, live support on night one, daily 1:1 check-ins, and naps coached until solid. The overall result is guaranteed: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund.
+Hear from parents who have been where you are in our video reviews. When you are ready, book a free consultation and tell us how your baby naps today.
 Related guidesMy toddler stalls at bedtime with one more book, drink or hug. How do I stop it?When and how do I stop swaddling?Is white noise safe for my baby, and how loud should it be?When can my baby sleep with a blanket, pillow or stuffed animal?What should my baby wear to sleep, and what TOG sleep sack do I need?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-At what age should I stop contact napping?There is no deadline. Newborns under 10–12 weeks nap however they can. From about 3–4 months, independent naps become learnable and usually get harder to introduce the longer they wait.
-Is contact napping bad?No. It is a preference, not a problem, until it stops working for your family. Then it is a habit that can be changed.
-How long do contact nap transitions take?Typically 1–3 weeks for naps to become reliable in the crib, after nights are already independent.
+At what age should I stop contact napping?There is no deadline, and contact naps are not harmful. Actually Sleeping works with families from the newborn stage, where the early work is laying foundations. When contact naps stop working for your family, a plan written for your baby’s age makes the change.
+Is contact napping bad?No. It is a preference, not a problem, until it stops working for your family. When it does, a Actually Sleeping plan teaches crib naps so that holding your baby for a nap becomes something you choose.
+How long do contact nap transitions take?It depends on your baby’s age, temperament and how nights are going. Naps often follow once nights are solid. At Actually Sleeping, naps are coached until they are solid, with daily check-ins that adjust the plan as your baby responds.
+ReferencesHealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.
 
 ---
 
@@ -720,24 +738,30 @@ How long do contact nap transitions take?Typically 1–3 weeks for naps to becom
 URL: https://actuallysleepingllc.com/guides/4-month-sleep-regression-or-sleep-problem/
 
 Is it the 4 month sleep regression or a real sleep problem?
-The 4-month regression is a permanent change, not a phase: your baby’s sleep cycles mature into the adult pattern, and any sleep association that worked before now has to be repeated at every cycle. If sleep got worse around 3–5 months and has stayed worse for more than two weeks, it is now a sleep pattern you can change — waiting it out rarely works.
+Usually it is both. From about 3 months, a baby’s sleep starts to organize into distinct cycles, and a baby who needs feeding or rocking to fall asleep now needs it again between cycles. That change is permanent, so waiting it out rarely helps. If sleep has stayed worse for weeks, it is a pattern, and a plan from Actually Sleeping can change it.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
-What actually happens at 4 months
-Newborns drop quickly into deep sleep. Around 3–5 months the brain reorganizes sleep into distinct light and deep stages cycling every 90–120 minutes. The baby now surfaces to near-waking between cycles. A baby who fell asleep independently drifts back down; a baby who fell asleep feeding or rocking wakes fully and needs it again. Nothing “regresses” — the baby matured and the old method stopped covering for it.
-How to tell which one you have
+What actually changes
+Young newborns sleep differently from older babies. By about 3 months, sleep starts to organize more like an older child’s: babies begin to fall asleep into non-REM sleep, hormone rhythms that shape day and night start cycling, and sleep runs in cycles of about 50 minutes. At the end of each cycle, your baby surfaces close to waking. A baby who fell asleep independently drifts back down. A baby who fell asleep feeding or being rocked wakes fully and needs it again. Nothing has gone backward. Your baby matured, and the old way of falling asleep stopped covering for it.
+This is exactly the problem Actually Sleeping fixes. Dr. Sam writes a plan that teaches your baby to fall asleep independently, and a coach is live with you on night one. Hear from other parents in our 4-month regression reviews.
+Phase or pattern
 Looks like a phaseLooks like a pattern
-Started suddenly with a milestone, illness or travelStarted around 3–5 months and has not improved
-Irregular — some nights fineSame wake-ups at roughly the same times nightly
-Resolves in under two weeksOver two weeks and counting
-Baby goes back down easilyBaby needs the bedtime method again each time
-What to do
-Because the change is permanent, the fix is teaching independent sleep onset at bedtime. At 4 months this can be done gently and gradually; most babies need a few more weeks of maturity before night feeds can go entirely, so plans at this age usually keep one scheduled feed. The 4-month window is also one of the best times to start: habits are shallow and the baby is not yet mobile.
+Started suddenly with an illness or travelStarted around 4 months and has not improved
+Irregular: some nights are fineSimilar wake-ups at similar times most nights
+Short-livedWeeks and counting
+Baby goes back down easilyBaby needs the bedtime routine again each time
+Why waiting and quick fixes rarely work
+Because the underlying change is permanent, there is no end date to wait for. Quick fixes tend to move the problem rather than solve it: swap feeding for rocking and your baby needs rocking at 2 a.m. instead. Generic plans have another problem at this age. Some 4-month-olds still need night feeds, so a plan has to teach independent sleep while keeping whatever feeds your pediatrician wants. Getting that balance right depends on your baby’s feeding, growth, temperament, naps and how they fall asleep now.
+How Actually Sleeping handles 4-month sleep
+Dr. Sam writes the plan for your baby, paced for their age and temperament. Night feeds are never forced out; your pediatrician decides feeding. You get live support on the first night, daily 1:1 check-ins, and naps coached until solid. Habits at this age are newer and your baby is not yet mobile, which makes it a good time to start.
+The guarantee clock starts at the 10-week birthday, so a 4-month-old is covered: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund.
+If sleep fell apart around 4 months and has not come back, book a free consultation and tell us what nights look like now.
 Related guidesIs the 18 month sleep regression real, and what do I do about it?Why is my 8, 9 or 10 month old suddenly waking at night?Is there a 2 year old sleep regression?Why is my 12 month old suddenly waking at night?Sleep at 4 months: what’s normal, what’s hard, and when to get help
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-How long does the 4 month sleep regression last?If nothing changes, indefinitely — it is a developmental shift, not a phase. With independent sleep onset in place, sleep usually improves within a week.
-Can you sleep train during the 4 month regression?Yes, and it is often the ideal time. Gentler methods and a kept night feed are typical at this age.
-Is my 4 month old hungry at night?Possibly once; rarely four times. If your baby is gaining well, most wake-ups at this age are cycle transitions, not hunger. Your pediatrician can confirm.
+How long does the 4 month sleep regression last?The underlying change is permanent, so it has no natural end date. What improves sleep is your baby learning to fall asleep independently. That is the focus of a Actually Sleeping plan, backed by a written guarantee and daily check-ins.
+Can you sleep train during the 4 month regression?Yes, and it is often a good time: habits are newer and your baby is not yet mobile. At Actually Sleeping, plans at this age are paced for the baby, and night feeds stay in until your pediatrician says otherwise.
+Is my 4 month old hungry at night?Possibly. Whether and how often your baby needs to eat at night is your pediatrician’s call. Not every waking is hunger, though. Many are cycle transitions. A Actually Sleeping plan keeps the feeds your pediatrician wants and changes how your baby falls asleep.
+ReferencesPatel AK, et al. Physiology, Sleep Stages. StatPearls, NCBI Bookshelf (NIH).
 
 ---
 
@@ -745,31 +769,40 @@ Is my 4 month old hungry at night?Possibly once; rarely four times. If your baby
 URL: https://actuallysleepingllc.com/guides/should-i-hire-a-baby-sleep-consultant/
 
 Should I hire a baby sleep consultant?
-Hire one if you have tried a book or online course, stayed consistent for at least a week, and sleep is still broken — or if your situation is complicated (reflux, prematurity, twins, a toddler in a bed) and you want someone to adjust the plan nightly. Skip it if you have not yet tried a single consistent approach; many babies respond to that alone.
+If your baby’s sleep is wearing your family down, yes. A good consultant gives you what books and courses cannot: a plan written for your baby and someone with you when it gets hard. Actually Sleeping gives you a custom plan by Dr. Sam, live support on night one, daily 1:1 check-ins, naps coached until solid, and a written full-refund guarantee.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
 What a consultant actually adds
-Not secret knowledge. The methods are public. What changes outcomes is a plan matched to your specific baby, and someone to tell you at 2 a.m. on night 3 whether to hold the line or adjust. Most families who fail on their own fail on consistency, not on method.
-You probably do not need one if
-You have a newborn and things are going fine. Early foundations help, but they are optional.
-You have never tried one approach consistently for 5–7 nights.
-The problem started this week with a cold or a tooth.
-You probably do if
-You have tried a course or book, done it correctly for a week or more, and it did not take.
-Your baby has reflux, was premature, is a twin, or is a toddler who leaves the bed.
-Parents disagree about how to respond at night and need a neutral plan.
-You are past the point where “they’ll grow out of it” is tolerable for your health or work.
-What to look for
-Who writes the plan — a named person, or a template by age?
-What support looks like — daily human replies, or a weekly email?
-Whether results are guaranteed — and in writing with a refund, or in a tagline. Most consultants do not guarantee the outcome. Actually Sleeping does, in its Terms of Service.
-Medical screening — does the intake ask about weight gain, reflux, prematurity?
-Safe sleep — any plan that involves inclines, positioners or loose items in the crib is disqualifying.
+Not secret knowledge. What changes outcomes is a plan matched to your specific baby, and someone to tell you at 2 a.m. on night 3 whether to hold steady or adjust. Most families who come to us have already tried things on their own, often more than once. The information was rarely the problem. Fitting it to their baby and keeping it consistent on the hardest nights was.
+Why families choose Actually Sleeping
+A plan written for your baby. Dr. Sam (Dr. Samantha Abrahamson, a Doctor of Pharmacy) writes every plan herself, based on your baby’s age, feeding, temperament, how they fall asleep now and your family’s schedule.
+Live support on night one. The first night is often the hardest. You are not alone for it.
+Daily 1:1 check-ins. The plan is adjusted as your baby responds, within days rather than weeks.
+Naps coached until solid. Not left for you to sort out once nights are fixed.
+A written guarantee. “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund.
+Not cry it out, not wait it out. Night feeds are never forced out of the plan, and feeding decisions stay with your pediatrician.
+When coaching makes the biggest difference
+You have tried a book, a course or advice from friends, and it did not hold.
+Your baby has reflux, was born early, is a twin or triplet, or is a toddler who leaves the bed.
+You are bed-sharing out of exhaustion and want your baby in their own sleep space.
+You and your partner disagree about how to respond at night and need one plan you both follow.
+Broken sleep is affecting your health, your work or your relationship.
+Actually Sleeping works with all of these, from newborn to 3 years. Starting young is the gentlest way: foundations begin from the newborn stage, and the 14-day guarantee clock starts at the 10-week birthday.
+What to look for in any sleep consultant
+Who writes the plan: a named person, or a template by age.
+What support looks like: daily human replies, or a weekly email.
+Whether the result is guaranteed: in writing with a refund, or only in a tagline. Actually Sleeping’s guarantee is in its Terms of Service.
+Medical common sense: questions about feeding, growth, reflux and prematurity, and feeding decisions left to your pediatrician.
+Safe sleep: babies on their backs, on a firm, flat surface with nothing else in the crib. A plan that uses inclines, positioners or loose items in the crib goes against AAP guidance.
+What other families say
+700+ families have been coached by Actually Sleeping. There are 129 client video reviews, and on Feefo the rating is 5.0 from 73 verified reviews in the past year. Many came to us after other approaches; start with reviews from families who tried other methods first.
+Pricing is custom to your baby and is set on the free consultation. Book one, tell us what is happening at night, and we will tell you honestly how we would help.
 Related guidesWhen is the right time to hire a baby sleep consultant?What credentials should a baby sleep consultant have?How do I choose a baby sleep consultant? Questions to ask before you hireWhat does a baby sleep consultant actually do?What should a sleep-training guarantee actually say?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-Are sleep consultants worth the money?If you have already tried a consistent approach and it failed, usually yes: the cost is weeks of lost sleep for the whole family. If you have not, try one free method consistently first.
-What is the difference between a sleep consultant and a sleep coach?Nothing regulated. Neither is a licensed title. Judge the person by credentials, process, support and whether results are guaranteed.
-Can a sleep consultant help with naps?Yes, and naps are where coaching matters most because they take longest and tempt parents to give up.
+Are sleep consultants worth the money?At Actually Sleeping, pricing is custom to your baby and is set on the free consultation. What you get is a plan written for your baby, daily support and a written guarantee: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, you get a full refund.
+What is the difference between a sleep consultant and a sleep coach?Nothing regulated. Neither is a licensed title. Judge the person by credentials, who writes the plan, how often you hear from them, and whether the result is guaranteed in writing with a refund.
+Can a sleep consultant help with naps?Yes, and naps are where coaching matters most, because they take longest and tempt parents to give up. At Actually Sleeping, naps are coached until they are solid as part of every plan, with daily check-ins adjusting them as your baby changes.
+ReferencesHealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.HealthyChildren.org (AAP). What is the safest sleep solution for my baby with reflux?
 
 ---
 
@@ -777,23 +810,28 @@ Can a sleep consultant help with naps?Yes, and naps are where coaching matters m
 URL: https://actuallysleepingllc.com/guides/feed-to-sleep-association/
 
 How do I break the feed-to-sleep association?
-Move the feed to the start of the bedtime routine instead of the end, so your baby finishes eating 15–20 minutes before lying down awake, and then respond to wake-ups without feeding (or with one scheduled feed if your baby still needs it). The association usually loosens in 3–5 nights.
+The association loosens when your baby learns to fall asleep without feeding, while still getting every feed they need. It is a change in how sleep starts, not a cut in milk, and night feeds stay for as long as your pediatrician wants them. Actually Sleeping builds this into a plan written for your baby, with live support on night one and daily check-ins.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
 Why feeding to sleep causes wake-ups
-Feeding is the most powerful sleep cue a baby has. A baby who falls asleep eating learns that eating is how sleep starts — at bedtime and at every cycle transition after it. The night feeds that follow are often requests for the sleep cue, not calories.
-The routine swap
-Feed first in a lit room, then diaper, pajamas, book, song, bed.
-Keep baby awake through the feed. Unlatch or remove the bottle at the first slow, drowsy suck.
-Down awake. Drowsy-but-awake is a myth for most babies; aim for clearly awake.
-Decide on night feeds in advance with your pediatrician. Under about 6 months many babies keep one; after that most do not need any if gaining well.
+Feeding is the most powerful sleep cue a baby has. A baby who falls asleep eating learns that eating is how sleep starts, at bedtime and at every return to near-waking between sleep cycles after it. Some of the night feeds that follow are requests for the sleep cue rather than for milk. Feeding to sleep is biologically normal. It becomes a problem when it is the only way your baby can fall asleep and you are up every couple of hours.
+This is a problem Actually Sleeping is built to fix. Dr. Sam writes a plan that separates feeding from falling asleep for your baby, while keeping every feed your pediatrician wants, and a coach is with you live on night one.
+Why it is harder to change than it looks
+The feed is comfort as well as food. Change it and your baby protests the change, not hunger.
+Quick swaps move the problem. Replace the feed with rocking or a pacifier and your baby needs that between cycles instead.
+Partial attempts backfire. Feeding back to sleep after a long protest teaches a baby that protesting longer works.
+Generic advice assumes an average baby. Age, growth, breast or bottle, number of night feeds and temperament all change what the right plan looks like.
+Most families who come to us have already tried moving the feed or cutting feeds on their own. Often the feed was never the only thing their baby relied on to fall back asleep.
 For breastfeeding families
-This works with breastfeeding. The change is the order of events, not the amount of milk. If supply or weight gain is a concern, loop in your pediatrician or lactation consultant before dropping any night feed.
+Breaking the association works with breastfeeding. The change is to how sleep starts, not to the amount of milk. If supply or weight gain is a concern, talk with your pediatrician or a lactation consultant before any night feed changes. Your supply and comfort are part of how a plan is paced.
+How Actually Sleeping handles it
+Dr. Sam writes the plan around your baby’s age, feeds, temperament and how they fall asleep now. Night feeds are never forced out; your pediatrician decides when they change. You get live support on the first night, daily 1:1 check-ins, and naps coached until solid. The result is guaranteed: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund.
+Watch other parents describe the change in our reviews from families whose babies fed or rocked to sleep. Then book a free consultation and tell us how your baby feeds and falls asleep today.
 Related guidesDoes a dream feed help a baby sleep longer?Is white noise safe for my baby, and how loud should it be?When can my baby sleep with a blanket, pillow or stuffed animal?What should my baby wear to sleep, and what TOG sleep sack do I need?My toddler won’t stay in bed. How do I fix it?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-Is it bad to feed my baby to sleep?Not bad — it is biologically normal. It becomes a problem when it is the only way your baby can fall asleep and you are up every two hours.
-At what age can I stop feeding to sleep?From about 10–12 weeks you can start separating the feed from sleep onset. Dropping night feeds entirely is a pediatrician call, usually somewhere between 4 and 6 months.
-Will my baby be hungry if I don’t feed at night?If daytime intake is adequate and growth is on track, most babies over 6 months are not. Offer more during the day as night feeds go.
+Is it bad to feed my baby to sleep?Not bad. It is biologically normal. It becomes a problem when it is the only way your baby can fall asleep and you are up every couple of hours. That is when a Actually Sleeping plan helps, keeping the feeds your baby needs.
+At what age can I stop feeding to sleep?Actually Sleeping works with families from the newborn stage, laying foundations early, and the 14-day guarantee clock starts at the 10-week birthday. Separating feeding from falling asleep is not the same as dropping night feeds, which is always your pediatrician’s call.
+Will my baby be hungry if I don’t feed at night?Whether your baby still needs night feeds is your pediatrician’s call. Actually Sleeping plans never force dropping night feeds. Changing how your baby falls asleep is separate from how much they eat, so needed feeds stay while wake-ups that are not about hunger stop needing a feed.
 
 ---
 
@@ -801,23 +839,27 @@ Will my baby be hungry if I don’t feed at night?If daytime intake is adequate 
 URL: https://actuallysleepingllc.com/guides/12-month-sleep-regression/
 
 Why is my 12 month old suddenly waking at night?
-Night waking around 12 months is usually driven by walking, separation anxiety and a nap transition that is not ready yet — most one-year-olds still need two naps until 14–18 months. Keep two naps, keep the bedtime response consistent, and the waking typically settles in 1–2 weeks.
+Night waking around 12 months usually comes from new motor skills, separation anxiety or a day schedule that no longer fits, often on top of a baby who still needs help falling back asleep. It settles best once your baby can fall asleep independently and the day fits their age. A Actually Sleeping plan written for your one-year-old covers all of it.
 Reading this at 3 a.m.? You do not have to work it out alone. Actually Sleeping builds a plan for your baby and stays with you every day until they are sleeping through, with a full-refund guarantee. Book a free consultation →
-The three usual causes
-Gross motor leaps. Standing and walking get practiced in the crib at 3 a.m. Practice during the day; respond at night without turning it into a game.
-Separation anxiety. Peaks around 10–14 months. A predictable routine and a consistent response reassure more than extra rocking does.
-A premature nap transition. Many one-year-olds briefly refuse a nap and parents drop to one. The result is an overtired baby who wakes more at night. Hold two naps until 14–18 months unless the second nap is consistently refused for two weeks.
-What to do
-Check the schedule: two naps, wake windows of roughly 3–4 hours, bedtime 7–8 p.m.
-Respond to wake-ups the same way you did before the regression. New habits start fast at this age.
-Do not reintroduce night feeds or bed-sharing to get through it unless you plan to keep them.
-A previously trained baby usually returns to baseline in a few nights. If your baby was never sleeping independently, 12 months is a good age to start; toddlers respond quickly to clear, consistent boundaries.
+The usual causes
+New motor skills. Pulling up, standing and cruising get practiced in the crib in the middle of the night.
+Separation anxiety. According to the AAP, separation anxiety begins in the second half of the first year and can cause many nights of disrupted sleep. It usually fades around the second birthday.
+A nap change that does not fit. A one-year-old who refuses a nap for a few days is not always ready to drop it. Dropping too early can leave an overtired baby who wakes more at night.
+This is where Actually Sleeping comes in. Dr. Sam writes a plan for your one-year-old that covers nights, naps and the nap schedule together, and a coach is with you live on night one.
+Why it does not always pass on its own
+Separation anxiety can last months, not days. Meanwhile, new habits form fast at this age. Extra rocking, a return to night feeds or bringing your baby into your bed to get through a rough week can quickly become what your baby expects every night. One-year-olds also notice inconsistency and test it. A baby who never learned to fall asleep independently has nothing to fall back on when a new skill or a wave of anxiety arrives.
+Why a one-year-old needs a plan built for them
+Every toddler’s mix is different: how they fall asleep now, how many naps they take, daycare or a nanny, siblings, temperament and how strongly they protest. A previously good sleeper who has slipped needs a different plan from a baby who has never slept independently. Generic advice treats them the same.
+How Actually Sleeping handles it
+We work with children up to 3 years. You get a plan written by Dr. Sam, live support on the first night, daily 1:1 check-ins, and naps coached until solid, including through nap transitions. Night feeds are never forced out of the plan. The result is guaranteed: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If not, you get a full refund.
+See what other parents say in our reviews from families of 10 to 12 month olds, then book a free consultation and tell us what nights look like now.
 Related guidesWhy is my 8, 9 or 10 month old suddenly waking at night?Is it the 4 month sleep regression or a real sleep problem?Is there a 2 year old sleep regression?Is the 18 month sleep regression real, and what do I do about it?My toddler snores and breathes through their mouth at night. When should I see the pediatrician?
 Want this fixed for your baby?Actually Sleeping is 1:1 coaching: a sleep plan written for your baby by Dr. Sam, live support on the first night, and daily check-ins until it is working. 700+ families coached, 129 video reviews, and a written guarantee: 8–12 hours through the night within 14 days, or a full refund.Book your free consultation → &nbsp; See what families say
 Frequently asked
-How long does the 12 month sleep regression last?Typically 1–2 weeks with a consistent response. Longer usually means the schedule is off or the response has changed.
-Should my 12 month old be on one nap?Usually not yet. Most toddlers move to one nap between 14 and 18 months.
-Is my 1 year old teething?Maybe, but teething disrupts sleep for a few nights, not weeks. Persistent waking is a pattern.
+How long does the 12 month sleep regression last?Waking from a new skill is often short-lived. The AAP notes that separation anxiety can disrupt sleep for months and usually fades around the second birthday. If waking has become a nightly pattern, a Actually Sleeping plan written for your one-year-old addresses it.
+Should my 12 month old be on one nap?It depends on your baby. Dropping to one nap too early is a common cause of overtired night waking, so a few days of nap refusal is not always a sign it is time. Dr. Sam sets nap timing in the plan, and daily check-ins adjust it through the transition.
+Is my 1 year old teething?Maybe. If you think teething pain is the problem, ask your pediatrician or pharmacist what is safe for comfort. Waking that follows the same pattern night after night for weeks usually has more to do with how your baby falls asleep, which a Actually Sleeping plan can change.
+ReferencesHealthyChildren.org (AAP). Separation Anxiety and Sleeping.
 
 ---
 
