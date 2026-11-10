@@ -3112,7 +3112,7 @@ Fit. A plan built from your baby’s age, feeding, naps, room, temperament and y
 Adjustment. When night 3 looks different from night 2, someone who has seen the pattern before tells you what to change and what to leave alone.
 Accountability. Knowing you will report to a person tomorrow makes it easier to follow the plan at 2 a.m.
 What the research says about the methods
-An American Academy of Sleep Medicine review of 52 treatment studies found that 94% reported behavioral interventions for bedtime problems and night waking were effective, with over 80% of children treated showing clinically significant improvement, maintained for 3 to 6 months. That is evidence that the approaches work. It is not evidence that you need to hire anyone to use them. No trial has tested paid consultants against doing it yourself.
+An American Academy of Sleep Medicine review of 52 treatment studies found that 94% reported behavioral interventions for bedtime problems and night waking were effective, with over 80% of children treated showing clinically significant improvement, maintained for 3 to 6 months. That is evidence that the approaches work. It is not evidence that you need to hire anyone to use them. We are not aware of any trial that has tested paid consultants against doing it yourself.
 It is often worth it when
 You tried a book or course, followed it for at least a week, and sleep is still broken.
 Your situation has extra moving parts: reflux under treatment, a premature baby, twins, a toddler who leaves the bed, a baby who shares your room.
@@ -3172,7 +3172,7 @@ PlanAge-based template, lightly editedWritten from scratch for your baby
 First nightYou are on your ownLive support while you do it
 Follow-upOne call or a few emailsDaily check-ins
 NapsGeneral adviceCoached until they are reliable
-How Actually Sleeping handles this: The plan is written personally by Dr. Sam from a detailed intake. A coach supports you live on night one, the team checks in with you 1:1 every day, and naps are coached until solid. The approach is not cry it out and not wait it out.
+How Actually Sleeping handles this: The plan is written personally by Dr. Sam from a detailed intake. You get live support on night one, daily 1:1 check-ins, and naps coached until solid. The approach is not cry it out and not wait it out.
 Frequently asked
 Does a sleep consultant come to my house?Most work remotely by video, phone and messaging. Some offer in-home visits. In either case, you are usually the one putting your baby down, because your baby needs to learn to sleep with you, not with a visitor.
 Is a sleep consultant the same as a sleep coach?In practice, yes. Neither title is a licensed profession, and people use them interchangeably. Judge the person by their process, support, credentials and what they put in writing, not by the title.
@@ -3216,7 +3216,7 @@ Make the comparison easy
 Put each consultant’s answers in a simple table. Differences in support and guarantees tend to matter more than differences in method.
 How Actually Sleeping handles this: The guarantee is written into the Terms of Service: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” Full refund if not. Dr. Sam (Dr. Samantha Abrahamson, PharmD, a Pennsylvania-licensed pharmacist) writes every plan. There is live support on night one, daily 1:1 check-ins, and naps are coached until solid. It is not cry it out and not wait it out. The practice works with families from newborn to 3 years. Its 129 client video reviews are at actuallysleeping.com/reviews.
 Frequently asked
-What is the most important question to ask a sleep consultant?Ask how much live support you get and for how long. Most plans fail on nights 2 to 5, when something unexpected happens. A consultant you can reach then matters more than the method named on the website.
+What is the most important question to ask a sleep consultant?Ask how much live support you get and for how long. Plans most often wobble in the first few nights, when something unexpected happens. A consultant you can reach then matters more than the method named on the website.
 Should I ask for references?You can. More useful is a set of reviews you can check: video reviews from identifiable families, or reviews collected by an independent service that confirms each reviewer paid. Ask how recent they are.
 Is it a red flag if a consultant has no guarantee?Not by itself. Many good consultants do not guarantee outcomes. It is a red flag if a consultant implies a guarantee in marketing but cannot show you the written wording.
 Should both parents be on the consultation call?If you can manage it, yes. Both parents usually handle nights at some point, and a plan works best when both of you have heard the reasoning and agreed to it before night one.
@@ -3330,7 +3330,7 @@ Bedtime fadingYou temporarily move bedtime later to when your baby is truly slee
 Pick up, put down and other hands-on approachesYou comfort with touch or by lifting until calm, then return baby to the cribVaries with baby; can overstimulate some
 More detail on each: cry it out, timed checks, the chair method, bedtime fading, gentle methods compared.
 What the research says
-An American Academy of Sleep Medicine review of 52 studies found strong support for unmodified extinction and extinction with a parent present, clear support for graduated extinction, and support for positive routines with bedtime fading. The review reported no detrimental effects in the studies it examined. A randomized trial of 43 infants aged 6 to 16 months compared graduated extinction and bedtime fading with a sleep-education control. Both methods improved sleep. Infant cortisol and maternal stress fell more in the intervention groups, and at 12 months there were no differences in emotional or behavioral problems or in parent-child attachment.
+An American Academy of Sleep Medicine review of 52 studies found strong support for unmodified extinction, clear support for graduated extinction, and support for extinction with a parent present and for positive routines with bedtime fading. The review reported no detrimental effects in the studies it examined. A randomized trial of 43 infants aged 6 to 16 months compared graduated extinction and bedtime fading with a sleep-education control. Both methods improved sleep. Infant cortisol and maternal stress fell more in the intervention groups, and at 12 months there were no differences in emotional or behavioral problems or in parent-child attachment.
 So the evidence does not require cry it out. Several approaches with less crying also work. What they have in common is consistency.
 Why “no crying at all” is rarely realistic
 When you change how your baby falls asleep, your baby notices and protests. That protest is communication, not harm, and it usually fades as the new pattern becomes familiar. A consultant who promises zero tears is either describing a baby who was nearly ready anyway or setting you up to feel you failed. A better promise is a clear plan for how you will respond.
@@ -3341,7 +3341,7 @@ What to ask
 “What is different for a younger baby versus a toddler?”
 Matching the method to your family
 The best method is the one you will carry out the same way every night. Parents who cannot listen to crying from outside the door often do better staying in the room, even though it takes longer. Parents who find the in-between approaches confusing sometimes prefer a cleaner, faster method. A consultant should ask about this before writing the plan, not after night one.
-How Actually Sleeping handles this: The plan is not cry it out and not wait it out. Dr. Sam writes it around your baby and your limits, a coach supports you live on night one, and daily 1:1 check-ins let the plan be adjusted as your baby responds.
+How Actually Sleeping handles this: The plan is not cry it out and not wait it out. Dr. Sam writes it around your baby and your limits, you get live support on night one, and daily 1:1 check-ins let the plan be adjusted as your baby responds.
 Frequently asked
 Is cry it out harmful?In the studies reviewed by the AASM, no detrimental effects were reported, and a randomized trial found no differences in emotional or behavioral problems or attachment at 12 months. Many families still prefer other methods, which also work.
 Can sleep training work without any crying?Some babies make the change with very little crying, especially with gradual methods. Most protest at least a little because something familiar changed. Plan for some crying and decide in advance how you will respond.
@@ -3357,7 +3357,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/when-to-hire-a-sleep-consultant/
 
 When is the right time to hire a baby sleep consultant?
-There are two good moments. In the newborn weeks, for foundations: safe sleep, feeding on cue, a simple routine and realistic expectations, with no crying-based training and no stretching of feeds. And later, when sleep has been a problem for more than two weeks and one consistent attempt has not fixed it. Hiring sooner beats waiting for things to break.
+There are two good moments. In the newborn weeks, for foundations: safe sleep, feeding on cue, a simple routine and realistic expectations, with no crying-based training and no stretching of feeds. And later, when sleep has been a problem for more than two weeks and one consistent attempt has not fixed it.
 Newborn: foundations, not training
 A newborn should not be sleep trained. That does not mean nothing can be done. The newborn weeks are when habits form, and parents can shape them gently:
 Safe sleep from night one. Back to sleep, firm flat surface, nothing soft or weighted in the crib or bassinet, room sharing without bed sharing, as the AAP recommends.
@@ -3386,7 +3386,7 @@ Start on a night when both parents, or a supportive second adult, can be around 
 Many families start on a Friday so the hardest nights fall on a weekend.
 Do the intake a few days ahead so the plan is ready, not rushed.
 Hiring help is not a sign you failed
-Parents often wait until they are exhausted because asking for help feels like giving up. It is not. Most families who get stuck have done many things right and are missing one or two details, or need someone to hold the line with them for a week. Getting help earlier usually means fewer hard nights overall.
+Parents often wait until they are exhausted because asking for help feels like giving up. It is not. Most families who get stuck have done many things right and are missing one or two details, or need someone to hold the line with them for a week.
 For age-specific guidance, see the best age to sleep train.
 How Actually Sleeping handles this: Actually Sleeping works with families from newborn to 3 years. Newborn plans focus on foundations, and no plan forces dropping night feeds; feeding decisions belong to your pediatrician. The written guarantee (“We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.”) applies from 10 weeks: the 14-day clock starts at your baby’s 10-week birthday.
 Frequently asked
@@ -3404,7 +3404,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/sleep-consultant-for-toddlers/
 
 Can a sleep consultant help with a toddler, or is it too late?
-It is not too late. Behavioral sleep methods have been studied in toddlers and young children as well as babies, and they work. Toddler plans look different: more talking, clear limits, a predictable routine, a plan for leaving the bed, and often a visual cue for morning. Expect more negotiation than with a baby, and fast progress once the rules are consistent.
+It is not too late. Behavioral sleep methods have been studied in toddlers and young children as well as babies, and they work. Toddler plans look different: more talking, clear limits, a predictable routine, a plan for leaving the bed, and often a visual cue for morning. Expect more negotiation than with a baby; progress is often quick once the rules are consistent.
 What the research covers
 The AASM review of 52 studies covered bedtime problems and night wakings in infants and young children, not only babies. A randomized trial of a self-directed online program enrolled children 6 to 36 months and found faster sleep onset and fewer, shorter night wakings within three weeks. Toddlers can and do change their sleep.
 How toddler sleep problems differ
@@ -3482,7 +3482,7 @@ Get it before you pay
 Read the full wording before you pay, not after. Save a copy. If something is unclear, ask for it to be clarified in writing.
 No guarantee is not a deal-breaker
 Many consultants do not guarantee outcomes, and many of them are excellent. What matters is that they are clear about it. The real problem is a guarantee that appears in advertising but not in writing.
-How Actually Sleeping handles this: The guarantee is written into the Terms of Service, word for word: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, the family receives a full refund. The 14-day clock starts at the baby’s 10-week birthday, so younger babies can begin with foundations first. Daily 1:1 check-ins are how the team sees whether the plan is being followed and working.
+How Actually Sleeping handles this: The guarantee is written into the Terms of Service, word for word: “We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan.” If that does not happen, the family receives a full refund. The 14-day clock starts at the baby’s 10-week birthday, so younger babies can begin with foundations first. Daily 1:1 check-ins show whether the plan is being followed and working.
 Frequently asked
 Do sleep consultants offer money-back guarantees?Some do, many do not. Ask to read the exact wording before you sign. A money-back guarantee should say what result is promised, by when, what you must do, and that a refund is the remedy.
 What does ‘sleeping through the night’ mean in a guarantee?It should be a number of hours, stated in writing. Without a number, you and the consultant may mean very different things. Ask before you start, not after a disappointing week.
@@ -3524,7 +3524,7 @@ Send a quick video of the room and of bedtime if your coach asks. It replaces mu
 Ask questions as they come up rather than saving them for a weekly call.
 Self-paced online versus coached online
 “Online” covers very different things. A self-paced course or app gives you material and leaves the adjusting to you. Coached remote support gives you a person who reads what happened and changes the plan. The trial above shows a well-designed self-directed program can help; families with more complicated situations often want the person. See course vs app vs consultant.
-How Actually Sleeping handles this: Actually Sleeping is fully remote, based in Coconut Grove, Florida. The plan is written by Dr. Sam, a coach supports you live on night one, and the team checks in with you 1:1 every day. More than 700 families have been coached this way since the practice was founded in 2025.
+How Actually Sleeping handles this: Actually Sleeping is fully remote, based in Coconut Grove, Florida. The plan is written by Dr. Sam, with live support on night one and daily 1:1 check-ins. More than 700 families have been coached this way since the practice was founded in 2025.
 Frequently asked
 Can a sleep consultant help without seeing my baby?Yes, if they gather enough detail. Photos or video of the room, a few days of sleep notes and a thorough intake give a remote consultant what they need. You do the nights in either format.
 Is virtual sleep training safe?The format does not change safety. What matters is that the plan follows AAP safe sleep guidance and that the consultant checks your sleep space, defers to your pediatrician on feeding and health, and never suggests medication.
@@ -3565,7 +3565,7 @@ Questions to ask
 “How many families have you worked with?”
 Credentials are one input
 A strong credential with thin support can do less for your family than a well-trained coach who answers you every day. Weigh credentials together with who writes the plan, how much live support you get, and what the consultant commits to in writing. See how to choose a sleep consultant.
-How Actually Sleeping handles this: Dr. Sam is Dr. Samantha Abrahamson, PharmD, a Doctor of Pharmacy and Pennsylvania-licensed pharmacist. She is not a physician and does not give medical advice; your pediatrician remains the authority on your baby’s health. She writes every family’s plan personally, and the practice has coached more than 700 families.
+How Actually Sleeping handles this: Dr. Sam is Dr. Samantha Abrahamson, PharmD, a Doctor of Pharmacy and Pennsylvania-licensed pharmacist. She is not a physician and does not diagnose or treat; your pediatrician remains the authority on your baby’s health. She writes every family’s plan personally, and the practice has coached more than 700 families.
 Frequently asked
 Are sleep consultants certified?Many hold certifications from private training programs, which vary in content, length and standards. There is no single required credential. Ask which program they completed, what it covered, and whether it included screening for medical issues.
 Is a sleep consultant a medical professional?Usually not. In one survey of practicing sleep coaches, only 20% were or had been licensed health care providers. Even those who are should not diagnose or treat as part of coaching.
@@ -3602,7 +3602,7 @@ Illness, travel, daylight saving time or starting daycare in the middle.
 A schedule that leaves your baby overtired or not tired enough at bedtime. See wake windows by age.
 Night feeds that are still needed. That is fine; it changes what “through the night” looks like for now.
 When to worry the plan is not working
-If you have been consistent for 7 to 10 nights and nothing has improved, something in the plan needs to change: timing, the response, or a missed medical issue. A consultant should spot this from your log. See sleep training not working and how long sleep training takes.
+If you have been consistent for about a week (longer with gradual methods) and nothing has improved, something in the plan needs to change: timing, the response, or a missed medical issue. A consultant should spot this from your log. See sleep training not working and how long sleep training takes.
 Results by age
 Newborns: foundations, not results on a clock. The goal is safe sleep, good feeding and a routine your baby starts to recognize.
 Older babies: the trials cited here enrolled children 6 to 16 months and 6 to 36 months, and both found that sleep improved.
@@ -3670,8 +3670,8 @@ URL: https://actuallysleepingllc.com/guides/benadryl-diphenhydramine-for-baby-sl
 
 Does Benadryl (diphenhydramine) help a baby or toddler sleep, and is it safe?
 No. Diphenhydramine should not be used to make a child sleepy. In a randomized trial of babies 6 to 15 months old who woke at night, it worked no better than a placebo. It can cause excitement instead of drowsiness in children, and too much can cause seizures or heart problems. Use it only for a reason your child’s pediatrician agrees with.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 Diphenhydramine is an older antihistamine. In adults it causes drowsiness, which is why it appears in many “PM” and nighttime products. Children are not small adults. The same medicine that makes a parent sleepy can make a toddler wired, and the trial evidence in babies shows it does not fix night waking.
 What the evidence and the regulators say
 The label position. The National Library of Medicine’s drug page states that diphenhydramine should not be used to make a child sleepy. It also says not to use it in children 2 to 5 years old unless a doctor directs it, and lists excitement, especially in children, as a side effect.
@@ -3689,7 +3689,7 @@ What to ask the pediatrician
 What actually helps sleep instead
 A consistent bedtime and a short, predictable routine in the same order every night. The AAP calls good sleep habits the best medicine and puts routines first.
 A dark, quiet room and the same sleep space for naps and night.
-How your child falls asleep. A child who falls asleep on their own at bedtime is far more likely to resettle on their own at 2 a.m. This is the piece medicines never touch.
+How your child falls asleep. A child who falls asleep on their own at bedtime is often better able to resettle on their own at 2 a.m. This is the piece medicines never touch.
 A safe sleep space for babies: on the back, on a firm, flat surface, with no soft bedding.
 If the waking is a pattern and not a medical problem, that is coaching territory. Actually Sleeping builds a written plan for that pattern, with daily support while you carry it out.
 Frequently asked
@@ -3708,9 +3708,9 @@ URL: https://actuallysleepingllc.com/guides/magnesium-for-toddler-sleep/
 
 Is magnesium safe for toddler sleep, and does it work?
 There is very little research on magnesium for sleep, and almost none in toddlers. NIH notes conflicting results even in adults. Magnesium from food is safe, but supplements above the upper limit can cause diarrhea, nausea and cramping, and extremely high amounts can affect the heart. Ask your child’s pediatrician before giving any magnesium supplement, spray or powder.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
-Magnesium is an essential mineral, and toddlers need it. That does not make a supplement a sleep aid. The research that exists is small, mostly in adults, and inconsistent. For a healthy toddler eating a varied diet, I would not reach for magnesium to fix bedtime battles or night waking.
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
+Magnesium is an essential mineral, and toddlers need it. That does not make a supplement a sleep aid. The research that exists is small, mostly in adults, and inconsistent. For a healthy toddler eating a varied diet, a magnesium supplement is not a sensible first step for bedtime battles or night waking.
 What the evidence says
 Very little research. The National Center for Complementary and Integrative Health (NIH) states that there is very little research on magnesium for insomnia, and that a 2022 review found conflicting results and called for larger, longer studies.
 Food is the main source. The NIH Office of Dietary Supplements lists legumes, nuts, seeds, whole grains, leafy greens such as spinach, fortified cereals, and milk and yogurt as sources. It states that magnesium naturally present in food and drinks is not harmful.
@@ -3718,7 +3718,7 @@ Supplements have upper limits. NIH sets upper limits for magnesium from suppleme
 Too much causes problems. Excess magnesium from supplements or medicines can cause diarrhea, nausea and abdominal cramping. Extremely high intakes can cause an irregular heartbeat.
 Interactions. Magnesium can interfere with some antibiotics if taken too close together in time. If your child takes any regular medicine, ask your pharmacist about spacing.
 Sprays, lotions, bath flakes and gummies
-The NIH evidence summaries cover magnesium taken by mouth. I found no good studies showing that magnesium sprays, lotions or bath products improve a child’s sleep. Gummies add another problem: they look like candy. Any supplement in the house should be stored up high and out of sight, because NIH notes that supplement labels do not always match what is in the bottle and that many supplements have not been tested in children.
+The NIH evidence summaries cover magnesium taken by mouth. They do not show that magnesium sprays, lotions or bath products improve a child’s sleep. Gummies add another problem: they look like candy. Any supplement in the house should be stored up high and out of sight, because NIH notes that supplement labels do not always match what is in the bottle and that many supplements have not been tested in children.
 Why magnesium often seems to work
 Parents usually start a supplement on a bad week. Sleep regressions, illnesses and schedule changes often settle on their own within days or weeks. A new bedtime ritual, such as a warm bath with a lotion, can also help simply because it is calm and predictable. The routine may be doing the work, not the mineral.
 What to ask the pediatrician
@@ -3727,7 +3727,7 @@ What to ask the pediatrician
 “Does a supplement interact with any medicine my child takes?”
 What actually helps sleep instead
 Same bedtime, same order, every night. Toddlers relax when they know what comes next.
-A calm last hour. Dim lights and no screens; the AAP notes that blue light from devices can suppress natural melatonin.
+A calm last hour. Dim lights and no screens; the AAP notes that blue light from devices can fool the brain into thinking it is daytime.
 Clear, kind limits on stalling and extra requests, held the same way by every adult.
 Falling asleep independently. A toddler who drifts off without a parent present is better able to settle between sleep cycles.
 See also toddler won’t stay in bed and the 2 year old sleep regression.
@@ -3747,8 +3747,8 @@ URL: https://actuallysleepingllc.com/guides/gripe-water-and-baby-sleep/
 
 Does gripe water help a baby sleep?
 There is no good evidence that it does. Gripe water is usually sold as a dietary supplement, not a tested medicine, so ingredients and quality vary. A study of 335 mothers found babies given gripe water were no less likely to have colic. Fussy evening crying usually peaks around 6 weeks and eases by 3 to 4 months. Ask your pediatrician before using it.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 Gripe water is a traditional remedy for gas, colic and fussiness. Ingredients vary from product to product, so “gripe water” does not describe one thing. What the products share is a lack of evidence that they help a baby sleep or cry less.
 What the evidence and the regulators say
 Study evidence. A cross-sectional study of 335 mothers of babies 1 to 6 months old found that about 64% had given gripe water. Colic was actually more common in the babies who received it, as was constipation. The authors concluded that gripe water does not prevent excessive crying from colic. A study like this shows an association, not cause and effect, but it gives no support for a benefit.
@@ -3785,14 +3785,14 @@ URL: https://actuallysleepingllc.com/guides/homeopathic-and-natural-baby-sleep-r
 
 Are natural or homeopathic baby sleep drops and teething tablets safe?
 Not reliably. The FDA has approved no homeopathic product and has not reviewed them for safety or effectiveness. FDA testing of homeopathic teething tablets found belladonna levels that sometimes far exceeded the label, a risk the agency called unnecessary for children under 2. Herbal “sleep” products have weak evidence. Check with your child’s pediatrician before using any of them.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 “Natural” and “homeopathic” are marketing and regulatory categories. They do not mean tested, gentle or safe for babies. Some of these products contain plant extracts that are poisonous in larger amounts, and manufacturing control has been a documented problem.
 What the FDA says about homeopathic products
 No approvals. The FDA states that there are no FDA-approved products labeled as homeopathic, and that homeopathic products have not been reviewed by the FDA for safety and effectiveness.
 Risky ingredients. The FDA warns that homeopathic makers use sources that include known poisons or toxins, and that poor manufacturing controls can produce products that exceed their labeled strength. Some are marketed for infants and children.
 Teething tablets. FDA lab analysis of homeopathic teething tablets found belladonna alkaloids in amounts that varied from tablet to tablet and, in some, far exceeded the label. The FDA said this poses an unnecessary risk to infants and children under 2. The FDA also lists homeopathic teething tablets among teething products associated with serious risks.
-Cough and cold. The FDA advises against giving homeopathic cough and cold medicine to children younger than 4 and says it is not aware of any proven benefits of these products.
+Cough and cold. The FDA advises against giving homeopathic cough and cold medicine to children younger than 4.
 Herbal and supplement “sleep drops”
 Chamomile: NIH says there is no conclusive evidence from clinical trials on whether it helps sleep. People allergic to ragweed or related plants can react to it.
 Valerian: clinical trials have had inconsistent results, and the American Academy of Sleep Medicine’s 2017 guideline recommended against valerian for chronic insomnia in adults.
@@ -3825,9 +3825,9 @@ URL: https://actuallysleepingllc.com/guides/iron-deficiency-and-restless-toddler
 
 Can low iron (ferritin) cause restless sleep in a toddler?
 It can play a part. Restless legs that disturb sleep are listed by the AAP as a sign of more significant iron-deficiency anemia, and sleep guidelines ask clinicians to check ferritin in children with restless legs. Iron deficiency in infancy has also been linked to altered sleep patterns later. Never start iron on your own; ask your child’s pediatrician about testing.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
-Iron matters for the brain, and low iron has real links to sleep. But most toddlers who toss and turn are not iron deficient, and iron supplements are dangerous in an accidental overdose. The right step is a conversation with the pediatrician and, if they think it fits, a blood test. Not a supplement from the store.
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
+Iron matters for the brain, and low iron has real links to sleep. But restless sleep in toddlers has many possible causes, and iron supplements are dangerous in an accidental overdose. The right step is a conversation with the pediatrician and, if they think it fits, a blood test. Not a supplement from the store.
 What the evidence says
 Signs of iron deficiency. The AAP lists pale skin, irritability, fatigue or needing more naps, and cravings for non-food items such as ice or dirt. In more severe anemia it lists restless leg syndrome that interferes with healthy sleep.
 Long-term sleep effects. A study of 4-year-olds followed from infancy found that children who had iron-deficiency anemia as babies had differences in how their sleep stages were organized across the night on overnight sleep studies, compared with children who had not.
@@ -3851,7 +3851,7 @@ The same calm routine every night, and a child who falls asleep on their own.
 Watch, then decide: a week of notes on bedtime, wakings and movements makes the pediatrician visit far more useful.
 Frequently asked
 What are signs of low iron in a toddler?The AAP lists pale skin, irritability, fatigue or needing more naps, and craving non-food items such as ice or dirt. In more severe anemia it lists restless legs that disturb sleep. Your pediatrician can check with a blood test.
-Should I give my toddler an iron supplement for restless sleep?Not without testing and your pediatrician’s direction. Federal labeling warns that accidental iron overdose is a leading cause of fatal poisoning in children under 6, and most restless sleep has other causes.
+Should I give my toddler an iron supplement for restless sleep?Not without testing and your pediatrician’s direction. Federal labeling warns that accidental iron overdose is a leading cause of fatal poisoning in children under 6, and restless sleep has many other possible causes.
 Can drinking too much milk affect my toddler’s sleep?Indirectly. The AAP advises no more than 24 ounces of milk a day after age one, because milk is low in iron and can crowd out iron-rich foods. Low iron is linked to restless legs that disturb sleep.
 Does iron deficiency as a baby affect sleep later?One long-term study found 4-year-olds who had iron-deficiency anemia in infancy had differences in how their sleep stages were organized. This is one reason the AAP recommends iron screening around the first birthday.
 ReferencesHealthyChildren.org (AAP). Iron Deficiency and Anemia in Babies, Children and Teens.HealthyChildren.org (AAP). Where We Stand: Vitamin D and Iron Supplements for Babies.Peirano PD, Algarín CR, Garrido MI, Lozoff B. Iron Deficiency Anemia in Infancy Is Associated with Altered Temporal Organization of Sleep States in Childhood. Pediatr Res. 2007;62(6):715-719.American Academy of Sleep Medicine. Treatment of Restless Legs Syndrome and Periodic Limb Movement Disorder: Clinical Practice Guideline at a Glance. 2025.DelRosso LM, et al. Consensus diagnostic criteria for a newly defined pediatric sleep disorder: restless sleep disorder (RSD). Sleep Med. 2020.U.S. Food and Drug Administration. Small Entity Compliance Guide: Label Warning Statements for Iron-Containing Supplements and Drugs.
@@ -3865,14 +3865,14 @@ URL: https://actuallysleepingllc.com/guides/melatonin-for-flights-and-jet-lag-to
 
 Is it safe to give a baby or toddler melatonin for a flight or jet lag?
 Not without your pediatrician’s direction. The AAP says melatonin should only be used after a discussion with your pediatrician. It is sold as a supplement, product strength varies widely, and child poisonings rose sharply over the past decade. Light, meals and naps on local time shift a young child’s body clock without a supplement.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
-A one-off dose for travel can sound harmless. The problems are the same as with nightly use: you cannot be sure how much is in the product, there is little research in babies and toddlers, and travel bags are where curious toddlers find gummies. For a young child, I would plan the trip around light and schedule instead.
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
+A one-off dose for travel can sound harmless. The problems are the same as with nightly use: you cannot be sure how much is in the product, there is little research in babies and toddlers, and travel bags are where curious toddlers find gummies. For a young child, planning the trip around light and schedule avoids those problems.
 What the evidence and the regulators say
 Pediatrician first. The AAP says melatonin should only be used after a discussion with your pediatrician. The American Academy of Sleep Medicine advises parents to talk with a health care professional before giving melatonin or any supplement to children.
 Unregulated strength. Melatonin is sold as a dietary supplement. The AASM cites a study in which melatonin content ranged from less than half to more than four times the amount on the label, with chewables varying most. CDC travel guidance also notes melatonin is not regulated by the FDA.
 Poisonings. A CDC report found pediatric melatonin ingestions rose about 530% from 2012 to 2021. Children 5 and younger made up most reports, and two children under 2 died.
-Jet lag research is in adults. NIH notes melatonin may help jet lag, but that evidence comes from adults, and long-term safety is not established.
+Jet lag benefit does not settle safety. NIH notes melatonin may help with jet lag, but its long-term safety has not been established.
 No help for ears. CDC guidance says antihistamines are contraindicated under age 1 and have not been shown to help ear pain on flights; swallowing does. Let babies nurse or suck a bottle or pacifier on descent.
 How the body clock actually shifts
 CDC travel guidance gives an average adaptation of about 1.5 hours a day after flying west and 1 hour a day after flying east. Bright morning light helps the clock move earlier; evening light pushes it later. CDC also notes jet lag disturbs children’s sleep just as it does adults’. So the tools are the same for a toddler: light, meals and sleep timing.
@@ -3895,7 +3895,7 @@ A child who falls asleep on their own at home brings that skill on vacation. The
 Frequently asked
 Can I give my 1 year old melatonin for a long flight?Only if your pediatrician recommends it. The AAP says melatonin should only be used after a discussion with your pediatrician, and product strength varies widely. Feeding, holding and daylight on arrival are the usual tools.
 How long does jet lag last in a toddler?CDC travel guidance gives an average adjustment of about 1 to 1.5 hours a day, faster going west than east. Morning daylight and local mealtimes help the clock shift. The CDC notes jet lag disturbs children’s sleep just as it does adults’.
-Does melatonin help with jet lag?NIH notes it may help jet lag, but that evidence comes from adults. In young children the AAP and the American Academy of Sleep Medicine advise talking with a health care professional before giving it.
+Does melatonin help with jet lag?NIH notes it may help with jet lag, but its long-term safety has not been established. In young children the AAP and the American Academy of Sleep Medicine advise talking with a health care professional before giving it.
 What should I do if my toddler eats melatonin gummies?Call Poison Control at 1-800-222-1222. Call 911 if your child collapses, has a seizure, has trouble breathing or cannot be woken. CDC reported a 530% rise in child melatonin ingestions from 2012 to 2021.
 ReferencesHealthyChildren.org (AAP). Melatonin for Kids: What Parents Should Know.American Academy of Sleep Medicine. Health Advisory: Melatonin Use in Children and Adolescents.Lelak K, et al. Pediatric Melatonin Ingestions, United States, 2012-2021. MMWR. 2022;71(22).National Center for Complementary and Integrative Health (NIH). Sleep Disorders and Complementary Health Approaches: Usefulness and Safety.CDC Yellow Book. Jet Lag Disorder.CDC Yellow Book. Traveling Safely with Infants and Children.
 Related guidesIs magnesium safe for toddler sleep, and does it work?Is melatonin safe for babies and toddlers?Can I give cough and cold medicine at bedtime to a baby or toddler?Does Benadryl (diphenhydramine) help a baby or toddler sleep, and is it safe?Can low iron (ferritin) cause restless sleep in a toddler?
@@ -3908,8 +3908,8 @@ URL: https://actuallysleepingllc.com/guides/cough-and-cold-medicine-at-bedtime-t
 
 Can I give cough and cold medicine at bedtime to a baby or toddler?
 For young children, generally no. The FDA does not recommend over-the-counter cough and cold medicines for children under 2, product labels say not to use them under 4, and the AAP says to use them at 4 to 6 only if your child’s doctor recommends it. Saline, suction, a cool-mist humidifier and, after age 1, honey are the usual night-time helpers.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 A coughing, stuffy child at 10 p.m. is hard on everyone, and the medicine aisle looks like the answer. For babies and young toddlers it is not. These products do not shorten a cold, and combination products make it easy to double up on an ingredient.
 What the regulators say
 FDA: does not recommend over-the-counter cough and cold medicines for children younger than 2. Manufacturers label them “do not use in children under 4 years of age.” The FDA also advises not to give homeopathic cough and cold medicine to children younger than 4.
@@ -3949,8 +3949,8 @@ URL: https://actuallysleepingllc.com/guides/vitamin-d-probiotics-and-baby-sleep/
 
 Do vitamin D drops or probiotics affect a baby’s sleep?
 Not in any proven way. The AAP recommends vitamin D for most babies for bone health, not sleep, and a randomized trial found a higher vitamin D dose gave no sleep benefit over the standard dose. Probiotic trials for colic have mixed results, and the FDA has approved no probiotic as a drug for infants. Ask your pediatrician before changing either.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 Vitamin D drops are a routine part of infant care for many babies, and you should keep giving them as your pediatrician advised. They are not a sleep treatment, and giving more will not improve sleep. Probiotics are a different story: optional, variable products with mixed evidence for colic and no proven effect on sleep.
 Vitamin D: what the evidence says
 Why babies get it. The AAP recommends that all infants receive a vitamin D supplement, except babies drinking enough vitamin D-fortified formula. Breastfed babies specifically need it. Your pediatrician will tell you which product and how much.
@@ -3988,12 +3988,12 @@ URL: https://actuallysleepingllc.com/guides/allergy-medicine-and-toddler-sleep/
 
 Do allergy medicines affect a toddler’s sleep?
 They can, in both directions. Older antihistamines can cause drowsiness or, in some children, excitement, and should never be used just to make a child sleep. Newer ones can cause mild sleepiness. Decongestants can make it harder to fall asleep. Treated nasal allergies, on the other hand, can improve sleep. Choose with your child’s pediatrician.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 Untreated nasal allergies disturb sleep, and the right treatment can help. The wrong product, or the right one used for the wrong reason, can make nights worse. The goal is to treat the allergy, not to sedate the child.
 How each type of medicine relates to sleep
 Older (first-generation) antihistamines, such as diphenhydramine, can cause drowsiness, the AAP notes. They can also cause excitement in children, and the drug label says diphenhydramine should not be used to make a child sleepy. CDC guidance says antihistamines are contraindicated under age 1. More in Benadryl and baby sleep.
-Newer antihistamines are described by the AAP as non-sedating, though they may cause mild sleepiness, especially after the first dose. Ask your child’s doctor whether one suits your child.
+Newer antihistamines are described by the AAP as non-drowsy, though they may cause mild sleepiness, especially after the first dose. Ask your child’s doctor whether one suits your child.
 Cetirizine and levocetirizine. In 2025 the FDA added a warning about rare but severe itching after stopping long-term use, usually after months or years of daily use. If your child takes one daily, ask the pediatrician how long to continue and how to stop.
 Oral decongestants can make children act hyper, feel anxious or have a racing heart, the AAP warns, and some can make it harder to fall asleep. Ask before using them.
 Steroid nasal sprays are called the most effective treatment for nasal allergy by the AAP, which says they can help a child breathe more easily and may improve sleep.
@@ -4013,8 +4013,8 @@ Same routine and same bedtime every night, with dim light in the last hour.
 Independent sleep: once your child breathes comfortably, the way they fall asleep decides how well they resettle overnight.
 Frequently asked
 Can I give my toddler an allergy medicine to help them sleep?No. Treat allergies when your pediatrician says they need treatment, not to cause sleep. The drug label says diphenhydramine should not be used to make a child sleepy, and some children become excited instead.
-Does cetirizine make toddlers sleepy?Newer antihistamines are generally non-sedating but can cause mild sleepiness, especially after the first dose, the AAP says. In 2025 the FDA also warned of rare severe itching after stopping long-term use.
-Can montelukast cause nightmares in children?The FDA boxed warning lists bad or vivid dreams, sleepwalking and trouble sleeping among possible effects. Stop the medicine and contact your child’s health care professional right away if mood or behavior changes.
+Does cetirizine make toddlers sleepy?Newer antihistamines are generally non-drowsy but can cause mild sleepiness, especially after the first dose, the AAP says. In 2025 the FDA also warned of rare severe itching after stopping long-term use.
+Can montelukast cause nightmares in children?The FDA boxed warning lists bad or vivid dreams, sleepwalking and trouble sleeping among possible effects. The FDA advises stopping it and contacting your child’s health care professional right away if mood or behavior changes.
 Do nasal allergies cause poor sleep?Yes. The AAP lists difficulty sleeping because it is hard to breathe through the nose, and drowsiness and low energy from poor sleep. It notes steroid nasal sprays may improve sleep. Ask your pediatrician which treatment fits.
 ReferencesHealthyChildren.org (AAP). Allergy Medicine for Children.HealthyChildren.org (AAP). Allergic Rhinitis: All About Nasal Allergies in Children.MedlinePlus (National Library of Medicine). Diphenhydramine.CDC Yellow Book. Traveling Safely with Infants and Children.U.S. Food and Drug Administration. FDA requires warning about rare but severe itching after stopping long-term use of oral allergy medicines cetirizine or levocetirizine. May 16, 2025.U.S. Food and Drug Administration. FDA requires Boxed Warning about serious mental health side effects for asthma and allergy drug montelukast (Singulair). March 4, 2020.
 Related guidesCan asthma or ADHD medicines affect a young child’s sleep?Which over-the-counter medicines affect a baby’s sleep?Do vitamin D drops or probiotics affect a baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?Can I give cough and cold medicine at bedtime to a baby or toddler?
@@ -4027,8 +4027,8 @@ URL: https://actuallysleepingllc.com/guides/essential-oils-lavender-and-baby-sle
 
 Are essential oils, lavender products or sleep sprays safe for babies?
 Use caution. There is no good evidence they improve a baby’s sleep, and NIH says aromatherapy research needs larger, better studies. Undiluted oils can irritate skin, several oils are poisonous if swallowed, and repeated skin use of lavender and tea tree oils has been linked to breast growth in young boys. Keep oils out of the crib and out of reach, and ask your pediatrician first.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
 A calming scent can be a pleasant part of an adult’s evening. For a baby, the potential harms are concrete and the sleep benefit is unproven.
 What the evidence and the regulators say
 Weak evidence for sleep. NIH reports that a 2021 review suggested aromatherapy may improve sleep quality, but the researchers said larger and more rigorous studies are needed. These studies were not in babies.
@@ -4037,10 +4037,10 @@ Hormone-like effects. A report in the New England Journal of Medicine described 
 Poisoning. The CPSC requires child-resistant packaging for wintergreen oil because it contains methyl salicylate, and warns of serious injury or death if young children swallow it. It also requires child-resistant packaging for thin, oily products such as some baby, bath and massage oils, because children under 5 who swallow and inhale them can develop chemical pneumonia.
 Chest rubs. The AAP lists mentholated chest rubs for children 2 years and older only.
 Diffusers and pillow sprays
-I found no good evidence that diffusing oils or spraying bedding improves a baby’s sleep. Sprays put product on the sleep surface, and diffusers put a hot or wet device with a bottle of concentrated oil within reach as babies start to move. Keep the AAP’s safe sleep rule simple: the crib holds only the baby, on the back, on a firm, flat surface, with no soft bedding or other objects.
+There is no good evidence that diffusing oils or spraying bedding improves a baby’s sleep. Sprays put product on the sleep surface, and diffusers put a hot or wet device with a bottle of concentrated oil within reach as babies start to move. Keep the AAP’s safe sleep rule simple: the crib holds only the baby, on the back, on a firm, flat surface, with no soft bedding or other objects.
 If you use oils at home
 Store every bottle locked and out of sight. Child-resistant is not child-proof.
-Never apply undiluted oil to a baby’s skin, and do not put oils near the face or hands.
+Do not apply essential oils to a baby’s skin, diluted or not, unless the pediatrician has said to, and keep them away from the face and hands.
 Read “sleep” and “calming” product labels for melatonin or other active ingredients.
 Call Poison Control at 1-800-222-1222 right away if a child swallows any oil.
 What to ask the pediatrician
@@ -4057,7 +4057,7 @@ Is it safe to diffuse lavender in my baby’s room?There is no good evidence it 
 Can lavender baby wash cause problems?A NEJM report linked repeated use of lavender and tea tree products to breast growth in three young boys, which resolved after stopping. NIH notes the cause is not certain. Unscented products avoid the question.
 Which essential oils are most dangerous for children?The CPSC requires child-resistant packaging for wintergreen oil, which contains methyl salicylate, and warns of serious injury or death if young children swallow it. Treat every oil as a poison and call 1-800-222-1222 if swallowed.
 Are baby sleep sprays safe?Their benefit is unproven, and sprays put product on the sleep surface. Read labels for melatonin or other active ingredients, keep the crib empty and flat, and ask your pediatrician before using them.
-ReferencesNational Center for Complementary and Integrative Health (NIH). Sleep Disorders and Complementary Health Approaches: Usefulness and Safety.HealthyChildren.org (AAP). Aromatherapy for Children.Henley DV, Lipson N, Korach KS, Bloch CA. Prepubertal Gynecomastia Linked to Lavender and Tea Tree Oils. N Engl J Med. 2007;356:479-85.U.S. Consumer Product Safety Commission. Warning on a wintergreen essential oil sold without child-resistant packaging. 2026.U.S. Consumer Product Safety Commission. CPSC Requires Child-Resistant Packaging for Common Household Products Containing Hydrocarbons, Including Some Baby Oils.HealthyChildren.org (AAP). Coughs and Colds: Medicines or Home Remedies?HealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces and Bed Sharing. 2022.
+ReferencesNational Center for Complementary and Integrative Health (NIH). Sleep Disorders and Complementary Health Approaches: Usefulness and Safety.HealthyChildren.org (AAP). Aromatherapy for Children.Henley DV, Lipson N, Korach KS, Bloch CA. Prepubertal Gynecomastia Linked to Lavender and Tea Tree Oils. N Engl J Med. 2007;356:479-85.U.S. Consumer Product Safety Commission. Warning on a wintergreen essential oil sold without child-resistant packaging. December 2025.U.S. Consumer Product Safety Commission. CPSC Requires Child-Resistant Packaging for Common Household Products Containing Hydrocarbons, Including Some Baby Oils.HealthyChildren.org (AAP). Coughs and Colds: Medicines or Home Remedies?HealthyChildren.org (AAP). Safe Sleep: Back is Best, Avoid Soft Bedding, Inclined Surfaces and Bed Sharing. 2022.
 Related guidesIs melatonin safe for babies and toddlers?Are natural or homeopathic baby sleep drops and teething tablets safe?Is it safe to give a baby or toddler melatonin for a flight or jet lag?Is magnesium safe for toddler sleep, and does it work?Does Benadryl (diphenhydramine) help a baby or toddler sleep, and is it safe?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -4067,10 +4067,10 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/asthma-and-adhd-medicines-and-toddler-sleep/
 
 Can asthma or ADHD medicines affect a young child’s sleep?
-Yes, some can. Montelukast carries an FDA boxed warning that includes vivid dreams, sleepwalking and trouble sleeping. Oral steroids can change behavior and appetite. Stimulants for ADHD commonly cause trouble falling or staying asleep, though AAP ADHD guidance starts at age 4 with parent training first. Never stop a prescribed medicine on your own; talk to your child’s pediatrician.
-A note on scope from Dr. Sam, Doctor of Pharmacy: as a pharmacist, I can explain how a medicine, supplement or remedy relates to sleep. This page is general information for parents. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
-The short answer from a pharmacist
-For young children, asthma comes up far more often than ADHD. Both conditions and their medicines can change sleep. The fix is almost never to stop the medicine at home. It is to tell the prescriber exactly what you are seeing, so they can adjust the plan.
+Yes, some can. Montelukast carries an FDA boxed warning that includes vivid dreams, sleepwalking and trouble sleeping. Oral steroids can change behavior and appetite. Stimulants for ADHD commonly cause trouble falling or staying asleep, though AAP ADHD guidance starts at age 4 with parent training first. Apart from the FDA’s montelukast advice, do not stop a prescribed medicine on your own; talk to your child’s pediatrician.
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a licensed pharmacist, not a physician. This page explains in general terms how a medicine, supplement or remedy relates to sleep; it does not replace your child’s pediatrician. Check with your child’s pediatrician before giving your child any medicine, supplement or remedy, and follow the product label.
+The short answer
+Asthma, ADHD and the medicines for both can change sleep. The fix is almost never to stop the medicine at home. It is to tell the prescriber exactly what you are seeing, so they can adjust the plan.
 Asthma: the condition affects sleep too
 The AAP uses nighttime flare-ups as one way to grade asthma: rare night symptoms fit milder asthma, while flare-ups more than once a week fit moderate asthma, and severe asthma can disrupt sleep often. The AAP stresses that overall control matters most. A child who coughs or wheezes at night may need a better controller plan, not a sleep fix.
 Asthma medicines and sleep
@@ -4095,7 +4095,7 @@ A predictable, screen-free wind-down in the same order each night.
 Calm, consistent responses to night wakings, so sleep is not rewarded with play.
 Children with medical conditions still learn to fall asleep independently. Actually Sleeping plans around the pediatrician’s treatment, never instead of it.
 Frequently asked
-Can montelukast cause sleep problems in toddlers?It can. The FDA boxed warning lists bad or vivid dreams, sleepwalking and trouble sleeping among possible effects. Stop it and contact your child’s health care professional right away if mood or behavior changes.
+Can montelukast cause sleep problems in toddlers?It can. The FDA boxed warning lists bad or vivid dreams, sleepwalking and trouble sleeping among possible effects. The FDA advises stopping it and contacting your child’s health care professional right away if mood or behavior changes.
 Do steroids for asthma keep children awake?The AAP lists behavior change and increased appetite among short-term side effects of oral steroids, and says they go away when the course ends. Tell your pediatrician if sleep is badly affected, but finish the course unless told otherwise.
 Can my 3 year old be given ADHD medicine?The AAP ADHD guideline covers ages 4 to 18, and for preschoolers it recommends parent training in behavior management as first-line treatment. Any medicine question for a young child belongs with your pediatrician.
 Does night coughing mean my child’s asthma is not controlled?It can. The AAP uses nighttime flare-ups as one measure of asthma severity and stresses overall control. Tell your pediatrician how often your child coughs or wakes at night, and bring your child’s asthma action plan to the visit.
@@ -4166,7 +4166,7 @@ What parents find hardest
 The evening witching hours. Cluster feeding and crying from late afternoon are typical. A dim room, low noise and a calm adult help more than changing tactics every few minutes.
 Catnaps that last one cycle. Short daytime sleeps are expected at this age. They are not a sign you are doing something wrong.
 Waking when put down. Many babies startle on the transfer. Laying your baby down feet first and keeping a hand on the chest for a moment is a common trick worth trying; it is a rule of thumb, not a study finding.
-Sleep debt in parents. Trade shifts if you can. Protecting one adult’s 4 to 5 hour block is a practical rule of thumb many families use.
+Sleep debt in parents. Trade shifts if you can. Protecting one longer block of sleep for each adult is a practical rule of thumb many families use.
 Safe sleep matters most right now
 The NICHD Safe to Sleep campaign reports that most SIDS deaths happen between 1 and 4 months of age, and that 72% occur in months 1 to 4. Everything below applies to every nap and every night.
 Back to sleep, on a firm, flat surface, with nothing in the sleep space. The AAP says the side is just as risky as the stomach.
@@ -4211,7 +4211,7 @@ Relying on motion. Swings and car rides work, but the AAP says sitting devices a
 Late, unpredictable bedtimes. Bedtime often drifts late because the body clock is still forming. An earlier bedtime usually becomes possible over the next couple of months.
 Short naps. One sleep cycle and awake is common. Some babies resettle if you give them a minute.
 Safe sleep at 2 months
-Stop swaddling as soon as your baby shows any sign of trying to roll. The AAP says rolling usually happens around 3 to 4 months, but some babies start working on it as early as 2 months. A swaddled baby who rolls to the stomach cannot push up.
+Stop swaddling as soon as your baby shows any sign of trying to roll. The AAP says some babies start working on rolling as early as 2 months, and every baby is different. A swaddled baby who rolls to the stomach cannot push up.
 No weighted swaddles, weighted sleep sacks or weighted objects. The AAP says they are not safe.
 Back to sleep for every sleep, on a firm, flat surface. Keep room-sharing without bed-sharing.
 Most SIDS deaths happen between 1 and 4 months, according to the NICHD. You are in the middle of that window.
@@ -4238,13 +4238,13 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/sleep-at-3-months/
 
 Sleep at 3 months: what’s normal, what’s hard, and when to get help
-At 3 months, crying usually starts to ease and nights may get a little more organized, but there is still no AASM sleep target until 4 months. The main changes are physical: rolling usually arrives around 3 to 4 months, so the swaddle has to go at the first sign, and the bassinet will soon be outgrown.
+At 3 months, crying usually starts to ease and nights may get a little more organized, but there is still no AASM sleep target until 4 months. The main changes are physical: rolling attempts can start any time now (the AAP notes some babies begin as early as 2 months), so the swaddle has to go at the first sign, and the bassinet will soon be outgrown.
 What is changing at 3 months
 Colic is on its way out for most families. The AAP says colicky fussing declines to 1 or 2 hours a day by 3 to 4 months and generally stops by then, though it can last until 6 months.
 Your baby is getting stronger. By 4 months, the CDC lists pushing up onto elbows or forearms during tummy time, holding the head steady, and bringing hands to mouth. Hands to mouth is a real self-settling tool, and many babies begin sucking fingers in the crib now.
 The body clock is maturing. The AAP says regular sleep cycles appear at about 4 months, so the next few weeks are a period of change rather than a settled state.
 Change at 3 monthsWhat to doSource
-Rolling attempts (usually around 3 to 4 months)Stop swaddling at the first sign; use arms-free sleepwearAAP
+Rolling attempts (some babies start as early as 2 months)Stop swaddling at the first sign; use arms-free sleepwearAAP
 Pushing up on hands and kneesStop using the bassinet; CPSC says bassinets are not meant for use beyond about 5 months or once a baby can do thisCPSC
 Pushing up on hands and knees, or 5 monthsRemove hanging crib toys and mobiles, whichever comes firstAAP
 Total sleep in studies, from 3 monthsAverage 13.6 hours; normal spread about 9 to 18 hoursGalland 2012
@@ -4345,7 +4345,7 @@ Room-share in a crib or play yard next to your bed, ideally until at least 6 mon
 The crib stays empty: no bumpers, pillows, blankets or soft toys. Crib bumpers are banned products under federal law.
 No weighted sleep sacks or weighted blankets.
 Night feeds
-Some 5 month olds still feed once or twice at night, some more. Whether that should change is your pediatrician’s decision. Starting solids is also their call; the AAP advises not before about 6 months.
+Some 5 month olds still feed once or twice at night, some more. Whether that should change is your pediatrician’s decision. Starting solids is also their call.
 When to talk to the pediatrician
 Fever above 101°F (38.3°C): the AAP says this is not teething.
 Snoring on most nights, gasping, or breathing pauses during sleep.
@@ -4367,7 +4367,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/sleep-at-6-months/
 
 Sleep at 6 months: what’s normal, what’s hard, and when to get help
-At 6 months, the AASM range is 12 to 16 hours per 24 hours, including naps. The AAP says it is normal for a 6 month old to wake briefly at night and go back to sleep within a few minutes. In studies, babies 6 to 11 months averaged about 2 daytime naps. Solids usually start around now, and room-sharing is recommended for at least the first 6 months.
+At 6 months, the AASM range is 12 to 16 hours per 24 hours, including naps. The AAP says it is normal for a 6 month old to wake briefly at night and go back to sleep within a few minutes. In studies, babies 6 to 11 months averaged about 2 daytime naps. The AAP recommends room-sharing for at least the first 6 months.
 What is changing at 6 months
 By 6 months, the CDC lists rolling from tummy to back, leaning on the hands to support sitting, knowing familiar people, and laughing. Sitting and rolling give your baby new things to practise at 2 a.m.
 Several things also wind down around now. The AAP says periodic breathing of infancy is generally outgrown by about 6 months, and colicky crying, which can last until 6 months, is usually over. Separation anxiety can begin in the second half of the first year, and the AAP notes that nightmares can start as young as 6 months.
@@ -4394,7 +4394,7 @@ When to talk to the pediatrician
 Frequent snoring, gasping, or loud or heavy breathing in sleep. The AAP lists snoring and sleep apnea among common childhood sleep problems.
 Fever above 101°F (38.3°C), or waking with ear pulling and fever.
 Not rolling, or not reaching for toys, by 6 months.
-Any question about starting solids, which the AAP advises not before about 6 months.
+Any question about starting solids or how your baby is eating.
 Where to go from here
 If your baby wakes often and needs you to get back to sleep, the most effective change is usually at bedtime. Actually Sleeping builds that change into a written plan with live support. Families describe it in their own words on our reviews page. Related: a 6 month old waking every 2 hours, the 6-month schedule, and night weaning, if your pediatrician agrees.
 Frequently asked
