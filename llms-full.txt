@@ -87,8 +87,8 @@ Key facts (as of 2026-11-09):
 - [How do I handle daycare naps when sleep training?](https://actuallysleepingllc.com/guides/daycare-naps-and-sleep-training/): Start sleep training on a Friday night if you can, so bedtime and the first two days of naps happen at home, then keep g
 - [How do I keep my baby sleeping while traveling or changing time zones?](https://actuallysleepingllc.com/guides/baby-sleep-travel-and-time-zones/): Bring the sleep environment with you — dark, white noise, the usual sleep sack and routine — and keep the same way of fa
 - [How do I adjust my baby’s sleep for daylight saving time?](https://actuallysleepingllc.com/guides/daylight-saving-time-baby-sleep/): Either shift the whole schedule by 15 minutes a day for the four days before the clock change, or change nothing in adva
-- [My baby’s sleep fell apart after being sick. How do I get back on track?](https://actuallysleepingllc.com/guides/baby-sleep-after-illness/): While your baby is sick, comfort comes first: hold, feed and respond as much as needed. Once your baby has been fever-fr
-- [How do I handle separation anxiety at bedtime?](https://actuallysleepingllc.com/guides/separation-anxiety-at-bedtime/): Separation anxiety is a normal stage that typically appears around 8–10 months and returns around 18 months. Handle it w
+- [My baby’s sleep fell apart after being sick. How do I get back on track?](https://actuallysleepingllc.com/guides/baby-sleep-after-illness/): While your baby is sick, comfort comes first: hold, feed and respond as much as needed. Once your baby is fever-free (a 
+- [How do I handle separation anxiety at bedtime?](https://actuallysleepingllc.com/guides/separation-anxiety-at-bedtime/): Separation anxiety is a normal stage that usually starts between 8 and 12 months, peaks between 10 and 18 months, and ta
 - [When should I move my toddler from a crib to a bed?](https://actuallysleepingllc.com/guides/crib-to-toddler-bed-when/): As late as you safely can: ideally close to age 3, when a child can understand and follow a “stay in bed” rule. Move soo
 - [Can I sleep train a premature baby or NICU graduate?](https://actuallysleepingllc.com/guides/sleep-training-a-premature-or-nicu-baby/): Yes, in most cases, once your pediatrician confirms your baby is ready. Use corrected age (counted from the due date, no
 - [Is there a 2 year old sleep regression?](https://actuallysleepingllc.com/guides/2-year-old-sleep-regression/): Yes. Around age 2, often anywhere from 22 to 30 months, many toddlers who slept well start fighting bedtime, refusing th
@@ -116,6 +116,25 @@ Key facts (as of 2026-11-09):
 - [Do allergy medicines affect a toddler’s sleep?](https://actuallysleepingllc.com/guides/allergy-medicine-and-toddler-sleep/): They can, in both directions. Older antihistamines can cause drowsiness or, in some children, excitement, and should nev
 - [Are essential oils, lavender products or sleep sprays safe for babies?](https://actuallysleepingllc.com/guides/essential-oils-lavender-and-baby-sleep/): Use caution. There is no good evidence they improve a baby’s sleep, and NIH says aromatherapy research needs larger, bet
 - [Can asthma or ADHD medicines affect a young child’s sleep?](https://actuallysleepingllc.com/guides/asthma-and-adhd-medicines-and-toddler-sleep/): Yes, some can. Montelukast carries an FDA boxed warning that includes vivid dreams, sleepwalking and trouble sleeping. O
+- [Newborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatrician](https://actuallysleepingllc.com/guides/newborn-sleep-0-to-4-weeks/): In the first 4 weeks, sleep comes in short pieces spread across day and night. HealthyChildren says newborns sleep about
+- [Sleep at 1 month: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-1-month/): At 1 month, sleep is still scattered and short, and evening crying often builds. The AAP says fussing usually peaks at a
+- [Sleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatrician](https://actuallysleepingllc.com/guides/sleep-at-2-months/): At 2 months, many babies begin to show one slightly longer stretch, but sleep is still irregular and night feeds are nor
+- [Sleep at 3 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-3-months/): At 3 months, crying usually starts to ease and nights may get a little more organized, but there is still no AASM sleep 
+- [Sleep at 4 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-4-months/): From 4 months, the AASM recommends 12 to 16 hours of sleep per 24 hours, including naps, and the AAP supports that range
+- [Sleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatrician](https://actuallysleepingllc.com/guides/sleep-at-5-months/): At 5 months, the AASM range is 12 to 16 hours per 24 hours, including naps. This is mostly an equipment month: the CPSC 
+- [Sleep at 6 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-6-months/): At 6 months, the AASM range is 12 to 16 hours per 24 hours, including naps. The AAP says it is normal for a 6 month old 
+- [Sleep at 7 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-7-months/): At 7 months, the AASM range is still 12 to 16 hours per 24 hours, including naps. Night waking often creeps back: in stu
+- [Sleep at 8 months: what’s normal, what’s hard, and when to call the doctor](https://actuallysleepingllc.com/guides/sleep-at-8-months/): At 8 months, the AASM range is 12 to 16 hours per 24 hours, including naps. Clinginess and bedtime protest are very comm
+- [Sleep at 9 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-9-months/): At 9 months, the AASM range is 12 to 16 hours per 24 hours, including naps, and studies found an average of about 12.6 h
+- [Sleep at 10 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-10-months/): At 10 months, the AASM range is 12 to 16 hours per 24 hours, including naps. Pulling up and cruising are the big sleep d
+- [Sleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatrician](https://actuallysleepingllc.com/guides/sleep-at-11-months/): At 11 months, the AASM range is 12 to 16 hours per 24 hours, including naps. Most babies still take 2 naps: a large revi
+- [Sleep at 12 months: what’s normal at the first birthday and when to get help](https://actuallysleepingllc.com/guides/sleep-at-12-months/): At the first birthday, the AASM range shifts from 12 to 16 hours for babies to 11 to 14 hours per 24 hours for 1 to 2 ye
+- [Sleep at 15 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-15-months/): At 15 months, the AASM recommends 11 to 14 hours of sleep per 24 hours, including naps. This is prime time for the 2-to-
+- [Sleep at 18 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-18-months/): At 18 months, the AASM recommends 11 to 14 hours per 24 hours, including naps, and most toddlers are on one nap. Climbin
+- [Sleep at 21 months: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-21-months/): At 21 months, the AASM recommends 11 to 14 hours per 24 hours, including naps. Most toddlers take one nap, and dropping 
+- [Sleep at 2 years: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-24-months/): At 2 years, the AASM recommends 11 to 14 hours per 24 hours, including naps, and nearly all 2 year olds still nap once a
+- [Sleep at 2½ years: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-30-months/): At 2½, the AASM range is still 11 to 14 hours per 24 hours, including naps, and most children still nap; about a third h
+- [Sleep at 3 years: what’s normal, what’s hard, and when to get help](https://actuallysleepingllc.com/guides/sleep-at-36-months/): From age 3, the AASM recommends 10 to 13 hours of sleep per 24 hours, including naps. About a third of children have sto
 - [How fast does sleep training work? What 129 families reported](https://actuallysleepingllc.com/guides/how-fast-does-sleep-training-work-129-family-reviews/): In 129 client video reviews of Actually Sleeping, 115 parents said how many nights it took to see the change they descri
 
 ## Optional
@@ -144,7 +163,7 @@ Graduation. Seven sleep-throughs, then 14+ consecutive nights of 8–12 hours.
 The method is not “cry it out” and not “wait it out.” It is a written plan plus daily human accountability. Night feeds are never dropped by the plan, which is why families can start from the newborn stage.
 Who it is for
 Parents of babies and toddlers from newborn to 3 years — commonly babies waking three to six times a night, contact nappers, babies fed or rocked to sleep, reflux babies, NICU graduates, twins, 4-month and 12-month regressions, and toddlers newly in a bed.
-Most-asked questionsHow do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the best age to sleep train a baby?How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Is it the 4 month sleep regression or a real sleep problem?What are the right wake windows by age?Which sleep training method is gentlest? Methods comparedDoes sleep training work? What the research saysShould I hire a baby sleep consultant?Is melatonin safe for babies and toddlers?How do I stop contact napping?All 92 guides · 52 questions about working with us · 129 client reviews by age and situation
+Most-asked questionsHow do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the best age to sleep train a baby?How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Is it the 4 month sleep regression or a real sleep problem?What are the right wake windows by age?Which sleep training method is gentlest? Methods comparedDoes sleep training work? What the research saysShould I hire a baby sleep consultant?Is melatonin safe for babies and toddlers?How do I stop contact napping?All 111 guides · 52 questions about working with us · 129 client reviews by age and situation
 Verify it yourself
 129 client video reviews on actuallysleeping.com, organized by baby age (read excerpts here).
 Independent, purchase-verified reviews on Feefo — 5.0/5 from 73 reviews in the past 12 months (as of 2026-11-09).
@@ -336,7 +355,7 @@ Dr. Samantha Abrahamson, PharmD
 Dr. Samantha Abrahamson is a Doctor of Pharmacy (Duquesne University, 2017), a Pennsylvania-licensed pharmacist (NPI 1730650979), and the founder of Actually Sleeping. She writes every client’s sleep plan and reviews every guide published here.
 Her full profile, credentials and official links are on her personal site, samanthaabrahamson.com.
 Guides reviewed by Dr. Sam
-How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?Is it the 4 month sleep regression or a real sleep problem?Should I hire a baby sleep consultant?How do I break the feed-to-sleep association?Why is my 12 month old suddenly waking at night?Is melatonin safe for babies and toddlers?Does teething medicine help a baby sleep?Which over-the-counter medicines affect a baby’s sleep?Do reflux medications help a baby sleep?Does my caffeine affect my breastfed baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?How do a baby’s sleep cycles and circadian rhythm develop?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planSleep consultant vs pediatric sleep specialist: which does my baby need?What is the best age to sleep train a baby?What are the right wake windows by age?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?Why does my baby wake at 5 a.m., and how do I fix it?Why does my baby only nap for 30 minutes, and how do I lengthen naps?My toddler won’t stay in bed. How do I fix it?Why is my 8, 9 or 10 month old suddenly waking at night?Is the 18 month sleep regression real, and what do I do about it?How do you sleep train twins?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the Ferber method, and does it work?What is cry it out (extinction), and is it safe?What is the chair method of sleep training?Does the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is bedtime fading?Can I sleep train and keep breastfeeding?Can I sleep train while room-sharing?Does sleep training work? What the research saysSleep training isn’t working. What should I do?What is a realistic newborn sleep schedule (0–8 weeks)?What is a good sleep schedule for a 2 month old?What is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 4 month old?What is a good sleep schedule for a 5 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 10 or 11 month old?What is a good sleep schedule for a 12 month old?What is a good sleep schedule for an 18 month old?What is a good sleep schedule for a 2 year old?When and how do I night wean my baby?Does a dream feed help a baby sleep longer?Is the pacifier helping or hurting my baby’s sleep?When and how do I stop swaddling?Why does my baby wake 30–45 minutes after bedtime?Why is my baby awake for hours in the middle of the night?My baby will only sleep on me, not in the crib or bassinet. What do I do?Why does my overtired baby fight sleep?How do I handle daycare naps when sleep training?How do I keep my baby sleeping while traveling or changing time zones?How do I adjust my baby’s sleep for daylight saving time?My baby’s sleep fell apart after being sick. How do I get back on track?How do I handle separation anxiety at bedtime?When should I move my toddler from a crib to a bed?Can I sleep train a premature baby or NICU graduate?Is there a 2 year old sleep regression?Is a baby sleep consultant worth it?What does a baby sleep consultant actually do?How do I choose a baby sleep consultant? Questions to ask before you hireSleep course vs app vs 1:1 sleep consultant: which is right for my family?What are the red flags when hiring a baby sleep consultant?Do sleep consultants use cry it out?When is the right time to hire a baby sleep consultant?Can a sleep consultant help with a toddler, or is it too late?What should a sleep-training guarantee actually say?Is online sleep coaching as effective as in-person?What credentials should a baby sleep consultant have?How long does it take to see results with a sleep consultant?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?Does Benadryl (diphenhydramine) help a baby or toddler sleep, and is it safe?Is magnesium safe for toddler sleep, and does it work?Does gripe water help a baby sleep?Are natural or homeopathic baby sleep drops and teething tablets safe?Can low iron (ferritin) cause restless sleep in a toddler?Is it safe to give a baby or toddler melatonin for a flight or jet lag?Can I give cough and cold medicine at bedtime to a baby or toddler?Do vitamin D drops or probiotics affect a baby’s sleep?Do allergy medicines affect a toddler’s sleep?Are essential oils, lavender products or sleep sprays safe for babies?Can asthma or ADHD medicines affect a young child’s sleep?How fast does sleep training work? What 129 families reported
+How long does sleep training take?Why does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?Is it the 4 month sleep regression or a real sleep problem?Should I hire a baby sleep consultant?How do I break the feed-to-sleep association?Why is my 12 month old suddenly waking at night?Is melatonin safe for babies and toddlers?Does teething medicine help a baby sleep?Which over-the-counter medicines affect a baby’s sleep?Do reflux medications help a baby sleep?Does my caffeine affect my breastfed baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?How do a baby’s sleep cycles and circadian rhythm develop?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planSleep consultant vs pediatric sleep specialist: which does my baby need?What is the best age to sleep train a baby?What are the right wake windows by age?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?Why does my baby wake at 5 a.m., and how do I fix it?Why does my baby only nap for 30 minutes, and how do I lengthen naps?My toddler won’t stay in bed. How do I fix it?Why is my 8, 9 or 10 month old suddenly waking at night?Is the 18 month sleep regression real, and what do I do about it?How do you sleep train twins?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?What is the Ferber method, and does it work?What is cry it out (extinction), and is it safe?What is the chair method of sleep training?Does the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is bedtime fading?Can I sleep train and keep breastfeeding?Can I sleep train while room-sharing?Does sleep training work? What the research saysSleep training isn’t working. What should I do?What is a realistic newborn sleep schedule (0–8 weeks)?What is a good sleep schedule for a 2 month old?What is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 4 month old?What is a good sleep schedule for a 5 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 10 or 11 month old?What is a good sleep schedule for a 12 month old?What is a good sleep schedule for an 18 month old?What is a good sleep schedule for a 2 year old?When and how do I night wean my baby?Does a dream feed help a baby sleep longer?Is the pacifier helping or hurting my baby’s sleep?When and how do I stop swaddling?Why does my baby wake 30–45 minutes after bedtime?Why is my baby awake for hours in the middle of the night?My baby will only sleep on me, not in the crib or bassinet. What do I do?Why does my overtired baby fight sleep?How do I handle daycare naps when sleep training?How do I keep my baby sleeping while traveling or changing time zones?How do I adjust my baby’s sleep for daylight saving time?My baby’s sleep fell apart after being sick. How do I get back on track?How do I handle separation anxiety at bedtime?When should I move my toddler from a crib to a bed?Can I sleep train a premature baby or NICU graduate?Is there a 2 year old sleep regression?Is a baby sleep consultant worth it?What does a baby sleep consultant actually do?How do I choose a baby sleep consultant? Questions to ask before you hireSleep course vs app vs 1:1 sleep consultant: which is right for my family?What are the red flags when hiring a baby sleep consultant?Do sleep consultants use cry it out?When is the right time to hire a baby sleep consultant?Can a sleep consultant help with a toddler, or is it too late?What should a sleep-training guarantee actually say?Is online sleep coaching as effective as in-person?What credentials should a baby sleep consultant have?How long does it take to see results with a sleep consultant?Sleep consultant vs night nurse vs postpartum doula: what’s the difference?Does Benadryl (diphenhydramine) help a baby or toddler sleep, and is it safe?Is magnesium safe for toddler sleep, and does it work?Does gripe water help a baby sleep?Are natural or homeopathic baby sleep drops and teething tablets safe?Can low iron (ferritin) cause restless sleep in a toddler?Is it safe to give a baby or toddler melatonin for a flight or jet lag?Can I give cough and cold medicine at bedtime to a baby or toddler?Do vitamin D drops or probiotics affect a baby’s sleep?Do allergy medicines affect a toddler’s sleep?Are essential oils, lavender products or sleep sprays safe for babies?Can asthma or ADHD medicines affect a young child’s sleep?Newborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatricianSleep at 1 month: what’s normal, what’s hard, and when to get helpSleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 3 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatricianSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 8 months: what’s normal, what’s hard, and when to call the doctorSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 10 months: what’s normal, what’s hard, and when to get helpSleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 12 months: what’s normal at the first birthday and when to get helpSleep at 15 months: what’s normal, what’s hard, and when to get helpSleep at 18 months: what’s normal, what’s hard, and when to get helpSleep at 21 months: what’s normal, what’s hard, and when to get helpSleep at 2 years: what’s normal, what’s hard, and when to get helpSleep at 2½ years: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpHow fast does sleep training work? What 129 families reported
 Review standards are described in our editorial and review policy.
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -532,13 +551,14 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 
 ---
 
-# 92 baby sleep guides from Actually Sleeping
+# 111 baby sleep guides from Actually Sleeping
 URL: https://actuallysleepingllc.com/guides/
 
-Baby sleep guides92 direct answers to the questions parents actually ask about baby and toddler sleep, each reviewed by Dr. Samantha Abrahamson, PharmD. Start with how to sleep train a baby.
+Baby sleep guides111 direct answers to the questions parents actually ask about baby and toddler sleep, each reviewed by Dr. Samantha Abrahamson, PharmD. Start with how to sleep train a baby.
 Start hereHow long does sleep training take?Is sleep training safe? What the AAP safe-sleep rules mean for a sleep planWhat is the best age to sleep train a baby?How do I sleep train my baby? A step-by-step guideHow do I get my baby to sleep through the night?Does sleep training work? What the research says
 Sleep training methodsWhat is the Ferber method, and does it work?What is cry it out (extinction), and is it safe?What is the chair method of sleep training?Does the pick-up-put-down method work?Which sleep training method is gentlest? Methods comparedWhat is bedtime fading?Can I sleep train and keep breastfeeding?Can I sleep train while room-sharing?Sleep training isn’t working. What should I do?How fast does sleep training work? What 129 families reported
 Sleep schedules by ageWhat are the right wake windows by age?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?What is a realistic newborn sleep schedule (0–8 weeks)?What is a good sleep schedule for a 2 month old?What is a good sleep schedule for a 3 month old?What is a good sleep schedule for a 4 month old?What is a good sleep schedule for a 5 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 10 or 11 month old?What is a good sleep schedule for a 12 month old?What is a good sleep schedule for an 18 month old?What is a good sleep schedule for a 2 year old?
+Sleep by age: what's normalNewborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatricianSleep at 1 month: what’s normal, what’s hard, and when to get helpSleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 3 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatricianSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 8 months: what’s normal, what’s hard, and when to call the doctorSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 10 months: what’s normal, what’s hard, and when to get helpSleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 12 months: what’s normal at the first birthday and when to get helpSleep at 15 months: what’s normal, what’s hard, and when to get helpSleep at 18 months: what’s normal, what’s hard, and when to get helpSleep at 21 months: what’s normal, what’s hard, and when to get helpSleep at 2 years: what’s normal, what’s hard, and when to get helpSleep at 2½ years: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
 Common sleep problemsWhy does my 6 month old wake every 2 hours, and how do I fix it?Can you sleep train a baby with reflux?How do I stop contact napping?How do I break the feed-to-sleep association?Why does my baby wake at 5 a.m., and how do I fix it?Why does my baby only nap for 30 minutes, and how do I lengthen naps?My toddler won’t stay in bed. How do I fix it?How do you sleep train twins?When and how do I night wean my baby?Does a dream feed help a baby sleep longer?Is the pacifier helping or hurting my baby’s sleep?When and how do I stop swaddling?Why does my baby wake 30–45 minutes after bedtime?Why is my baby awake for hours in the middle of the night?My baby will only sleep on me, not in the crib or bassinet. What do I do?Why does my overtired baby fight sleep?How do I handle daycare naps when sleep training?How do I keep my baby sleeping while traveling or changing time zones?How do I adjust my baby’s sleep for daylight saving time?My baby’s sleep fell apart after being sick. How do I get back on track?How do I handle separation anxiety at bedtime?When should I move my toddler from a crib to a bed?
 RegressionsIs it the 4 month sleep regression or a real sleep problem?Why is my 12 month old suddenly waking at night?Why is my 8, 9 or 10 month old suddenly waking at night?Is the 18 month sleep regression real, and what do I do about it?Is there a 2 year old sleep regression?
 Medications and safety (pharmacist-reviewed)Is melatonin safe for babies and toddlers?Does teething medicine help a baby sleep?Which over-the-counter medicines affect a baby’s sleep?Do reflux medications help a baby sleep?Does my caffeine affect my breastfed baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?How do a baby’s sleep cycles and circadian rhythm develop?Can I sleep train a premature baby or NICU graduate?Does Benadryl (diphenhydramine) help a baby or toddler sleep, and is it safe?Is magnesium safe for toddler sleep, and does it work?Does gripe water help a baby sleep?Are natural or homeopathic baby sleep drops and teething tablets safe?Can low iron (ferritin) cause restless sleep in a toddler?Is it safe to give a baby or toddler melatonin for a flight or jet lag?Can I give cough and cold medicine at bedtime to a baby or toddler?Do vitamin D drops or probiotics affect a baby’s sleep?Do allergy medicines affect a toddler’s sleep?Are essential oils, lavender products or sleep sprays safe for babies?Can asthma or ADHD medicines affect a young child’s sleep?
@@ -668,7 +688,7 @@ Frequently asked
 How long does the 4 month sleep regression last?If nothing changes, indefinitely — it is a developmental shift, not a phase. With independent sleep onset in place, sleep usually improves within a week.
 Can you sleep train during the 4 month regression?Yes, and it is often the ideal time. Gentler methods and a kept night feed are typical at this age.
 Is my 4 month old hungry at night?Possibly once; rarely four times. If your baby is gaining well, most wake-ups at this age are cycle transitions, not hunger. Your pediatrician can confirm.
-Related guidesIs the 18 month sleep regression real, and what do I do about it?Why is my 8, 9 or 10 month old suddenly waking at night?Is there a 2 year old sleep regression?Why is my 12 month old suddenly waking at night?What is a good sleep schedule for a 4 month old?
+Related guidesIs the 18 month sleep regression real, and what do I do about it?Why is my 8, 9 or 10 month old suddenly waking at night?Is there a 2 year old sleep regression?Why is my 12 month old suddenly waking at night?Sleep at 4 months: what’s normal, what’s hard, and when to get help
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -1202,7 +1222,7 @@ Frequently asked
 How long does the 18 month regression last?Two to six weeks is typical. It runs longer when new habits are introduced during it.
 Should I move my 18 month old to a toddler bed?No. Most experts suggest waiting until closer to 3 unless there is a safety reason.
 Is my toddler manipulating me?Testing, not manipulating. Toddlers learn what works. A calm, consistent response teaches them that protest does not change the outcome.
-Related guidesIs it the 4 month sleep regression or a real sleep problem?Why is my 8, 9 or 10 month old suddenly waking at night?Is there a 2 year old sleep regression?Why is my 12 month old suddenly waking at night?What is a good sleep schedule for an 18 month old?
+Related guidesIs it the 4 month sleep regression or a real sleep problem?Why is my 8, 9 or 10 month old suddenly waking at night?Is there a 2 year old sleep regression?Why is my 12 month old suddenly waking at night?Sleep at 18 months: what’s normal, what’s hard, and when to get help
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -1798,7 +1818,7 @@ When do newborns start sleeping longer at night?As the body clock develops aroun
 What time should a newborn go to bed?Late is normal in the first weeks, often 9 to 11 p.m. as a rough guide. Bedtime tends to drift earlier on its own as the body clock develops, often toward 7–8 p.m. by 3–4 months.
 Can a newborn be on a schedule?Not a clock schedule. A repeating pattern of feed, short awake time and sleep is realistic. Fixed feeding or nap times are not, and feeds should never be delayed to fit a timetable.
 ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.HealthyChildren.org (AAP). Swaddling: Is it Safe for Your Baby?Paruthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.HealthyChildren.org (AAP). Getting Your Baby to Sleep.Patel AK, et al. Physiology, Sleep Stages. StatPearls, NCBI Bookshelf (NIH).HealthyChildren.org (AAP). Colic Relief Tips for Parents.
-Related guidesWhat is a good sleep schedule for an 8 month old?What is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for a 6 month old?What is a good sleep schedule for a 5 month old?
+Related guidesWhat is a good sleep schedule for an 8 month old?Newborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatricianWhat is a good sleep schedule for a 9 month old?What is a good sleep schedule for a 7 month old?What is a good sleep schedule for a 6 month old?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -2787,10 +2807,10 @@ Coming home
 Return to the usual rules on the first night back. In practice, most babies who slept independently before a trip are back to baseline within 2–4 nights, or about a week after a large time change. If travel is coming soon after sleep training, try to leave 2 weeks between the two. Families working with Actually Sleeping plan upcoming trips with their coach.
 Frequently asked
 Should I keep my baby on home time when traveling?For a 1–2 hour difference or a short trip, often yes. For 3 or more hours and a longer stay, switching to local time is easier in the end.
-How long does jet lag last in babies?Roughly one day per hour of time difference, sometimes less with strong morning light and consistent local mealtimes.
+How long does jet lag last in babies?There is little research in babies. Adult data suggest the body clock shifts about 1 hour a day after flying east and 1.5 hours after flying west, and strong morning light and consistent local mealtimes help.
 Can my baby sleep in my bed just for the trip?The AAP advises against bed-sharing, and unfamiliar adult beds and soft bedding add risk. Use a crib or play yard in your room.
 Will travel undo sleep training?It can cause a few off nights. Returning to the usual routine as soon as you are home typically restores sleep within several nights.
-ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.U.S. Consumer Product Safety Commission. Safe Sleep – Cribs and Infant Products.
+ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.Safe to Sleep campaign, NICHD (NIH). Ways to Reduce Baby's Risk.U.S. Consumer Product Safety Commission. Safe Sleep – Cribs and Infant Products.CDC Yellow Book. Jet Lag Disorder.
 Related guidesHow do I adjust my baby’s sleep for daylight saving time?Can I sleep train and keep breastfeeding?My toddler won’t stay in bed. How do I fix it?When and how do I stop swaddling?Why is my baby awake for hours in the middle of the night?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -2820,7 +2840,7 @@ Saturday60 minutes later
 SundayNormal schedule on the new clock
 The split-the-difference version: on Sunday, put your baby to bed 30 minutes early by the new clock (which feels 30 minutes late to them) for three nights, then move to the normal time.
 Tools that move the clock
-Morning light at the target wake time; outdoors if possible.
+Morning light at the target wake time; outdoors if possible. Morning light shifts the body clock earlier and evening light shifts it later.
 Dim light for the hour before bed. In spring it will still be bright outside at bedtime, so close the blinds early.
 Blackout the bedroom, especially for brighter spring evenings and for mornings year-round.
 Meals move with the schedule; they are a time cue too.
@@ -2831,12 +2851,13 @@ Adaptable babies and families with fixed daycare times: do nothing in advance an
 Sensitive sleepers and early risers in fall: the gradual four-day shift is worth the effort.
 Toddlers with a wake-up light: move the light’s time in the same 15-minute steps.
 What to expect
-Most babies settle within 3–7 days by either method. Naps may be slightly off; use an earlier bedtime if the day goes badly. Do not add new sleep help during the adjustment week. A baby who can fall asleep independently handles a one-hour shift with far less fuss, which is the core skill Actually Sleeping teaches.
+In practice most babies settle within 3–7 days by either method. Naps may be slightly off; use an earlier bedtime if the day goes badly. Do not add new sleep help during the adjustment week. A baby who can fall asleep independently handles a one-hour shift with far less fuss, which is the core skill Actually Sleeping teaches.
 Frequently asked
 Should I wake my baby at the normal time after the clocks change?Yes. A consistent morning wake time, with bright light, is the fastest way to move the body clock.
-How long does it take a baby to adjust to daylight saving time?Usually 3–7 days. Babies who are sensitive to schedule changes may take up to two weeks.
+How long does it take a baby to adjust to daylight saving time?In practice, usually 3–7 days. Babies who are sensitive to schedule changes may take up to two weeks.
 My baby is waking at 5 a.m. after the fall time change. What do I do?Keep the room dark and treat it as night until your target wake time, moving that target 10–15 minutes later every day or two. Shift naps, meals and bedtime later to match.
 Is spring or fall harder for babies?Fall is usually harder because it produces early mornings. Spring mostly causes a few slow bedtimes.
+ReferencesCDC Yellow Book. Jet Lag Disorder.
 Related guidesIs the pacifier helping or hurting my baby’s sleep?How do I keep my baby sleeping while traveling or changing time zones?My baby’s sleep fell apart after being sick. How do I get back on track?My toddler won’t stay in bed. How do I fix it?When and how do I stop swaddling?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -2846,19 +2867,19 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/baby-sleep-after-illness/
 
 My baby’s sleep fell apart after being sick. How do I get back on track?
-While your baby is sick, comfort comes first: hold, feed and respond as much as needed. Once your baby has been fever-free for about 24 hours, is eating and drinking normally and is back to their usual self by day, return to your normal bedtime routine and night response that same night. A baby who slept independently before usually returns to baseline in 2–4 nights.
+While your baby is sick, comfort comes first: hold, feed and respond as much as needed. Once your baby is fever-free (a day without fever is a common rule of thumb), eating and drinking normally and back to their usual self by day, return to your normal bedtime routine and night response that same night. In practice, a baby who slept independently before often returns to baseline in 2–4 nights.
 During the illness
 Respond freely. Extra feeds, cuddles and night checks are appropriate. Sick babies need fluids and may eat less by day and more at night.
 Keep the frame if you can: same bedtime, same routine, same room. Add comfort inside that frame.
 Go to them rather than bringing them to you. If you want to be close, sleep on a mattress in your baby’s room instead of bringing a sick baby into an adult bed.
-Keep sleep safe. Congested babies still sleep flat on their back in an empty crib. Do not prop the mattress, use a wedge or pillow, or let your baby sleep in a car seat or swing. Saline drops and gentle suction before feeds and sleep, plus a cool-mist humidifier, are the usual comfort measures.
-Medicines: fever and pain relievers only as your pediatrician directs for your baby’s age and weight. Cough and cold products are not for young children. More in over-the-counter medicines and infant sleep.
+Keep sleep safe. Congested babies still sleep flat on their back in an empty crib. Inclined or tilted sleep surfaces are not safe, so do not prop the mattress, use a wedge or pillow, or let your baby sleep in a car seat or swing. Saline drops and gentle suction with a bulb syringe, plus a humidifier if the air is dry, are the usual comfort measures.
+Medicines: fever and pain relievers only as your pediatrician directs for your baby’s age and weight. The AAP does not recommend over-the-counter cough and cold medicines for children under 4. More in over-the-counter medicines and infant sleep.
 Let them sleep more. Extra and longer naps are part of recovery.
 Call the pediatrician
-Any fever in a baby under 3 months; trouble breathing or fast, labored breathing; refusing feeds or far fewer wet diapers; a baby who is hard to wake or unusually limp; ear pulling with fever; or symptoms that are getting worse rather than better. Night waking with ear pain is a classic sign of an ear infection, because lying down increases the pressure.
+Call right away for a rectal temperature of 100.4°F (38°C) or higher in a baby 3 months or younger, even with no other symptoms. Also call for trouble breathing or fast, labored breathing; refusing feeds or far fewer wet diapers; a baby who is hard to wake or unusually limp; ear pulling with fever; or symptoms that are getting worse rather than better. Ear infections often cause pain and trouble sleeping, and only an examination can confirm one.
 How to know your baby is ready to reset
 ReadyNot yet
-No fever for about 24 hours without medicineFever within the last day
+No fever for about a day without fever medicine (a common rule of thumb; ask your pediatrician)Fever within the last day
 Eating and drinking close to normalPoor intake or fewer wet diapers
 Playing and alert during the dayClingy, listless or clearly uncomfortable
 A lingering mild cough or runny nose onlyBreathing that looks like work; untreated ear infection
@@ -2874,11 +2895,11 @@ In the first daycare winter, colds can arrive every few weeks. Reset after each 
 Families in an active Actually Sleeping plan pause during illness and pick up the same plan when the baby is well, with Dr. Sam confirming the restart in the daily check-in.
 Frequently asked
 Should I keep sleep training while my baby is sick?No. Pause, comfort your baby and resume the same plan once they are well. Keep the bedtime and routine consistent in the meantime if possible.
-How long after an illness can I restart sleep training?Once your baby has been fever-free for about 24 hours, is feeding normally and is acting like themselves. Check with your pediatrician if in doubt.
-Can I raise the crib mattress to help with congestion?No. The AAP advises a flat sleep surface for every sleep. Use saline, suction and a cool-mist humidifier instead.
+How long after an illness can I restart sleep training?A common rule of thumb is once your baby has gone about a day without fever, is feeding normally and is acting like themselves. Check with your pediatrician if in doubt.
+Can I raise the crib mattress to help with congestion?No. Safe sleep guidance from the AAP and NIH says inclined or tilted sleep surfaces are not safe. Use saline, gentle suction and a humidifier if the air is dry instead.
 My baby started waking to feed again when sick. Will that stop?Usually, once you stop offering the extra feeds after recovery and add calories back during the day. If your baby lost weight during the illness, ask your pediatrician first.
-ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.
-Related guidesIs the pacifier helping or hurting my baby’s sleep?Why does my baby wake 30–45 minutes after bedtime?How do I adjust my baby’s sleep for daylight saving time?My toddler won’t stay in bed. How do I fix it?When and how do I stop swaddling?
+ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.Safe to Sleep campaign, NICHD (NIH). Ways to Reduce Baby's Risk.HealthyChildren.org (AAP). Fever and Your Baby.HealthyChildren.org (AAP). Coughs and Colds: Medicines or Home Remedies?HealthyChildren.org (AAP). Ear Infection Symptoms.U.S. Food and Drug Administration. Use Caution When Giving Cough and Cold Products to Kids.
+Related guidesIs the pacifier helping or hurting my baby’s sleep?Why does my baby wake 30–45 minutes after bedtime?How do I adjust my baby’s sleep for daylight saving time?Sleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get help
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -2887,12 +2908,12 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/separation-anxiety-at-bedtime/
 
 How do I handle separation anxiety at bedtime?
-Separation anxiety is a normal stage that typically appears around 8–10 months and returns around 18 months. Handle it with extra connection during the day, a predictable bedtime routine, and a short, confident goodnight; then check in briefly and consistently rather than staying until your child is asleep. Intense phases usually ease within 2–4 weeks when the response stays the same.
+Separation anxiety is a normal stage that usually starts between 8 and 12 months, peaks between 10 and 18 months, and tapers off in the second half of the second year. Handle it with extra connection during the day, a predictable bedtime routine, and a short, confident goodnight; then check in briefly and consistently rather than staying until your child is asleep.
 Why it shows up at bedtime
-Around 8 months, babies grasp that you still exist when you are out of sight, but not yet that you reliably come back. Bedtime is the longest separation of the day, so that is where the protest lands. It is a sign of healthy attachment, not a sleep problem in itself.
+Somewhere between 8 and 12 months, babies grasp that you still exist when you are out of sight, but not yet when, or whether, you will come back. Bedtime is the longest separation of the day, so that is where the protest lands. It is a sign of healthy attachment, not a sleep problem in itself.
 AgeWhat it looks likeWhat helps most
-8–10 monthsCrying when you leave the room, clinging at put-down, new night wakingPeekaboo and short daytime separations; a brief, steady goodnight
-About 18 monthsLoud protest, “one more” requests, standing and callingLimited choices in the routine; the same words every night
+8–12 months (onset)Crying when you leave the room, clinging at put-down, new night wakingPeekaboo and short daytime separations; a brief, steady goodnight
+Up to about 18 months (peak window)Loud protest, “one more” requests, standing and callingLimited choices in the routine; the same words every night
 2–3 yearsStalling, fears, leaving the room if in a bedExtra one-to-one time before the routine; a clear rule and calm follow-through
 By day: build the idea that you come back
 Peekaboo and hiding games. They are practice for exactly this.
@@ -2905,7 +2926,7 @@ Same routine, same order, 20–30 minutes, ending in the bedroom.
 One goodnight phrase, said warmly and once. Then leave while your child is awake.
 If they cry, check in briefly: a calm voice, a quick touch, the same phrase, and out. The message is “you are safe and I come back,” not “I will stay until you sleep.”
 Do not lengthen the goodbye. Hesitation reads as a signal that something really is wrong.
-A comfort object can help, but only after 12 months. Before then the crib stays empty.
+A comfort object can help, but only after 12 months. The AAP’s safe sleep recommendations cover the first year, and until then the crib stays empty.
 What prolongs it
 Staying until your child is asleep, or lying down with them, as a new habit.
 Bringing back night feeds or rocking that had already ended.
@@ -2918,11 +2939,11 @@ No. If your baby does not yet fall asleep independently, a plan built around thi
 When to talk to the pediatrician
 If the anxiety is extreme throughout the day, lasts many weeks without easing, follows a major upheaval, or comes with signs of illness or pain at night.
 Frequently asked
-At what age does separation anxiety peak?It commonly appears around 8–10 months and has a second peak around 18 months. Some children have another wave between 2 and 3.
+At what age does separation anxiety peak?According to the AAP’s parent site, it usually starts between 8 and 12 months, peaks between 10 and 18 months, and tapers off in the second half of the second year. Bedtime protests can resurface later at times of change.
 Should I stay in the room until my baby falls asleep?As a short, planned step that you fade over several nights, it can be part of a plan. As an open-ended response, it usually becomes a new sleep association.
 Can I give my baby a lovey for separation anxiety?After 12 months, a small lovey is generally fine. Before 12 months, the AAP advises keeping soft objects out of the sleep space.
-How long does separation anxiety at bedtime last?An intense phase typically eases within 2–4 weeks with a consistent response, though it can resurface at later stages.
-ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.
+How long does separation anxiety at bedtime last?The stage as a whole runs for months. In practice, an intense bedtime phase often eases within a few weeks with a consistent response, though it can resurface at later stages.
+ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.
 Related guidesWhy does my baby wake 30–45 minutes after bedtime?How do I handle daycare naps when sleep training?My toddler won’t stay in bed. How do I fix it?When and how do I stop swaddling?Why is my baby awake for hours in the middle of the night?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -2934,11 +2955,11 @@ URL: https://actuallysleepingllc.com/guides/crib-to-toddler-bed-when/
 When should I move my toddler from a crib to a bed?
 As late as you safely can: ideally close to age 3, when a child can understand and follow a “stay in bed” rule. Move sooner only if your toddler is climbing out and the usual fixes have failed, or they have outgrown the crib’s height limit. A new sibling, an 18-month or 2-year regression, or bedtime resistance are not reasons to switch, and usually get worse in a bed.
 Why waiting helps
-A crib does the job of impulse control for a child who does not yet have it. Most children under about 2.5–3 cannot reliably stay in an open bed because they have been told to, however well they understand the words. Families who switch at 18–24 months often trade one problem for a bigger one: see my toddler won’t stay in bed.
+A crib does the job of impulse control for a child who does not yet have it. In practice, many children under about 2.5–3 cannot reliably stay in an open bed because they have been told to, however well they understand the words. Families who switch at 18–24 months often trade one problem for a bigger one: see my toddler won’t stay in bed.
 Good reasons and poor reasons
 Good reasons to movePoor reasons to move
 Repeatedly climbing out despite the fixes belowA new baby needs the crib (use a second crib or a bassinet for the newborn)
-Taller than the limit in the crib’s manual, or the rail sits low on the chest when standingTurning 2
+Taller than the limit in the crib’s manual, or about 35 inches (89 cm), the height by which MedlinePlus says children should no longer use a cribTurning 2
 Close to 3, asking for a bed, following simple rules by dayFighting bedtime or waking at night
 Night toilet training that requires getting to the bathroomA regression, a move or a new daycare in the same month
 If your toddler is climbing out
@@ -2946,7 +2967,7 @@ Lower the mattress to its lowest setting.
 Use a regular sleep sack. It limits how high a leg can lift. Not a weighted one.
 Remove footholds: bumpers, large toys, anything inside or beside the crib that works as a step.
 Respond flatly. A calm “we stay in the crib,” back in, no drama. A big reaction makes climbing a game.
-Do not use crib tents or homemade covers. They pose entrapment and strangulation risks.
+Do not use crib tents or homemade covers. The CPSC has recalled crib tents over strangulation and entrapment hazards and told parents to stop using them.
 If your child still gets out, the crib is no longer safe. Move to a bed or a mattress on the floor that same day.
 Make the room the crib
 Once a child can leave the bed, the whole bedroom has to be safe to be in alone:
@@ -2959,7 +2980,7 @@ Making the switch
 Pick a calm stretch. No travel, illness, new sibling or toilet-training push within a few weeks.
 Involve your child a little: choosing sheets is enough. Keep the build-up low-key.
 Same routine, same bedtime, same spot in the room if possible.
-State one rule: “You stay in bed until your light turns green.” A wake-up light works from about 2.5 years.
+State one rule: “You stay in bed until your light turns green.” In practice a wake-up light tends to work from about 2.5 years.
 Return them silently every time they get up, starting on the first night. The honeymoon week often ends around night 5–10; be ready.
 Praise in the morning for staying in bed.
 If you moved too early
@@ -2970,7 +2991,7 @@ What is the best age to switch from a crib to a bed?For most children, close to 
 Should I move my toddler to a bed before the new baby arrives?Preferably not for that reason. If the move is truly needed, do it at least 2–3 months before the birth, or wait until a few months after.
 Is a toddler bed or a twin bed better?Either works. What matters is that it is low, has appropriate guardrails and sits in a fully childproofed room.
 My 2 year old climbed out of the crib once. Do I have to switch?Not necessarily. Lower the mattress, use a sleep sack, remove footholds and respond calmly. If climbing continues, move to a bed for safety.
-ReferencesU.S. Consumer Product Safety Commission. Safe Sleep – Cribs and Infant Products.American Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.
+ReferencesU.S. Consumer Product Safety Commission. Safe Sleep – Cribs and Infant Products.U.S. Consumer Product Safety Commission. Five Retailers Agree to Stop Sale and Recall Tots in Mind Crib Tents Due to Strangulation and Entrapment Hazard. 2012.MedlinePlus (NIH). Cribs and crib safety.American Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.
 Related guidesMy toddler won’t stay in bed. How do I fix it?My baby will only sleep on me, not in the crib or bassinet. What do I do?When and how do I stop swaddling?Why is my baby awake for hours in the middle of the night?How do you sleep train twins?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -2981,9 +3002,9 @@ URL: https://actuallysleepingllc.com/guides/sleep-training-a-premature-or-nicu-b
 
 Can I sleep train a premature baby or NICU graduate?
 Yes, in most cases, once your pediatrician confirms your baby is ready. Use corrected age (counted from the due date, not the birth date): gentle habit-shaping can begin around 10–12 weeks corrected, and fuller sleep training around 4–6 months corrected, provided weight gain is steady and any medical issues are stable. Night feeds stay until your pediatrician says they can go, which is often later for babies born early.
-A note on scope: Dr. Sam is a Doctor of Pharmacy, not your baby’s physician. Readiness, feeding and any medical question for a baby born early belong to your pediatrician or neonatal follow-up team.
+A note on scope: Dr. Sam is a Doctor of Pharmacy and a Pennsylvania-licensed pharmacist. Readiness, feeding and any medical question for a baby born early belong to your pediatrician or neonatal follow-up team.
 Corrected age, and why it matters
-Corrected (adjusted) age is your baby’s age from birth minus the weeks they arrived early. A baby born 8 weeks early who is 6 months old is about 4 months corrected. Sleep development follows the brain’s maturity, so use corrected age for wake windows, nap counts and sleep expectations, typically until around age 2.
+Corrected (adjusted) age is your baby’s age from birth minus the weeks they arrived early (40 minus the gestational age at birth). A baby born 8 weeks early who is 6 months old is about 4 months corrected. The AAP recommends using corrected age during the first 2 years to judge development, so it makes sense to use it for wake windows, nap counts and sleep expectations too.
 Corrected ageWhat is realistic
 Before the due date to about 10 weeksFeed on your team’s schedule, safe sleep, day–night cues. No training.
 10–16 weeksConsistent routine, practice putting down awake, feeds kept as directed
@@ -2997,10 +3018,10 @@ Are reflux, breathing or oxygen needs, or apnea history stable enough for a slee
 Is there any reason my baby should not be given a few minutes to settle?
 What is different for NICU graduates
 Feeding comes first, longer. Many preemies need scheduled feeds, including overnight, well past the point a term baby would. Never stretch or drop a feed without clearance.
-Home sleep is on the back. Babies are sometimes placed on their stomach or side in the NICU under continuous monitoring. At home the AAP guidance applies in full: on the back, firm and flat, nothing in the crib, no positioners or nests, no inclines.
-Medical equipment. A baby discharged on oxygen or a prescribed monitor needs a plan built with the medical team. Consumer wearable monitors are not recommended by the AAP as a way to reduce SIDS risk and do not replace safe sleep.
+Home sleep is on the back. Babies are sometimes placed on their stomach or side in the NICU under continuous monitoring. At home, NIH safe sleep guidance says all babies, including those born preterm, sleep on their backs until 1 year: firm and flat, nothing in the crib, no positioners or nests, no inclines.
+Medical equipment. A baby discharged on oxygen or a prescribed monitor needs a plan built with the medical team. The AAP and NIH advise against using heart, breathing or motion monitors as a way to reduce SIDS risk; they do not replace safe sleep.
 Light and noise. After weeks in a bright, alarm-filled unit, some babies sleep through anything and others startle easily. Dark nights, bright days and continuous white noise help build the day–night rhythm.
-Reflux is more common. See sleep training a baby with reflux.
+Reflux questions are common. Babies with reflux still sleep on their backs. See sleep training a baby with reflux.
 Parents carry the NICU with them. Being hyper-alert to every sound is a reasonable response to what you lived through. A plan with defined check-ins lets you respond on purpose rather than on adrenaline.
 How the plan itself changes
 Schedules run on corrected age. Start with wake windows by age and use the younger band.
@@ -3013,9 +3034,9 @@ Actually Sleeping works with families from the newborn stage (foundations first,
 Frequently asked
 Do I use corrected age or actual age for sleep training a preemie?Corrected age, counted from the due date. It is the better guide to sleep maturity, wake windows and nap needs.
 When can a premature baby sleep through the night?It varies with growth and feeding needs. Many can once they are past about 6 months corrected and the pediatrician has cleared them to drop night feeds, but some need night feeds longer.
-Can my preemie sleep on their stomach like in the NICU?No. Stomach or side positioning in the NICU happens under continuous monitoring. At home, the AAP recommends the back for every sleep.
+Can my preemie sleep on their stomach like in the NICU?No. Stomach or side positioning in the NICU happens under continuous monitoring. At home, AAP and NIH guidance is the back for every sleep, including for babies born preterm.
 Is sleep training harder for NICU babies?Not necessarily. It often starts later and moves in smaller steps, but NICU graduates with stable weight gain generally learn independent sleep well.
-ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.U.S. Consumer Product Safety Commission. Safe Sleep – Cribs and Infant Products.
+ReferencesAmerican Academy of Pediatrics. Sleep-Related Infant Deaths: Updated 2022 Recommendations for Reducing Infant Deaths in the Sleep Environment. Pediatrics. 2022.HealthyChildren.org (AAP). Corrected Age for Preemies.Safe to Sleep campaign, NICHD (NIH). Ways to Reduce Baby's Risk.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.U.S. Consumer Product Safety Commission. Safe Sleep – Cribs and Infant Products.
 Related guidesCan I sleep train while room-sharing?Can I sleep train and keep breastfeeding?How do you sleep train twins?Can you sleep train a baby with reflux?Do vitamin D drops or probiotics affect a baby’s sleep?
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
@@ -3067,7 +3088,7 @@ Is my 2 year old ready to stop napping?Probably not. Most children nap until 3�
 Should I move my 2 year old to a bed during the regression?No, unless there is a safety reason. Changing beds in the middle of a regression usually makes both harder.
 Why is my 2 year old suddenly scared at bedtime?Imagination develops quickly around this age and fears come with it. Acknowledge the fear briefly, offer a dim night light, and keep the routine and response the same.
 ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.
-Related guidesWhy is my 8, 9 or 10 month old suddenly waking at night?Is it the 4 month sleep regression or a real sleep problem?Is the 18 month sleep regression real, and what do I do about it?Why is my 12 month old suddenly waking at night?When do babies drop naps, and how do I handle the 3-to-2 and 2-to-1 transitions?
+Related guidesWhy is my 8, 9 or 10 month old suddenly waking at night?Is it the 4 month sleep regression or a real sleep problem?Is the 18 month sleep regression real, and what do I do about it?Why is my 12 month old suddenly waking at night?Sleep at 2½ years: what’s normal, what’s hard, and when to get help
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
@@ -4072,6 +4093,822 @@ Can my 3 year old be given ADHD medicine?The AAP ADHD guideline covers ages 4 to
 Does night coughing mean my child’s asthma is not controlled?It can. The AAP uses nighttime flare-ups as one measure of asthma severity and stresses overall control. Tell your pediatrician how often your child coughs or wakes at night, and bring your child’s asthma action plan to the visit.
 ReferencesHealthyChildren.org (AAP). Mild, Moderate, Severe Asthma: What Do Grades Mean?U.S. Food and Drug Administration. FDA requires Boxed Warning about serious mental health side effects for asthma and allergy drug montelukast (Singulair). March 4, 2020.HealthyChildren.org (AAP). What are Corticosteroids?MedlinePlus (National Library of Medicine). Albuterol Oral Inhalation.HealthyChildren.org (AAP). AAP Updates Guidelines on Attention Deficit Hyperactivity Disorder.MedlinePlus (National Library of Medicine). Methylphenidate.
 Related guidesDo allergy medicines affect a toddler’s sleep?Which over-the-counter medicines affect a baby’s sleep?Do vitamin D drops or probiotics affect a baby’s sleep?Which of my medications could affect my breastfed baby’s sleep?Does my caffeine affect my breastfed baby’s sleep?
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Newborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatrician
+URL: https://actuallysleepingllc.com/guides/newborn-sleep-0-to-4-weeks/
+
+Newborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatrician
+In the first 4 weeks, sleep comes in short pieces spread across day and night. HealthyChildren says newborns sleep about 16 to 17 hours a day, often only 1 or 2 hours at a time, and healthy babies vary widely. There is no official sleep target at this age. Feed on cue, keep every sleep safe, and call the pediatrician for fever, poor feeding or unusual sleepiness.
+What is normal in the first month
+A newborn has no working body clock yet. The AAP notes that babies do not have regular sleep cycles until about 4 months, so sleep lands evenly across 24 hours and night is not yet different from day.
+Newborn sleep is about half active (REM) sleep, according to the AAP. Grunting, twitching, eye movements and short cries during sleep are common and do not always mean your baby is awake. The AAP also describes periodic breathing: pauses of 5 to 10 seconds followed by a burst of faster breathing. It is generally considered normal and is outgrown by about the middle of the first year.
+MeasureWhat the sources say
+Official hours targetNone. The American Academy of Sleep Medicine (AASM) makes no recommendation under 4 months because normal sleep varies so widely and evidence on health outcomes is insufficient.
+Total sleepAbout 16 to 17 hours a day (HealthyChildren). A review of observational studies found an average of 14.6 hours at 0 to 2 months, with a normal spread of about 9 to 20 hours.
+Length of a stretchOften only 1 or 2 hours at a time (HealthyChildren).
+PatternNone yet. Day sleep and night sleep look the same.
+What parents find hardest
+Day–night mix-up. The AAP suggests keeping daytime normal and bright, with ordinary household noise, and keeping nights dark and quiet, with contact limited to feeding, burping, changing and gentle soothing.
+Sleeping only on you. Very common now. Contact naps are fine while you are awake and alert. When you get drowsy, move your baby to their own flat, empty sleep space.
+Evening fussiness. The AAP says about one in five babies develop colic, usually between the second and fourth weeks, and the fussy period tends to fall between 6 p.m. and midnight.
+Your own exhaustion. This is where the riskiest sleep happens. The AAP warns that sleeping with a baby on a couch or armchair raises the risk of a sleep-related death up to 67 times. If you think you might doze while feeding, do not sit on the sofa.
+Safe sleep from the first night
+On the back for every sleep, naps included. The AAP says the side position is just as dangerous as the stomach.
+A firm, flat surface with a fitted sheet and nothing else. Crib bumpers and inclined sleepers (more than 10 degrees) have been banned products under federal law since November 12, 2022.
+Share a room, not a bed. The AAP says sharing a sleep surface raises risk 5 to 10 times when a baby is under 4 months.
+If your baby falls asleep in a car seat, swing or carrier, move them to a flat sleep surface on their back as soon as you can.
+If you swaddle, always place your baby on the back, keep the hips loose, avoid overheating, and never use weighted swaddles. No hat indoors once you are home.
+Night feeds
+Newborns eat around the clock. How often to feed, whether to wake a sleepy baby to eat, and when a longer stretch is fine are decisions for your pediatrician, based on your baby’s weight gain. Nothing on this page is a reason to cut a feed.
+When to call the pediatrician
+A rectal temperature of 100.4°F (38°C) or higher in a baby 3 months or younger. The AAP says to call immediately, even without other symptoms.
+Your baby is hard to wake for feeds, feeds poorly, or seems floppy or unusually sleepy.
+Breathing that stops for more than 20 seconds: the AAP says call 911.
+Crying that seems like pain or illness, or you feel low and unable to cope. The AAP asks parents to tell their doctor about both.
+What you can start now
+Foundations can start in the first weeks: light days, dark nights, a short wind-down you repeat before the longest sleep, and safe sleep every time. Actually Sleeping works with families from the newborn stage. Night feeds stay in place, and the 14-day guarantee clock starts at your baby’s 10-week birthday: We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan. You can hear from other parents on our reviews page. For more on this stage, see the newborn sleep rhythm and how infant sleep cycles develop.
+Frequently asked
+How many hours should a newborn sleep?There is no official target. The AASM makes no recommendation under 4 months because normal sleep varies so widely. HealthyChildren says newborns sleep about 16 to 17 hours a day, and a review of studies found healthy babies at 0 to 2 months anywhere from about 9 to 20 hours.
+Is it normal for my newborn to grunt and twitch while asleep?Yes. About half of newborn sleep is active sleep, when grunts, twitches and brief cries are common. Short breathing pauses of 5 to 10 seconds followed by faster breathing are also described as normal by the AAP. Pauses longer than 20 seconds need a 911 call.
+Can my newborn sleep in the swing or car seat?Not for routine sleep. The AAP says sitting devices such as car seats, swings and strollers are not recommended for routine sleep, especially under 4 months. If your baby dozes off in one, move them to a firm, flat surface on their back as soon as possible.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Getting Your Baby to Sleep.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). Stages of Newborn Sleep.HealthyChildren.org (AAP). Reversing Day-Night Reversal.HealthyChildren.org (AAP). Colic Relief Tips for Parents.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.American Academy of Pediatrics. AAP Updates Safe Sleep Recommendations: Back is Best (news release, 2022).U.S. Consumer Product Safety Commission. Safe Sleep for Babies Act Business Guidance.HealthyChildren.org (AAP). Swaddling: Is it Safe for Your Baby?HealthyChildren.org (AAP). Fever and Your Baby.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 8 months: what’s normal, what’s hard, and when to call the doctorSleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatricianSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatrician
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 1 month: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-1-month/
+
+Sleep at 1 month: what’s normal, what’s hard, and when to get help
+At 1 month, sleep is still scattered and short, and evening crying often builds. The AAP says fussing usually peaks at about 3 hours a day by 6 weeks, then eases. There is no official sleep target before 4 months. This is also the start of the highest-risk window for SIDS, so safe sleep for every sleep matters most now.
+What is changing in weeks 4 to 8
+Your baby is waking up to the world. By 2 months, the CDC lists milestones such as calming down when spoken to or picked up, looking at your face, and smiling when you talk or smile. Those first social smiles make evenings more fun and also more stimulating, which is part of why the late-day stretch gets harder.
+The body clock is still forming. Night and day begin to separate a little, but long, predictable night sleep is not expected yet. Tummy time also matters this month: the AAP suggests building up to 15 to 30 minutes a day, in short sessions, by 7 weeks. Awake, supervised tummy time is the counterweight to back sleeping.
+Crying and sleep at 1 to 2 monthsWhat the AAP and studies report
+Peak of fussingUsually about 3 hours a day by 6 weeks
+Usual time of dayBetween 6 p.m. and midnight
+When it easesDown to 1 or 2 hours a day by 3 to 4 months; colicky crying can last until 6 months
+Total sleep, 0 to 2 monthsAverage 14.6 hours; normal spread about 9 to 20 hours (review of observational studies)
+Official hours targetNone under 4 months (AASM)
+What parents find hardest
+The evening witching hours. Cluster feeding and crying from late afternoon are typical. A dim room, low noise and a calm adult help more than changing tactics every few minutes.
+Catnaps that last one cycle. Short daytime sleeps are expected at this age. They are not a sign you are doing something wrong.
+Waking when put down. Many babies startle on the transfer. Laying your baby down feet first and keeping a hand on the chest for a moment is a common trick worth trying; it is a rule of thumb, not a study finding.
+Sleep debt in parents. Trade shifts if you can. Protecting one adult’s 4 to 5 hour block is a practical rule of thumb many families use.
+Safe sleep matters most right now
+The NICHD Safe to Sleep campaign reports that most SIDS deaths happen between 1 and 4 months of age, and that 72% occur in months 1 to 4. Everything below applies to every nap and every night.
+Back to sleep, on a firm, flat surface, with nothing in the sleep space. The AAP says the side is just as risky as the stomach.
+Room-share without bed-sharing. Never sleep with your baby on a sofa or armchair.
+Pacifiers reduce SIDS risk even if they fall out after your baby is asleep. If you breastfeed, the AAP suggests waiting until breastfeeding is established.
+If you swaddle, stop as soon as your baby shows any sign of trying to roll. The AAP notes some babies start working on rolling as early as 2 months.
+Night feeds
+Feeding on cue at night is still normal at this age. How often to feed, and whether a longer stretch is fine, is your pediatrician’s decision based on growth. Do not stretch or drop feeds on your own.
+When to talk to the pediatrician
+Any rectal temperature of 100.4°F (38°C) or higher: the AAP says call immediately for babies 3 months or younger.
+Crying that changes in sound, comes with vomiting, fever or poor feeding, or feels like pain. The AAP advises checking with your pediatrician first to rule out a medical cause.
+Noisy, laboured breathing in sleep, or pauses longer than 20 seconds (call 911).
+You feel depressed or close to the edge. Tell your doctor; it is common and treatable.
+Foundations now, plan later
+Foundations can start now: a predictable wind-down, a dark room for the longest sleep, and safe sleep every time. Actually Sleeping works with families from the newborn stage, with night feeds left in place. The 14-day guarantee clock starts at your baby’s 10-week birthday: We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan. Parents describe their experience on our reviews page. See also the newborn rhythm guide and pacifiers and sleep.
+Frequently asked
+Why is my 1 month old so fussy in the evening?Evening fussiness is common. The AAP says it tends to happen between 6 p.m. and midnight and that fussing usually peaks at about 3 hours a day by 6 weeks before easing by 3 to 4 months. Check with your pediatrician first to rule out a medical cause.
+Should my 1 month old be sleeping through the night?No. There is no official sleep target before 4 months, and the AAP says regular sleep cycles do not appear until about 4 months. Short stretches and night feeds are normal now. Your pediatrician decides how often your baby should feed.
+Is SIDS risk highest at 1 month?The risk window is now. The NICHD Safe to Sleep campaign reports most SIDS deaths happen between 1 and 4 months, with 72% in months 1 to 4. Back sleeping, an empty flat surface and room-sharing without bed-sharing all lower risk.
+ReferencesCDC. Milestones by 2 Months.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.HealthyChildren.org (AAP). Colic Relief Tips for Parents.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.Paruthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.NICHD Safe to Sleep campaign. SIDS by Baby's Age (text alternative).HealthyChildren.org (AAP). Swaddling: Is it Safe for Your Baby?HealthyChildren.org (AAP). Fever and Your Baby.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatrician
+URL: https://actuallysleepingllc.com/guides/sleep-at-2-months/
+
+Sleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatrician
+At 2 months, many babies begin to show one slightly longer stretch, but sleep is still irregular and night feeds are normal. There is no AASM sleep target until 4 months. The big safety change is rolling: the AAP says some babies start working on it as early as 2 months, and swaddling must stop at the first sign.
+What is changing at 2 months
+By 2 months, the CDC lists milestones such as holding the head up during tummy time, moving both arms and legs, making sounds other than crying, and smiling back at you. More control and more awareness mean your baby is now easier to engage and easier to overstimulate.
+Studies show a longest stretch that varies enormously. A review of observational studies found the longest sleep period in babies 0 to 5 months averaged 5.7 hours, with a normal spread from about 2 to nearly 10 hours. Some 2 month olds give you a 5 hour block. Many do not yet. Both are normal.
+At 0 to 5 monthsAverage in studiesNormal spread
+Longest single sleep stretch5.7 hoursAbout 1.8 to 9.6 hours
+Daytime sleeps per day3.1About 1 to 5
+Night wakings, 0 to 2 months1.70 to about 3
+Those figures come from parent reports pooled across many studies, so treat them as a picture of normal variety, not targets. Daytime sleeps are a common pattern, not a rule.
+What parents find hardest
+The swaddle question. Many babies still settle best swaddled just as they start to wriggle onto their side. Watch closely for rolling attempts.
+Relying on motion. Swings and car rides work, but the AAP says sitting devices are not recommended for routine sleep, especially under 4 months.
+Late, unpredictable bedtimes. Bedtime often drifts late because the body clock is still forming. An earlier bedtime usually becomes possible over the next couple of months.
+Short naps. One sleep cycle and awake is common. Some babies resettle if you give them a minute.
+Safe sleep at 2 months
+Stop swaddling as soon as your baby shows any sign of trying to roll. The AAP says rolling usually happens around 3 to 4 months, but some babies start working on it as early as 2 months. A swaddled baby who rolls to the stomach cannot push up.
+No weighted swaddles, weighted sleep sacks or weighted objects. The AAP says they are not safe.
+Back to sleep for every sleep, on a firm, flat surface. Keep room-sharing without bed-sharing.
+Most SIDS deaths happen between 1 and 4 months, according to the NICHD. You are in the middle of that window.
+Night feeds
+Night feeds are expected. Whether your baby can go longer between feeds is your pediatrician’s call at the 2-month visit, based on growth. Use that visit to ask directly.
+When to talk to the pediatrician
+A rectal temperature of 100.4°F (38°C) or higher: call immediately at this age.
+Your baby does not yet smile back, react to loud sounds, or lift the head during tummy time. These are on the CDC’s 2-month list; raise any concern early.
+Crying that is getting worse instead of better, or comes with poor feeding or vomiting.
+Frequent snoring or breathing that sounds like a struggle during sleep.
+Getting ready for the next stage
+Foundations can start now: a short wind-down, a dark room, and one calm put-down a day when your baby is drowsy rather than fully asleep. Actually Sleeping works with families from the newborn stage. Night feeds stay in place, and the 14-day guarantee clock starts at the 10-week birthday, which is just around the corner: We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan. Families share their results on our reviews page. Related: the 2-month schedule guide, dropping the swaddle, and the best age to sleep train.
+Frequently asked
+When should I stop swaddling my 2 month old?As soon as your baby shows any sign of trying to roll over. The AAP says some babies start working on rolling as early as 2 months. Until then, swaddle only for back sleeping, keep the hips loose, and never use a weighted swaddle.
+How long should a 2 month old sleep at night?There is no official target before 4 months. In a review of studies, the longest stretch for babies 0 to 5 months averaged 5.7 hours, ranging from under 2 to nearly 10 hours. A shorter stretch at 2 months is common and not a problem in itself.
+Can I start sleep training at 2 months?Not formal sleep training, and nothing that cuts feeds. Foundations are appropriate: a repeatable wind-down, a dark room, and some drowsy put-downs. Talk to your pediatrician about feeding before changing anything at night.
+ReferencesCDC. Milestones by 2 Months.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.American Academy of Pediatrics. AAP Updates Safe Sleep Recommendations: Back is Best (news release, 2022).HealthyChildren.org (AAP). Swaddling: Is it Safe for Your Baby?NICHD Safe to Sleep campaign. SIDS by Baby's Age (text alternative).Paruthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Fever and Your Baby.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?
+Related guidesSleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatricianSleep at 2½ years: what’s normal, what’s hard, and when to get helpSleep at 2 years: what’s normal, what’s hard, and when to get helpNewborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatrician
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 3 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-3-months/
+
+Sleep at 3 months: what’s normal, what’s hard, and when to get help
+At 3 months, crying usually starts to ease and nights may get a little more organized, but there is still no AASM sleep target until 4 months. The main changes are physical: rolling usually arrives around 3 to 4 months, so the swaddle has to go at the first sign, and the bassinet will soon be outgrown.
+What is changing at 3 months
+Colic is on its way out for most families. The AAP says colicky fussing declines to 1 or 2 hours a day by 3 to 4 months and generally stops by then, though it can last until 6 months.
+Your baby is getting stronger. By 4 months, the CDC lists pushing up onto elbows or forearms during tummy time, holding the head steady, and bringing hands to mouth. Hands to mouth is a real self-settling tool, and many babies begin sucking fingers in the crib now.
+The body clock is maturing. The AAP says regular sleep cycles appear at about 4 months, so the next few weeks are a period of change rather than a settled state.
+Change at 3 monthsWhat to doSource
+Rolling attempts (usually around 3 to 4 months)Stop swaddling at the first sign; use arms-free sleepwearAAP
+Pushing up on hands and kneesStop using the bassinet; CPSC says bassinets are not meant for use beyond about 5 months or once a baby can do thisCPSC
+Pushing up on hands and knees, or 5 monthsRemove hanging crib toys and mobiles, whichever comes firstAAP
+Total sleep in studies, from 3 monthsAverage 13.6 hours; normal spread about 9 to 18 hoursGalland 2012
+What parents find hardest
+Leaving the swaddle. Expect a few rougher nights while your baby learns to sleep with free arms. Many families try one arm out first; that is a common approach rather than a studied one.
+Naps that stay short. One cycle and awake is still common. Daytime sleeps averaged about 3 a day in studies of babies 0 to 5 months, with a lot of variation.
+Expecting the newborn tricks to keep working. Bouncing and rocking may stop working as your baby becomes more alert. A darker room and fewer moving parts often help.
+Safe sleep at 3 months
+Back to sleep for every sleep. Rolling is about to make positioning harder; the rule does not change until your baby can roll both ways.
+No weighted products, no inclined surfaces over 10 degrees, no bumpers.
+Keep room-sharing, ideally for at least the first 6 months, per the AAP. Bed-sharing risk is highest under 4 months.
+Most SIDS deaths happen between 1 and 4 months, according to the NICHD. Do not relax the basics yet.
+Night feeds
+Some babies naturally space out night feeds now; others do not. Either way, how many night feeds your baby needs is your pediatrician’s call, not a calendar’s.
+When to talk to the pediatrician
+A rectal temperature of 100.4°F (38°C) or higher in a baby 3 months or younger: call immediately.
+Crying that is increasing rather than settling, or continues past what you were told to expect.
+Frequent snoring, struggling to breathe, or breathing pauses longer than 20 seconds (call 911).
+Not yet bringing hands to mouth or lifting the head and chest on the tummy as 4 months approaches.
+Next steps
+This is a good age to build the habit of a short, identical wind-down and to practise putting your baby down drowsy. Actually Sleeping works with families from the newborn stage, and the 14-day guarantee clock starts at the 10-week birthday, which your baby has now passed. You can read what other families say on our reviews page. Related: how to drop the swaddle, the 3-month schedule, and how sleep cycles develop.
+Frequently asked
+Is it normal for my 3 month old to still cry in the evenings?Yes, though it should be easing. The AAP says colicky fussing usually falls to 1 or 2 hours a day by 3 to 4 months and can last until 6 months. If it is getting worse, or comes with poor feeding or fever, call your pediatrician.
+When should my 3 month old move out of the bassinet?The CPSC says bassinets and cradles are not intended for use beyond about 5 months, or once a baby can push up on hands and knees, whichever comes first. Check your product’s own limits, which may be lower, and move to a crib in your room.
+How much should a 3 month old sleep?The AASM sets no target before 4 months. In a review of studies, babies from 3 months averaged 13.6 hours in 24 hours, with a normal spread from about 9 to 18 hours. Look at how your baby feeds, grows and behaves, not just the hours.
+ReferencesHealthyChildren.org (AAP). Colic Relief Tips for Parents.CDC. Milestones by 4 Months.HealthyChildren.org (AAP). Getting Your Baby to Sleep.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.U.S. Consumer Product Safety Commission. CPSC Approves New Federal Safety Standard for Bassinets and Cradles.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.American Academy of Pediatrics. AAP Updates Safe Sleep Recommendations: Back is Best (news release, 2022).NICHD Safe to Sleep campaign. SIDS by Baby's Age (text alternative).HealthyChildren.org (AAP). Fever and Your Baby.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.Paruthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.
+Related guidesSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 4 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-4-months/
+
+Sleep at 4 months: what’s normal, what’s hard, and when to get help
+From 4 months, the AASM recommends 12 to 16 hours of sleep per 24 hours, including naps, and the AAP supports that range. Sleep cycles become more adult-like around now, so many babies start waking more between cycles. Rolling is common, teething may begin, and the AAP suggests putting babies 4 months and older to bed drowsy.
+What is changing at 4 months
+The AAP says babies do not have regular sleep cycles until about 4 months. Once they do, there are more brief wake-ups between cycles. A baby who was rocked fully asleep may now need the same help several times a night. That is the change people call the 4-month regression; it is a developmental step that tends to stick.
+By 4 months, the CDC lists pushing up onto elbows during tummy time, holding the head steady, bringing hands to mouth, chuckling, and moving or making sounds to keep your attention. Teething can also start: the AAP says it typically begins by about 4 to 7 months.
+Measure at 4 monthsFigureSource
+Recommended total sleep12 to 16 hours per 24 hours, including napsAASM, supported by AAP
+Average total in studies, from 3 months13.6 hoursGalland 2012
+Daytime sleeps, 0 to 5 monthsAbout 3 on average, often 3 to 4Galland 2012
+Night wakings, 3 to 6 months0.8 on average, 0 to 3 is within normalGalland 2012
+The nap count is a common pattern, not a rule. Some 4 month olds take three long naps, others four or five short ones.
+What parents find hardest
+Frequent waking after months of better nights. Often a sleep-association problem appearing, not hunger. Ask the pediatrician before assuming either way.
+Rolling in the crib. Babies roll onto their tummy and get annoyed, or practise rolling instead of sleeping.
+Short naps. Naps of a single sleep cycle are very common at this age.
+Distracted daytime feeds that shift calories into the night.
+Safe sleep at 4 months
+Still place your baby on the back for every sleep. The AAP says that once your baby rolls both ways, back to tummy and tummy to back, you do not need to keep turning them over, as long as the sleep space is empty.
+No swaddle once rolling attempts begin. Arms-free sleep sacks only, and never weighted.
+Keep room-sharing without bed-sharing, ideally for at least the first 6 months.
+If you still use a bassinet, plan the move: the CPSC says they are not meant for use beyond about 5 months or once a baby can push up on hands and knees.
+Night feeds
+Some 4 month olds still need one or more night feeds and some do not. That decision belongs to your pediatrician, based on weight gain. The plan you choose should work around those feeds, not cut them.
+When to talk to the pediatrician
+Fever above 101°F (38.3°C). The AAP says teething does not cause a fever that high, so it needs a look.
+Frequent snoring, laboured breathing, or daytime sleepiness that seems excessive.
+Sudden frequent waking with fever, ear pulling, vomiting or poor feeding.
+Not yet holding the head steady or pushing up on the forearms.
+Where to go from here
+This is the age when learning to fall asleep without being fed or rocked starts to pay off, and the AAP’s own advice for babies 4 months and older is to put them to bed drowsy and not rush in at every sound. Actually Sleeping writes plans for this stage that keep any pediatrician-approved night feeds in place. Real parent stories are on our reviews page. Related: the 4-month sleep change, the 4-month schedule, and the feed-to-sleep association.
+Frequently asked
+How many hours should a 4 month old sleep?The AASM recommends 12 to 16 hours per 24 hours, including naps, for babies 4 to 12 months, and the AAP supports that range. Healthy babies vary, so look at mood, feeding and growth along with the total.
+Is the 4-month regression real?Something real does change. The AAP says regular sleep cycles appear around 4 months, which means more brief wakings between cycles. Babies who need feeding or rocking to fall asleep often need the same help each time they surface.
+My 4 month old rolls onto their tummy in the crib. What do I do?Keep placing your baby on the back. The AAP says once your baby rolls comfortably both ways you do not need to keep turning them, provided there are no blankets, pillows, toys or bumpers in the crib. Make sure the swaddle is gone.
+Is my 4 month old teething?Possibly. The AAP says teething typically starts by about 4 to 7 months. It can cause a slight rise in temperature, but not above 101°F (38.3°C). A higher fever is not from teething; call your pediatrician.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.American Academy of Sleep Medicine. How much sleep do children need? SleepEducation.org.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?HealthyChildren.org (AAP). Getting Your Baby to Sleep.CDC. Milestones by 4 Months.HealthyChildren.org (AAP). When Does Teething Start?Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.U.S. Consumer Product Safety Commission. CPSC Approves New Federal Safety Standard for Bassinets and Cradles.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 2½ years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatrician
+URL: https://actuallysleepingllc.com/guides/sleep-at-5-months/
+
+Sleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatrician
+At 5 months, the AASM range is 12 to 16 hours per 24 hours, including naps. This is mostly an equipment month: the CPSC says bassinets are not meant for use beyond about 5 months, the AAP says to remove mobiles by 5 months, and the crib mattress should be lowered before your baby can sit. Short naps and early waking are the common complaints.
+What is changing at 5 months
+Your baby is getting close to the CDC’s 6-month milestones: rolling from tummy to back, pushing up with straight arms, and leaning on the hands while sitting. More strength means more movement in the crib and more ways to get stuck awake.
+Teething can be part of the picture. The AAP says teething typically starts by about 4 to 7 months and that timing varies a lot. Interest in the world also jumps, so feeds get distracted and short.
+Equipment check at 5 monthsGuidanceSource
+Bassinet or cradleNot intended for use beyond about 5 months, or once your baby can push up on hands and kneesCPSC
+Mobile or hanging crib toysRemove at 5 months or when your baby gets up on hands and knees, whichever comes firstAAP
+Crib mattressLower it before your baby can sit up aloneMedlinePlus, AAP
+SwaddleGone once your baby shows signs of trying to rollAAP
+Crib itselfSlats no more than 2 3/8 inches apart; crib made after June 2011AAP
+What parents find hardest
+Short naps. One sleep cycle and awake is common at this age. A darker room helps more often than parents expect.
+Very early waking. Light, a too-late or too-early bedtime, and long daytime gaps can all drive early waking. Adjust one thing at a time.
+The first night in the crib. A new space can bring a few unsettled nights. Keep the routine identical so only one thing changes.
+Distracted daytime feeds. A quiet room for some feeds keeps calories in the day.
+Safe sleep at 5 months
+Back to sleep for every sleep until the first birthday, even if your baby then rolls.
+Room-share in a crib or play yard next to your bed, ideally until at least 6 months. No sleeping together on a couch or armchair.
+The crib stays empty: no bumpers, pillows, blankets or soft toys. Crib bumpers are banned products under federal law.
+No weighted sleep sacks or weighted blankets.
+Night feeds
+Some 5 month olds still feed once or twice at night, some more. Whether that should change is your pediatrician’s decision. Starting solids is also their call; the AAP advises not before about 6 months.
+When to talk to the pediatrician
+Fever above 101°F (38.3°C): the AAP says this is not teething.
+Snoring on most nights, gasping, or breathing pauses during sleep.
+A sudden change in sleep alongside feeding refusal, vomiting or fewer wet diapers.
+Not rolling or pushing up with straight arms as 6 months approaches.
+Where to go from here
+If nights have become a series of short wake-ups that need feeding or rocking, the cause is usually how your baby falls asleep, not a lack of sleep pressure. Actually Sleeping writes plans for this age around any feeds your pediatrician wants kept. Families talk about what changed for them on our reviews page. Related: short 30-minute naps, the 5-month schedule, and when a baby will not sleep in the crib.
+Frequently asked
+Should my 5 month old be out of the bassinet?Usually yes, or very soon. The CPSC says a bassinet or cradle is not intended for use beyond about 5 months, or once a baby can push up on hands and knees. Your product may have a lower limit; check the label. A crib in your room keeps room-sharing going.
+How much sleep does a 5 month old need?The AASM recommends 12 to 16 hours per 24 hours, including naps, for babies 4 to 12 months, and the AAP supports that range. Healthy babies sit at different points in it.
+When do I lower the crib mattress?Before your baby can sit up alone, according to MedlinePlus and the AAP. Then move it to the lowest setting before your baby can stand. Many families lower it as soon as rolling and pushing up start, to stay ahead of the milestone.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 6 Months.HealthyChildren.org (AAP). When Does Teething Start?U.S. Consumer Product Safety Commission. CPSC Approves New Federal Safety Standard for Bassinets and Cradles.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Swaddling: Is it Safe for Your Baby?U.S. Consumer Product Safety Commission. Safe Sleep for Babies Act Business Guidance.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.American Academy of Pediatrics. AAP Updates Safe Sleep Recommendations: Back is Best (news release, 2022).
+Related guidesSleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatricianNewborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatricianSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 8 months: what’s normal, what’s hard, and when to call the doctor
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 6 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-6-months/
+
+Sleep at 6 months: what’s normal, what’s hard, and when to get help
+At 6 months, the AASM range is 12 to 16 hours per 24 hours, including naps. The AAP says it is normal for a 6 month old to wake briefly at night and go back to sleep within a few minutes. In studies, babies 6 to 11 months averaged about 2 daytime naps. Solids usually start around now, and room-sharing is recommended for at least the first 6 months.
+What is changing at 6 months
+By 6 months, the CDC lists rolling from tummy to back, leaning on the hands to support sitting, knowing familiar people, and laughing. Sitting and rolling give your baby new things to practise at 2 a.m.
+Several things also wind down around now. The AAP says periodic breathing of infancy is generally outgrown by about 6 months, and colicky crying, which can last until 6 months, is usually over. Separation anxiety can begin in the second half of the first year, and the AAP notes that nightmares can start as young as 6 months.
+At about 6 monthsFigureSource
+Recommended total sleep12 to 16 hours per 24 hours, including napsAASM
+Average total in studies, from 6 months12.9 hours (spread about 9 to 17)Galland 2012
+Daytime naps, 6 to 11 months2.2 on average (about 1 to 3.5)Galland 2012
+Longest stretch, 6 to 24 months8.3 hours on average (about 3 to 14)Galland 2012
+Room-sharingAt least the first 6 monthsAAP
+Many 6 month olds take 3 naps and are heading toward 2. That is a common pattern, not a rule.
+What parents find hardest
+Waking every 2 hours. Brief waking is normal; needing a full rescue every time usually points to how your baby falls asleep at bedtime.
+Sitting up in the crib and not knowing how to lie back down. Daytime practice helps.
+The room-sharing decision. The AAP minimum is about to pass. Some families move the crib now, others later. Both are reasonable if the sleep space is safe.
+New foods causing a few unsettled nights or changes in digestion.
+Safe sleep at 6 months
+Back to sleep until the first birthday. If your baby rolls both ways, you can leave them in the position they choose, with nothing else in the crib.
+The NICHD reports more than 90% of SIDS deaths happen before 6 months, but it and the AAP both say safe sleep practices continue to age 1.
+Lower the mattress before your baby can sit unassisted, and to the lowest setting before standing.
+No bottle in bed. The AAP says putting a baby down with milk, formula or juice risks tooth decay; feed first, then put down.
+Night feeds
+Some healthy 6 month olds still take a night feed. Whether to keep it, reduce it or drop it is your pediatrician’s decision. If the pediatrician says feeds are no longer needed, change them gradually.
+When to talk to the pediatrician
+Frequent snoring, gasping, or loud or heavy breathing in sleep. The AAP lists snoring and sleep apnea among common childhood sleep problems.
+Fever above 101°F (38.3°C), or waking with ear pulling and fever.
+Not rolling, or not reaching for toys, by 6 months.
+Any question about starting solids, which the AAP advises not before about 6 months.
+Where to go from here
+If your baby wakes often and needs you to get back to sleep, the most effective change is usually at bedtime. Actually Sleeping builds that change into a written plan with live support. Families describe it in their own words on our reviews page. Related: a 6 month old waking every 2 hours, the 6-month schedule, and night weaning, if your pediatrician agrees.
+Frequently asked
+Is it normal for a 6 month old to wake at night?Yes. The AAP says it is normal for a 6 month old to wake during the night and go back to sleep after a few minutes. Studies of babies 3 to 6 months recorded 0 to 3 wakings as within the normal range. Frequent wakings that each need a parent are worth addressing.
+Should my 6 month old move to their own room?The AAP recommends room-sharing for at least the first 6 months. After that it is a family decision. Wherever your baby sleeps, keep them on the back on a firm, flat, empty surface until the first birthday.
+How many naps should a 6 month old take?There is no rule. In a review of studies, babies 6 to 11 months averaged 2.2 daytime naps, with a normal spread from about 1 to 3.5. Many 6 month olds take 3 naps and move to 2 over the next couple of months.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?HealthyChildren.org (AAP). Getting Your Baby to Sleep.CDC. Milestones by 6 Months.HealthyChildren.org (AAP). Stages of Newborn Sleep.HealthyChildren.org (AAP). Colic Relief Tips for Parents.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.NICHD Safe to Sleep campaign. SIDS by Baby's Age (text alternative).MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). When Does Teething Start?
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 2½ years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 7 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-7-months/
+
+Sleep at 7 months: what’s normal, what’s hard, and when to get help
+At 7 months, the AASM range is still 12 to 16 hours per 24 hours, including naps. Night waking often creeps back: in studies, babies 7 to 11 months woke slightly more on average than babies 3 to 6 months. Sitting, early crawling and separation anxiety are common reasons. Many babies move from 3 naps to 2 around now, as a common pattern rather than a rule.
+What is changing at 7 months
+Your baby is working toward the CDC’s 9-month milestones: getting into a sitting position alone, sitting without support, and moving things from hand to hand. New motor skills tend to get practised in the crib.
+The emotional side is shifting too. The AAP says separation anxiety can begin in the second half of the first year and can disrupt sleep for several months, with babies waking and crying anxiously for a parent.
+A first tooth may also arrive. The AAP says teething typically starts by about 4 to 7 months and can cause a slight temperature rise, but not above 101°F (38.3°C). A higher fever is not teething.
+Age band in studiesAverage night wakingsNormal spread
+0 to 2 months1.70 to about 3.4
+3 to 6 months0.80 to about 3.0
+7 to 11 months1.10 to about 3.1
+1 to 2 years0.70 to about 2.5
+Source: a systematic review of observational studies (Galland 2012). The small rise at 7 to 11 months matches what many parents notice: a baby who had been sleeping longer starts waking again.
+What parents find hardest
+New night wakings. Often tied to new skills or separation anxiety. Keep your response calm and consistent so a two-week phase does not become a habit.
+Sitting or rolling and getting stuck. Give plenty of floor time in the day to practise getting down.
+Fighting the third nap. In studies, babies 6 to 11 months averaged about 2 naps a day. Many drop the late catnap around now; bedtime often needs to move earlier while that happens.
+Early waking. Light leaks and a bedtime that is too late are frequent causes.
+Safe sleep at 7 months
+Back to sleep until the first birthday; if your baby rolls both ways, let them settle where they land, in an empty crib.
+The mattress should already be lowered for sitting. Move it to the lowest setting before your baby can pull to stand.
+Keep the crib away from windows, blind cords and anything climbable.
+No pillows, blankets or soft toys yet. The AAP’s safe sleep recommendations run to age 1.
+Night feeds
+A 7 month old waking more is not automatically hungry, and is not automatically not hungry. Ask your pediatrician whether night feeds are still needed before you change anything.
+When to talk to the pediatrician
+Waking that comes with fever, ear pulling, vomiting, rash, or a cough that worsens lying down.
+Snoring most nights or breathing that looks like hard work.
+A fever above 101°F (38.3°C) blamed on teething: the AAP says teething does not cause that.
+Your baby is not yet rolling or bearing weight on the hands while sitting.
+Where to go from here
+A clear, repeatable response to night waking helps more than any single trick. Actually Sleeping helps families set that response up in a written plan, and parents describe the process on our reviews page. Related: the 7-month schedule, nap transitions, and early morning waking.
+Frequently asked
+Why did my 7 month old start waking at night again?Common causes are new motor skills, separation anxiety, illness and a change in naps. Studies found slightly more night waking on average at 7 to 11 months than at 3 to 6 months. If there is fever or pain, see the pediatrician; otherwise, keep your response consistent.
+Should my 7 month old be on 2 naps?Many are, but it is a common pattern rather than a rule. Babies 6 to 11 months averaged 2.2 daytime naps in a review of studies. If the third nap makes bedtime late or is refused most days, it may be time to drop it.
+How much should a 7 month old sleep?The AASM recommends 12 to 16 hours per 24 hours, including naps, for babies 4 to 12 months, and the AAP supports this. Studies found an average of about 12.9 hours for babies from 6 months.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 9 Months.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.HealthyChildren.org (AAP). When Does Teething Start?
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 2½ years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 8 months: what’s normal, what’s hard, and when to call the doctor
+URL: https://actuallysleepingllc.com/guides/sleep-at-8-months/
+
+Sleep at 8 months: what’s normal, what’s hard, and when to call the doctor
+At 8 months, the AASM range is 12 to 16 hours per 24 hours, including naps. Clinginess and bedtime protest are very common because stranger and separation anxiety are emerging; the AAP says separation anxiety usually peaks between 10 and 18 months. SIDS becomes less common after 8 months, but safe sleep rules still apply until the first birthday.
+What is changing at 8 months
+Your baby now knows exactly who you are, and minds when you leave. The AAP describes stranger anxiety as one of the first emotional milestones and says separation anxiety starts around the same time, usually peaking between 10 and 18 months. By 9 months, the CDC lists being shy, clingy or fearful around strangers and reacting when you leave by looking, reaching or crying.
+Physically, many babies are pulling toward sitting, crawling and the first attempts to stand. The AAP and MedlinePlus say the crib mattress should be at its lowest setting before your baby can stand.
+Safe sleep after 8 monthsWhat changesWhat does not
+SIDS riskNICHD: SIDS is less common after 8 monthsSafe sleep practices continue until the first birthday
+PositionIf your baby rolls both ways, you need not reposition themAlways place on the back to start
+MattressLowest setting before your baby can standFirm, flat, tight-fitting
+Crib contentsNothing new yetNo pillows, blankets, bumpers or soft toys before age 1
+Nightmares are possible too. The AAP says they can start as young as 6 months and tend to come in the second half of the night. A baby who wakes frightened and settles quickly once you arrive is behaving normally. Studies of babies 7 to 11 months recorded about one night waking on average, with up to about three still within the normal range.
+What parents find hardest
+Crying the moment you leave the room. The AAP notes children accept separation more easily when it is part of a predictable routine. A short, identical goodbye each night helps.
+Waking and calling for a parent. The AAP says a child with separation anxiety may need reassurance several times, night after night. Keep visits brief and boring.
+Practising crawling or standing in the crib. Floor time in the day takes the novelty out of it.
+The 3-to-2 nap transition. Studies of babies 6 to 11 months found an average of about 2 naps a day; most 8 month olds are on two, as a common pattern.
+Night feeds
+Separation anxiety can look like hunger. A baby who wants you may also want to feed. Ask your pediatrician whether your baby still needs a night feed; if yes, keep it, and keep it calm and separate from falling asleep.
+When to talk to the pediatrician
+Waking with fever, ear pain, vomiting, or a cough that is worse lying down.
+Regular snoring, mouth breathing or pauses in breathing at night.
+Your baby does not seem to know familiar people, or does not respond to their name by 9 months.
+Anxiety so intense that daytime life is very hard, or that does not ease at all over months.
+Where to go from here
+Separation anxiety is a reason to be warm and predictable at bedtime, not a reason to abandon a plan. Actually Sleeping often works with families at exactly this age, and other parents share their experience on our reviews page. Related: separation anxiety at bedtime, the 8 to 10 month sleep regression, and the 8-month schedule.
+Frequently asked
+Why does my 8 month old cry as soon as I leave the room at bedtime?This is usually separation anxiety, a normal stage. The AAP says it often begins in the second half of the first year and usually peaks between 10 and 18 months. A short, predictable goodbye and calm, brief returns work better than sneaking out.
+Is SIDS still a risk at 8 months?Less so, but not zero. The NICHD says SIDS is less common after 8 months and that safe sleep practices should continue until the first birthday. Keep your baby on the back to start, on a firm, flat, empty surface.
+When do I lower the crib mattress all the way?Before your baby can stand. MedlinePlus and the AAP say to have the mattress at its lowest position before your child learns to stand. At 8 months, many babies are close, so it is safer to do it now.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.CDC. Milestones by 9 Months.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.NICHD Safe to Sleep campaign. SIDS by Baby's Age (text alternative).HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.
+Related guidesNewborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatricianSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatrician
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 9 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-9-months/
+
+Sleep at 9 months: what’s normal, what’s hard, and when to get help
+At 9 months, the AASM range is 12 to 16 hours per 24 hours, including naps, and studies found an average of about 12.6 hours for babies from 9 months. Most babies take 2 naps as a common pattern. Bedtime protest is typical because babies now understand that you still exist when you leave, and the CDC lists clinginess with strangers as a 9-month milestone.
+What is changing at 9 months
+The CDC’s 9-month milestones explain a lot of what happens at bedtime. Each one has a sleep side.
+CDC 9-month milestoneHow it can show up at night
+Looks for objects when dropped out of sightYour baby knows you are just outside the door and calls for you
+Reacts when you leave (looks, reaches for you, or cries)Protest at the moment you put them down
+Is shy, clingy, or fearful around strangersHarder settling with a new sitter or at daycare
+Gets to a sitting position by herself; sits without supportSitting up in the crib instead of lying down
+Lifts arms up to be picked upA very clear request at 2 a.m.
+None of these is a problem. They are signs of healthy development that happen to collide with sleep.
+What is normal
+In a review of observational studies, babies from 9 months averaged 12.6 hours of sleep per 24 hours, with a normal spread from about 9.4 to 15.8 hours. Babies 6 to 11 months averaged 2.2 naps a day. Two naps is a common pattern now, not a rule; some babies still take a short third nap on long days.
+What parents find hardest
+Bedtime protest. Keep the routine short and identical. A predictable routine is what the AAP says helps children accept separation.
+Standing in the crib and not knowing how to get down. Practise bending and sitting in the day.
+Daycare naps. New faces and noise can mean short naps at daycare and an overtired evening. An earlier bedtime on daycare days is a reasonable rule of thumb.
+Early waking. Check light, noise and the length of the afternoon awake stretch.
+Safe sleep at 9 months
+Mattress at the lowest setting now; many 9 month olds can pull up.
+Crib away from windows and cords. No pillows, blankets, bumpers or toys in the crib before age 1.
+Back to sleep to start; if your baby rolls both ways, leave them in the position they choose.
+No bottle in bed. The AAP links falling asleep with a bottle to tooth decay.
+Night feeds
+Whether a 9 month old needs a night feed is your pediatrician’s decision. If your pediatrician says feeds are no longer needed, reduce them gradually rather than stopping suddenly.
+When to talk to the pediatrician
+Snoring most nights, gasping or noisy breathing in sleep.
+Night waking with fever, ear pain, vomiting or diarrhoea.
+Your baby is not yet sitting without support, not babbling, or does not look when you call their name. These are on the CDC’s 9-month list.
+Very loud, inconsolable screaming episodes early in the night. Usually harmless, but worth describing to the doctor if they recur.
+Where to go from here
+If bedtime has turned into an hour of protest, the fix is usually a shorter routine and one consistent response. Actually Sleeping can write that plan with you; parents talk about it on our reviews page. Related: the 9-month schedule, separation anxiety at bedtime, and daycare naps.
+Frequently asked
+How much should a 9 month old sleep?The AASM recommends 12 to 16 hours per 24 hours, including naps, for babies 4 to 12 months. In a review of studies, babies from 9 months averaged 12.6 hours, with a normal spread from about 9.4 to 15.8 hours.
+Why does my 9 month old stand up in the crib and cry?Pulling up is new and exciting, and many babies cannot yet get down. Practise sitting down from standing during the day. Make sure the mattress is at the lowest setting, and use the same short response each time.
+Is clinginess at 9 months normal?Yes. The CDC lists being shy, clingy or fearful around strangers, and reacting when you leave, as 9-month milestones. The AAP says separation anxiety usually peaks between 10 and 18 months.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 9 Months.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.HealthyChildren.org (AAP). When Does Teething Start?
+Related guidesSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 2½ years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 10 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-10-months/
+
+Sleep at 10 months: what’s normal, what’s hard, and when to get help
+At 10 months, the AASM range is 12 to 16 hours per 24 hours, including naps. Pulling up and cruising are the big sleep disruptors, and the AAP says separation anxiety usually peaks between 10 and 18 months. Most babies still take 2 naps as a common pattern. The mattress must be at its lowest setting before your baby can stand.
+What is changing at 10 months
+By 12 months, the CDC lists pulling up to stand and walking while holding on to furniture. Many 10 month olds are already doing both, and the crib rail is the perfect thing to pull on. The AAP describes the window from 10 to 18 months as the usual peak of separation anxiety.
+Language is coming too. By 12 months, the CDC lists understanding “no” and calling a parent “mama” or “dada”. Babies who can call you, will.
+Standing in the cribWhat helps
+Stands, then cries because they cannot get downPractise squatting and sitting from standing during the day, many times
+Stands as soon as you lay them downLay them down once; avoid repeated lay-downs that turn into a game
+Mattress heightLowest position before your baby learns to stand (AAP, MedlinePlus)
+Climbing riskRail height checks start now; keep furniture and toys away from the crib edge
+The tips in the first two rows are common practical advice, not study findings.
+What is normal
+In a review of studies, babies 7 to 11 months averaged 1.1 night wakings, with anything from 0 to about 3 within the normal range, and babies 6 to 11 months averaged about 2 naps a day. A temporary dip during a big motor leap is common. Total sleep holds steady: babies from 9 months averaged 12.6 hours per 24 hours in the same review.
+What parents find hardest
+Bedtime standing protests that stretch settling to an hour.
+Short second naps or nap refusal. This is usually a phase. Most babies are not ready for one nap at 10 months.
+Early waking as daylight and noise wake a lighter sleeper.
+Illness. Colds and ear infections often start around daycare age and can reset sleep habits.
+Safe sleep at 10 months
+Lowest mattress position, crib away from windows and blind cords.
+Still nothing in the crib: the AAP’s recommendations apply until the first birthday.
+Place on the back to start. If your baby rolls or sits, there is no need to reposition.
+Furniture near the crib should be anchored so it cannot tip.
+Night feeds
+If your pediatrician wants a night feed kept, keep it. If they say it is no longer needed, a gradual change is easier on everyone. Ask before you decide either way.
+When to talk to the pediatrician
+Snoring most nights, gasping, or restless sleep with heavy breathing.
+Sudden waking with crying that suggests pain, especially with fever.
+Your baby is not yet pulling up, or not babbling, as the first birthday approaches.
+Recurring screaming episodes early in the night where your baby does not seem awake.
+Where to go from here
+Standing protests usually fade in one to two weeks with a consistent response, which is a practical observation rather than a study result. If yours have not, Actually Sleeping can help you set up a plan. Parents talk about how that went on our reviews page. Related: the 10-month schedule, the 8 to 10 month regression, and early waking.
+Frequently asked
+My 10 month old stands in the crib and will not lie down. What do I do?Practise getting down from standing during the day, lower the mattress fully, and use one calm response at night. Repeatedly laying your baby down can become a game. Most babies stop once getting down becomes easy.
+Should my 10 month old drop to one nap?Usually not yet. A review of napping studies found the big drop in two-nap days happens at 12 to 18 months. Babies 6 to 11 months averaged about 2 naps a day. A few days of nap refusal is usually a phase.
+Is separation anxiety worse at 10 months?It can be. The AAP says separation anxiety usually peaks between 10 and 18 months and that it can disrupt sleep for several months. A predictable bedtime routine helps children accept the separation.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 1 Year.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.HealthyChildren.org (AAP). Big Kid Beds: When to Switch From a Crib.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatrician
+URL: https://actuallysleepingllc.com/guides/sleep-at-11-months/
+
+Sleep at 11 months: what’s normal, what’s hard, and when to talk to your pediatrician
+At 11 months, the AASM range is 12 to 16 hours per 24 hours, including naps. Most babies still take 2 naps: a large review found the big shift to one nap happens between 12 and 18 months. Nap refusal at this age is usually a phase. Keep the crib empty and your baby on the back to start until the first birthday.
+What is changing at 11 months
+Your baby is close to the CDC’s 1-year milestones: pulling up to stand, walking while holding furniture, waving bye-bye, understanding “no”, and playing games like pat-a-cake. That is a lot of new ability and a lot of new reasons to stay awake.
+Separation anxiety is often near its peak; the AAP places the usual peak between 10 and 18 months.
+Sleep need does not fall off a cliff at the birthday. A review of studies found babies from 9 months averaged 12.6 hours per 24 hours and babies from 12 months averaged 12.9 hours, so expect much the same total sleep for the next few months.
+Two naps or oneMore likely a phaseMore likely real readiness
+AgeUnder 12 months12 to 18 months, when most babies shift (review of studies)
+PatternRefuses a nap for a few days, then takes it againRefuses the second nap most days for two weeks or more
+MoodCranky by late afternoonCopes well until bedtime on one nap
+NightsNight waking or early waking increasesNights stay steady
+The age row comes from a systematic review of napping studies. The other rows are a rule of thumb many families find useful, not a study finding.
+What parents find hardest
+Nap strikes. Keep offering the second nap. Babies who drop to one nap too early often start waking at night or before 6 a.m.
+Bedtime battles. More awareness, more protest. Shorter routines usually beat longer ones.
+Illness. Each cold can bring a week of rough nights. Comfort your baby fully while sick, then return to the usual routine once they are well.
+Dreading the first birthday change in daycare rooms, which often move to one nap at a set age.
+Safe sleep at 11 months
+The AAP’s safe sleep recommendations cover babies up to 1 year. Keep the crib empty and start every sleep on the back until then.
+No bottle in bed: the AAP says milk, formula or juice in bed can cause tooth decay.
+Mattress at the lowest setting. Check the rail height against your baby as they grow.
+Keep the crib away from windows and blind cords, and anchor nearby furniture.
+Night feeds
+Ask your pediatrician at the 12-month check about night feeds and the move to whole milk; both are their call. Changes to night feeds should follow that advice, not a birthday.
+When to talk to the pediatrician
+Snoring most nights, pauses in breathing, or daytime sleepiness that seems excessive.
+Night waking with fever, ear pulling, or crying that suggests pain.
+Your baby is not yet pulling to stand, babbling, or using gestures like waving as 12 months approaches.
+Night terrors or screaming episodes that keep happening.
+Where to go from here
+If short naps and early waking are feeding each other, a clear daily rhythm usually fixes both. Actually Sleeping can help set that up; families describe what changed on our reviews page. Related: nap transitions, the 10 to 11 month schedule, and getting sleep back after illness.
+Frequently asked
+Is my 11 month old ready for one nap?Probably not yet. A systematic review of napping studies found the big shift away from two naps a day happens between 12 and 18 months. A few days of nap refusal at 11 months is usually a phase. Keep offering two naps.
+Can my 11 month old have a blanket in the crib?The AAP’s safe sleep recommendations apply until the first birthday and call for a crib with no blankets, pillows, bumpers or soft toys. Use a wearable blanket or sleep sack instead. Ask your pediatrician about changes after age 1.
+How much sleep does an 11 month old need?The AASM recommends 12 to 16 hours per 24 hours, including naps, for babies 4 to 12 months. A review of studies found babies from 9 months averaged about 12.6 hours, with healthy babies on both sides of that.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 1 Year.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.
+Related guidesSleep at 2 months: what’s normal, what’s hard, and when to talk to your pediatricianSleep at 5 months: what’s normal, what’s hard, and when to talk to the pediatricianNewborn sleep in the first 4 weeks: what’s normal, what’s hard, and when to call the pediatricianSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 8 months: what’s normal, what’s hard, and when to call the doctor
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 12 months: what’s normal at the first birthday and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-12-months/
+
+Sleep at 12 months: what’s normal at the first birthday and when to get help
+At the first birthday, the AASM range shifts from 12 to 16 hours for babies to 11 to 14 hours per 24 hours for 1 to 2 year olds, including naps. Most 1 year olds still take 2 naps; the move to one usually happens between 12 and 18 months. The AAP’s infant safe sleep recommendations cover the first year.
+What changes at the first birthday
+By 1 year, the CDC lists pulling up to stand, walking while holding furniture, waving bye-bye, calling a parent “mama” or “dada”, and looking for things you hide. First steps may be close. Separation anxiety is often strong; the AAP says it usually peaks between 10 and 18 months.
+At the first birthdayBeforeAfter
+AASM recommended sleep12 to 16 hours (4 to 12 months)11 to 14 hours (1 to 2 years)
+Average total in studies12.6 hours (from 9 months)12.9 hours (from 12 months)
+Daytime naps in studies2.2 on average (6 to 11 months)1.2 on average (1 to 2 years)
+AAP infant safe sleep recommendationsApplyWritten for babies up to 1 year
+Sources: AASM consensus statement; Galland 2012 review; AAP. The nap figures are averages across many children and show a gradual shift, not a switch on the birthday.
+What is normal
+Two naps is still the most common pattern at 12 months. A systematic review found a dramatic drop in two-nap days between 12 and 18 months, and fewer than 2.5% of children stop napping altogether before age 2. Among babies under 12 months who napped, naps averaged about 3.1 hours a day in total; for 1 to 2 year olds the average was 2.3 hours.
+What parents find hardest
+The 12-month nap wobble. Many babies refuse one nap for a week or two. Keep offering both; most settle back.
+Walking practice. Standing and cruising in the crib continue.
+Daycare moving to one nap before your child is ready. An earlier bedtime helps bridge the gap.
+Milk changes. If your pediatrician moves your child from formula or changes feeds, expect some adjustment.
+Safe sleep after the first birthday
+The crib remains the safest place to sleep. Keep the mattress at its lowest setting.
+The AAP advises not putting a child to bed with a bottle of milk, formula or juice, because of tooth decay. Feed first, brush teeth, then bed.
+Move to a bed when your child is 35 inches (89 cm) tall or the rail is below about three-quarters of their height, per the AAP and MedlinePlus. Most 1 year olds are nowhere near.
+Ask your pediatrician before adding a pillow or blanket.
+Night feeds
+Whether a 1 year old still needs anything at night is a question for the 12-month visit. Your pediatrician decides; a sleep plan works around that decision.
+When to talk to the pediatrician
+Snoring most nights, gasping, or pauses in breathing. The AAP lists sleep apnea signs as frequent snoring, problems breathing at night, daytime sleepiness, attention difficulty and behavior problems.
+Waking with pain or fever.
+Your child is not yet pulling to stand, using gestures, or saying any special name for a parent.
+Where to go from here
+If the year has ended with nights still broken, this is a very workable age to change it. Actually Sleeping coaches families through toddlerhood; you can see what parents say on our reviews page. Related: the 12-month regression, the 12-month schedule, and nap transitions.
+Frequently asked
+How much should a 1 year old sleep?The AASM recommends 11 to 14 hours per 24 hours, including naps, for children 1 to 2 years old, and the AAP supports it. Babies under 12 months fall in the 12 to 16 hour range, so the two ranges overlap at the first birthday.
+Should my 1 year old be on one nap?Most are still on two. A review of napping studies found the big drop in two-nap days happens between 12 and 18 months. Move to one nap when your child consistently refuses the second for a couple of weeks and copes well without it.
+Can my 1 year old have a pillow or blanket now?The AAP’s infant safe sleep recommendations are written for babies up to 1 year. There is no rush to add anything after that. A sleep sack keeps a toddler warm without loose bedding. Ask your pediatrician before you add a pillow.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.American Academy of Sleep Medicine. How much sleep do children need? SleepEducation.org.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 1 Year.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.HealthyChildren.org (AAP). A Parent's Guide to Safe Sleep.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 15 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-15-months/
+
+Sleep at 15 months: what’s normal, what’s hard, and when to get help
+At 15 months, the AASM recommends 11 to 14 hours of sleep per 24 hours, including naps. This is prime time for the 2-to-1 nap transition: a large review found two-nap days drop sharply between 12 and 18 months. First steps, new words and strong attachment to a comfort object are all typical, and all can show up at bedtime.
+What is changing at 15 months
+By 15 months, the CDC lists taking a few steps alone, trying to say one or two words besides “mama” or “dada”, pointing to ask for help, showing affection with hugs and kisses, and hugging a stuffed toy. Toddlers now have opinions, and bedtime is a natural place to express them. Separation anxiety is often still strong; the AAP says it usually peaks between 10 and 18 months.
+Nap transition, 2 to 1What the research shows
+When it usually happensA dramatic drop in two-nap days between 12 and 18 months (Staton 2020)
+Naps per day, 1 to 2 years1.2 on average, spread about 0.4 to 2.1 (Galland 2012)
+Total nap time, 1 to 2 yearsAbout 2.3 hours on average among children who nap (Staton 2020)
+Stopping naps altogetherFewer than 2.5% stop before age 2 (Staton 2020)
+As a rule of thumb rather than a research finding, most families find the one-nap switch goes more smoothly with a nap that starts around midday and an earlier bedtime for the first few weeks.
+What parents find hardest
+The in-between stage. Two naps make bedtime too late; one nap leaves your child melting down by 5 p.m. Many families alternate for a week or two.
+Daycare on one nap, home on two. Mismatched schedules are common. Follow daycare’s pattern on weekends if your child copes.
+Bedtime stalling. More words, more requests. The AAP lists stalling and resisting going to bed among the most common sleep problems in children.
+Walking in the crib. New walkers often practise at night for a week or two.
+Safe sleep at 15 months
+The crib is still the safest bed. The AAP and MedlinePlus give 35 inches (89 cm) tall as the point to move out of a crib, or when the rail is below about three-quarters of your child’s height.
+Keep the crib away from windows and the mattress at its lowest setting.
+If your child gets attached to a comfort toy, ask your pediatrician about having it in the crib. A sleep sack remains a safe way to keep warm.
+No bottle in bed; the AAP links it to tooth decay.
+Night feeds
+If your toddler still wakes for milk, ask your pediatrician whether that is needed for nutrition. They decide; you can then change the habit gently if they agree it is no longer needed.
+When to talk to the pediatrician
+Snoring on most nights, breathing pauses, or noisy breathing with an open mouth.
+Night waking that comes with fever, ear pain or crying that suggests pain.
+Your child is not yet taking any steps, not trying any words, or not pointing to ask for things.
+Where to go from here
+A planned nap transition with a matching bedtime is the most common fix at this age. Actually Sleeping can build one for your child; parents share their stories on our reviews page. Related: nap transitions, daycare naps, and the 12 to 14 month schedule.
+Frequently asked
+When should my 15 month old switch to one nap?When your child consistently refuses or struggles with the second nap and copes well on one. A systematic review found the big drop in two-nap days happens between 12 and 18 months, so 15 months is a very common time.
+How much sleep does a 15 month old need?The AASM recommends 11 to 14 hours per 24 hours, including naps, for children 1 to 2 years old, and the AAP supports this range. Studies found 1 to 2 year olds averaged about 12.6 hours.
+Why does my 15 month old fight bedtime now?New words, new walking and stronger opinions all arrive at once. The AAP lists stalling and resisting going to bed among the most common childhood sleep problems. A short, predictable routine with clear limits usually helps within a couple of weeks.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 15 Months.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 18 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-18-months/
+
+Sleep at 18 months: what’s normal, what’s hard, and when to get help
+At 18 months, the AASM recommends 11 to 14 hours per 24 hours, including naps, and most toddlers are on one nap. Climbing, separation worries and screen habits are the common sleep disruptors. The AAP says to avoid screens before 18 months, cap entertainment screen time at 1 hour a day from 18 months to age 5, and switch screens off an hour before bed.
+What is changing at 18 months
+By 18 months, the CDC lists walking without holding on, climbing on and off a couch or chair without help, trying to say three or more words, and moving away from you while checking you are still close. Climbing is the one that matters most at night.
+The AAP says separation anxiety usually peaks between 10 and 18 months and fades during the last half of the second year. Many toddlers are right at the top of that curve now.
+Screens and sleep from 18 monthsAAP guidance
+Before 18 monthsAvoid TV and mobile apps
+18 months to age 5Cap entertainment screen time at 1 hour a day
+Before bedTurn off all screens at least 60 minutes before bedtime
+BedroomKeep TVs, computers, tablets and phones out, especially at night
+The AAP notes that screen viewing contributes to problems with sleep and attention. A calm hour without screens before bed is one of the simplest changes with real backing.
+What is normal
+In a review of studies, children 1 to 2 years averaged 12.6 hours of sleep per 24 hours, with a normal spread of about 10 to 15 hours, about 1 nap a day, and 0.7 night wakings on average. Total nap time among nappers averaged 2.3 hours. One nap is the common pattern now, not a rule. A few toddlers still need a second short nap on some days, and that is fine.
+What parents find hardest
+Bedtime refusal. “No” is a new and powerful word. Offer small choices (which pyjamas, which book) inside a fixed routine.
+Climbing attempts. A sleep sack makes leg-over-the-rail harder, a practical tip rather than a studied one.
+Night waking for a parent. Often separation-related. Short, calm, identical responses work best.
+Early waking after the move to one nap. An earlier bedtime for a few weeks usually helps.
+Safe sleep at 18 months
+Move out of the crib when your child is 35 inches (89 cm) tall or the rail is below about three-quarters of their height (AAP, MedlinePlus), or once they can climb out (AAP).
+If they climb out before you have a bed ready, the AAP suggests putting the crib mattress on the floor.
+Anchor dressers and other furniture so they cannot tip; keep chairs away from windows.
+Night feeds
+If your toddler still wakes for milk, your pediatrician can tell you whether it is needed. The AAP advises against a bottle of milk or juice in bed because of tooth decay.
+When to talk to the pediatrician
+Snoring most nights, pauses in breathing, or daytime sleepiness and irritability that could point to sleep apnea.
+Your child is not walking, has fewer than three words, or does not point to show you things.
+Night terrors that keep happening.
+Where to go from here
+Most 18-month sleep trouble is a mix of new independence and old habits. Actually Sleeping helps families sort out which is which; parents describe that on our reviews page. Related: the 18-month regression, the 18-month schedule, and separation anxiety at bedtime.
+Frequently asked
+How much should an 18 month old sleep?The AASM recommends 11 to 14 hours per 24 hours, including naps, for children 1 to 2 years, and the AAP supports this. Studies found children this age averaged about 12.6 hours, with healthy children on both sides of that.
+Does screen time affect my toddler’s sleep?The AAP says screen viewing contributes to sleep problems. It advises turning off all screens at least an hour before bed, keeping devices out of the bedroom, and capping entertainment screen time at 1 hour a day from 18 months to age 5.
+My 18 month old is trying to climb out of the crib. What now?Lower the mattress fully and use a sleep sack. The AAP says the transition can happen once your toddler can climb out; if they do before you have a bed, put the crib mattress on the floor. Anchor furniture and clear the room.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?HealthyChildren.org (AAP). Why to Avoid TV for Infants & Toddlers.CDC. Milestones by 18 Months.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.HealthyChildren.org (AAP). Big Kid Beds: When to Switch From a Crib.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 21 months: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-21-months/
+
+Sleep at 21 months: what’s normal, what’s hard, and when to get help
+At 21 months, the AASM recommends 11 to 14 hours per 24 hours, including naps. Most toddlers take one nap, and dropping it entirely is rare: a large review found fewer than 2.5% of children stop napping before age 2. Nap refusal, bedtime stalling and early waking are the usual complaints, and they are usually phases rather than signs your child has outgrown sleep.
+What is changing at 21 months
+Your toddler is heading toward the CDC’s 2-year milestones: running, kicking a ball, walking up a few stairs, saying two words together like “more milk”, and noticing when someone else is upset. Imagination and understanding are growing fast, which can bring new worries at bedtime.
+The AAP says separation anxiety usually fades during the last half of the second year and around the second birthday, so many families see it easing now.
+Nap strike or real readinessWhat the research says
+Children who stop napping before age 2Fewer than 2.5% (Staton 2020)
+Average naps per day, 1 to 2 years1.2 (Galland 2012)
+Average nap time, 1 to 2 yearsAbout 2.3 hours among children who nap (Staton 2020)
+Children who have stopped napping by age 3About one in three (Staton 2020)
+So a 21 month old refusing the nap is almost always in a phase. Keep offering it at the same time in a dark room. Quiet time in the crib still counts as rest.
+What is normal at night
+Studies of children 1 to 2 years recorded an average of 0.7 night wakings, with up to about 2.5 within the normal range, and a longest stretch averaging 8.3 hours across 6 to 24 months. An occasional night waking at 21 months is ordinary. Several every night is worth addressing.
+What parents find hardest
+Nap refusal that lasts a week or two. Keep the nap; adjust its timing slightly later if your child is not tired.
+Bedtime stalling. One more book, one more drink. Decide the limits before bedtime starts and state them once.
+Early waking. Check light, check nap length, and avoid starting the day very early with milk and TV.
+A new sibling or move. Big changes often show up at bedtime first. Keep the routine identical.
+Safe sleep at 21 months
+Keep the crib while it is safe. Move out at 35 inches (89 cm) tall, when the rail is below about three-quarters of your child’s height, or once your toddler can climb out (AAP, MedlinePlus).
+Install operable window guards above the first floor and keep climbable furniture away from windows (AAP).
+Anchor dressers and bookshelves.
+Night feeds
+Most toddlers this age do not need milk at night, but your pediatrician decides that for your child. If they agree it can go, change it gradually.
+When to talk to the pediatrician
+Snoring most nights, mouth breathing, or pauses in breathing.
+Daytime sleepiness, trouble paying attention or behavior problems that might be linked to poor sleep. The AAP lists these among sleep apnea signs.
+Few words, not combining any words as 2 approaches, or loss of skills your child had.
+Night terrors that keep happening.
+Where to go from here
+Holding steady through a nap strike is often all it takes. When it is not, Actually Sleeping can help you work out what is driving it; parents share results on our reviews page. Related: early morning waking, the 18-month to 2-year schedule, and false starts at bedtime.
+Frequently asked
+My 21 month old refuses the nap. Is the nap over?Very unlikely. A systematic review found fewer than 2.5% of children stop napping before age 2. Keep offering the nap at a steady time in a dark room for at least two weeks; most toddlers go back to napping.
+How much should a 21 month old sleep?The AASM recommends 11 to 14 hours per 24 hours, including naps, for children 1 to 2 years old. The AAP supports this range. Total sleep matters more than the exact split between nap and night.
+Why does my toddler wake so early?Common causes are morning light, a bedtime that is too early or too late, and a nap that is too long or too early. Reward a later start: keep the room dark and boring until your chosen wake-up time.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 2 Years.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.HealthyChildren.org (AAP). Emotional and Social Development: 8 to 12 Months.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Big Kid Beds: When to Switch From a Crib.HealthyChildren.org (AAP). Safety for Your Child: 1 to 2 Years.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get helpSleep at 4 months: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 2 years: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-24-months/
+
+Sleep at 2 years: what’s normal, what’s hard, and when to get help
+At 2 years, the AASM recommends 11 to 14 hours per 24 hours, including naps, and nearly all 2 year olds still nap once a day. Bedtime stalling, the crib-to-bed question and early night terrors are common. The AAP says separation anxiety usually fades around the second birthday, and the time to leave the crib is at 35 inches tall or when your child can climb out.
+What is changing at 2 years
+By 2 years, the CDC lists running, kicking a ball, walking up a few stairs, saying at least two words together, and noticing when others are hurt or upset. Toddlers now understand more than they can say, which makes bedtime both more negotiable and more emotional.
+Separation anxiety usually fades around the second birthday, according to the AAP. Night terrors, which the AAP says happen most often in toddlers and preschoolers, may start to appear.
+Signs it is time to leave the cribGuidanceSource
+HeightMove to a bed when your child is 35 inches (89 cm) tallAAP, MedlinePlus
+Rail heightMove when the side rail is below about three-quarters of their height (roughly nipple level)AAP
+ClimbingTransition once your toddler can climb outAAP
+While waiting for a bedPut the crib mattress on the floorAAP
+Room safetyAnchor furniture, gate the bedroom door and the top of the stairsAAP
+If none of these apply, there is no medical reason to rush. Many families keep the crib until closer to 3, which is a common choice rather than a rule.
+What is normal
+In a review of studies, 2 to 3 year olds averaged 12.0 hours of sleep per 24 hours, with a normal spread of about 9.7 to 14.2 hours. Among those who napped, naps averaged about 1.9 hours at 2 to 3 years. Almost all children still nap at 2; by 3, about one in three have stopped.
+What parents find hardest
+Stalling. The AAP lists stalling and resisting going to bed among the most common sleep problems in children.
+A new sibling or a new bed at the same time. Changing one thing at a time is a sensible rule of thumb.
+Night terrors. Screaming early in the night without really waking. The AAP says to stay calm and keep your child safe; most are much shorter than the 45-minute maximum it describes.
+Climbing out of the crib once and then doing it every night.
+Screens creeping into the evening. The AAP advises turning off all screens at least 60 minutes before bed and capping entertainment screen time at 1 hour a day from 18 months to age 5.
+Night feeds
+Most 2 year olds do not need to eat overnight, but your pediatrician decides that for your child. The AAP advises against a bottle of milk or juice in bed because of tooth decay.
+When to talk to the pediatrician
+Snoring most nights, gasping, pauses in breathing, or daytime sleepiness and behavior changes that could signal sleep apnea.
+Night terrors that keep happening, or any night event that looks like a seizure.
+Fewer than two-word phrases, not running, or loss of skills your child had.
+Where to go from here
+A firm, short routine with one consistent response is still the backbone at 2. Actually Sleeping works with families until age 3, and you can hear from them on our reviews page. Related: the 2-year regression, the 2-year schedule, and when to move to a toddler bed.
+Frequently asked
+How much should a 2 year old sleep?The AASM recommends 11 to 14 hours per 24 hours, including naps, for children 1 to 2 years old, and the AAP supports it. In a review of studies, 2 to 3 year olds averaged about 12 hours.
+When should my 2 year old move out of the crib?When your child reaches 35 inches (89 cm), when the rail is below about three-quarters of their height, or when they can climb out, per the AAP and MedlinePlus. If none applies, there is no need to rush.
+Are night terrors normal at 2?They are common in toddlers and preschoolers, according to the AAP. They happen early in the night, the child does not fully wake, and most are short. Stay calm and keep your child safe. If they keep happening, talk with your pediatrician.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 2 Years.HealthyChildren.org (AAP). Separation Anxiety & Sleeping Trouble in Young Children.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.MedlinePlus (U.S. National Library of Medicine). Crib safety tips.HealthyChildren.org (AAP). Big Kid Beds: When to Switch From a Crib.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.HealthyChildren.org (AAP). Why to Avoid TV for Infants & Toddlers.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 2½ years: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 2½ years: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-30-months/
+
+Sleep at 2½ years: what’s normal, what’s hard, and when to get help
+At 2½, the AASM range is still 11 to 14 hours per 24 hours, including naps, and most children still nap; about a third have stopped by age 3. Imagination is taking off, so fears, nightmares and night terrors become more common. Big-bed escapes are frequent, and the CDC lists turning doorknobs as a 30-month skill, so room safety matters.
+What is changing at 2½
+By 30 months, the CDC lists saying about 50 words, using things to pretend, following simple routines when told, and using the hands to twist things, like turning doorknobs or unscrewing lids. Pretend play means a richer inner world, and with it new fears of the dark, monsters and dreams.
+The AAP says nightmares can begin as early as 6 months and peak between 3 and 12 years. Night terrors are most common in toddlers and preschoolers. It helps to know the difference.
+NightmareNight terror
+WhenSecond half of the night, when dreaming is most intenseEarly in the night, often before parents go to bed
+Your childWakes, is scared, wants comfort, may remember itScreams or thrashes but is not really awake
+How longCalms once comfortedCan last up to 45 minutes; most are much shorter
+What to doGo quickly, comfort, then encourage sleepStay calm, keep your child safe, do not try to wake them
+All rows come from the AAP’s HealthyChildren guidance.
+What is normal
+In a review of studies, 2 to 3 year olds averaged 12.0 hours per 24 hours. Among those who napped, naps averaged about 1.9 hours. About one in three children has stopped napping by age 3, so a 2½ year old who still naps is typical, and one who naps on some days is too. The AASM range for 1 to 2 year olds, 11 to 14 hours, still applies; its 3 to 5 year range of 10 to 13 hours starts at the third birthday.
+What parents find hardest
+Leaving the bed. Once in a big bed, many toddlers test it every night. A calm, boring, identical return works better than discussion.
+Fears at bedtime. Take them seriously, keep the answer short, and avoid scary content before bed.
+Naps that make bedtime late. Shortening the nap is often better than dropping it.
+Toilet training adding night trips and new reasons to call out.
+Safe sleep at 2½
+A doorknob-turner can leave the room. The AAP suggests a safety gate across the bedroom door and one at the top of the stairs.
+Anchor dressers and shelves; latch or tape drawers so they cannot be used as steps (AAP).
+Keep beds away from windows and use window guards above the first floor (AAP).
+Night feeds
+Night milk is rarely needed now, but your pediatrician decides. Brush teeth after the last milk; the AAP warns against milk in bed because of tooth decay.
+When to talk to the pediatrician
+Snoring most nights, gasping or breathing pauses, or daytime sleepiness and behavior changes.
+Night terrors that keep happening.
+Fears that are severe, daily, and get in the way of daytime life.
+Few words, no pretend play, or loss of skills.
+Where to go from here
+Most bedtime battles at 2½ come down to clear, repeated limits delivered calmly. Actually Sleeping helps families set those up; their experiences are on our reviews page. Related: when a toddler will not stay in bed, moving to a toddler bed, and bedtime fading.
+Frequently asked
+Is my 2½ year old having nightmares or night terrors?Nightmares happen later in the night; your child wakes scared and wants comfort. Night terrors happen early in the night; your child screams but is not really awake. The AAP says to comfort after nightmares and stay calm and keep your child safe during terrors.
+Should my 2½ year old still nap?Most still do. A systematic review found about one in three children have stopped napping by age 3, and among nappers aged 2 to 3, naps averaged about 1.9 hours. A shorter nap is often better than none.
+My toddler opens the bedroom door at night. Is that a safety issue?It can be. The CDC lists turning doorknobs as a 30-month skill. The AAP suggests a safety gate across the bedroom door and at the top of stairs, anchored furniture, and window guards above the first floor.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 30 Months.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.HealthyChildren.org (AAP). Big Kid Beds: When to Switch From a Crib.HealthyChildren.org (AAP). Safety for Your Child: 1 to 2 Years.HealthyChildren.org (AAP). Make Baby's Room Safe: Parent Checklist.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 2 years: what’s normal, what’s hard, and when to get helpSleep at 3 years: what’s normal, what’s hard, and when to get helpSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get helpSleep at 6 months: what’s normal, what’s hard, and when to get help
+Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
+
+---
+
+# Sleep at 3 years: what’s normal, what’s hard, and when to get help
+URL: https://actuallysleepingllc.com/guides/sleep-at-36-months/
+
+Sleep at 3 years: what’s normal, what’s hard, and when to get help
+From age 3, the AASM recommends 10 to 13 hours of sleep per 24 hours, including naps. About a third of children have stopped napping by their third birthday, and most of the rest stop over the next two years. Bedtime negotiation, fears and early waking are common. Regular snoring is worth raising with your pediatrician because sleep apnea affects an estimated 2% of children.
+What is changing at 3
+By 3 years, the CDC lists holding a conversation with at least two back-and-forth exchanges, asking who, what, where and why questions, joining other children to play, and calming down within 10 minutes after you leave, such as at a childcare drop-off. Your child can now argue about bedtime fluently.
+The AASM range drops at the third birthday: 10 to 13 hours for 3 to 5 year olds, compared with 11 to 14 hours for 1 to 2 year olds. In a review of studies, children aged 2 to 3 averaged 12.0 hours per 24 hours. Night terrors remain common at this age, according to the AAP, and usually happen early in the night.
+Napping at 3 and afterWhat the research shows (Staton 2020)
+Stopped napping by age 3About 33%
+Stopped by age 3 to 4About 57%
+Stopped by age 4 to 5About 80%
+Average nap, ages 3 to 4, among nappersAbout 1.7 hours
+If your 3 year old still naps and falls asleep at a reasonable bedtime, there is no reason to stop. If the nap pushes bedtime late night after night, shortening it or swapping it for quiet time are both reasonable.
+What parents find hardest
+Negotiating. Requests, questions and “one more” at bedtime. Write the routine down or draw it, and follow it the same way every night.
+Coming out of the room. A calm, silent return each time is the usual approach.
+Fears and nightmares. The AAP says nightmares peak between 3 and 12 years and happen in the second half of the night. Go quickly, comfort, and encourage sleep.
+Dropping the nap. The in-between months, when some days need a nap and some do not, are often the hardest. An earlier bedtime on no-nap days helps.
+Sleep and safety at 3
+Keep the bedroom safe for a child who wanders: anchored furniture, a gate at the top of the stairs, window guards above the first floor (AAP).
+Turn screens off at least an hour before bed and keep devices out of the bedroom (AAP).
+Cap entertainment screen time at 1 hour a day through age 5 (AAP).
+Night waking and milk
+Most 3 year olds do not need to eat at night, but if your child still wakes for milk, check with your pediatrician before changing it. Brush teeth after the last milk of the day.
+When to talk to the pediatrician
+Frequent snoring, problems breathing at night, daytime sleepiness, trouble paying attention or behavior problems. The AAP lists these as signs of sleep apnea and estimates it affects about 2% of children.
+Night terrors that keep happening.
+Sleep that is very short, very restless, or suddenly worse alongside other changes.
+Your child is hard to understand most of the time or is not joining in play with other children.
+Where to go from here
+At 3, sleep plans work through clear rules your child can understand and predict. Actually Sleeping works with families up to age 3; parents describe the experience on our reviews page. Related: a toddler who will not stay in bed, false starts at bedtime, and early waking.
+Frequently asked
+How much sleep does a 3 year old need?The AASM recommends 10 to 13 hours per 24 hours, including naps, for children 3 to 5 years old, and the AAP supports this range. Your child may sit anywhere in that range and be well rested.
+Should my 3 year old still nap?Many do. A systematic review found about a third of children have stopped napping by age 3 and about 57% by age 3 to 4. If the nap does not push bedtime late, keep it. If it does, shorten it or swap it for quiet time.
+Is snoring in a 3 year old a problem?Occasional snoring with a cold is common. Frequent snoring, breathing problems at night, daytime sleepiness, trouble paying attention or behavior problems are signs of sleep apnea, which the AAP estimates affects about 2% of children. Tell your pediatrician.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016;12(6):785–786.American Academy of Sleep Medicine. How much sleep do children need? SleepEducation.org.HealthyChildren.org (AAP). Healthy Sleep Habits: How Many Hours Does Your Child Need?CDC. Milestones by 3 Years.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0–12 years. Sleep Med Rev. 2020;50:101247.Galland BC, Taylor BJ, Elder DE, Herbison P. Normal sleep patterns in infants and children: a systematic review of observational studies. Sleep Med Rev. 2012;16(3):213–222.HealthyChildren.org (AAP). Nightmares, Night Terrors & Sleepwalking in Children.HealthyChildren.org (AAP). Big Kid Beds: When to Switch From a Crib.HealthyChildren.org (AAP). Safety for Your Child: 1 to 2 Years.HealthyChildren.org (AAP). Why to Avoid TV for Infants & Toddlers.HealthyChildren.org (AAP). Sleep Apnea in Children: Detection & Treatment.
+Related guidesSleep at 2½ years: what’s normal, what’s hard, and when to get helpSleep at 3 months: what’s normal, what’s hard, and when to get helpSleep at 2 years: what’s normal, what’s hard, and when to get helpSleep at 9 months: what’s normal, what’s hard, and when to get helpSleep at 7 months: what’s normal, what’s hard, and when to get help
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
 ---
