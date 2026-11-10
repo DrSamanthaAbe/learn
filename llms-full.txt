@@ -76,8 +76,8 @@ Key facts (as of 2026-11-09):
 - [What is a good sleep schedule for a 12 month old?](https://actuallysleepingllc.com/guides/12-month-old-sleep-schedule/): From 12 to 14 months most toddlers still do best on 2 naps, with wake windows of 3–4.5 hours as a common rule of thumb. 
 - [What is a good sleep schedule for an 18 month old?](https://actuallysleepingllc.com/guides/18-month-old-sleep-schedule/): Between 15 and 23 months most toddlers settle on one midday nap of 1.5–3 hours. As a rule of thumb, wake windows are abo
 - [What is a good sleep schedule for a 2 year old?](https://actuallysleepingllc.com/guides/2-year-old-sleep-schedule/): Between 2 and 3 years most children take one nap of 1–2 hours and, as a rule of thumb, stay awake 5–6 hours on either si
-- [When and how do I night wean my baby?](https://actuallysleepingllc.com/guides/night-weaning-how-and-when/): Timing varies widely: many healthy, well-growing babies are able to drop night feeds at some point in the second half of
-- [Does a dream feed help a baby sleep longer?](https://actuallysleepingllc.com/guides/dream-feed-does-it-work/): Sometimes. A dream feed — feeding your baby around 10–11 p.m. without fully waking them — helps some babies between abou
+- [When and how do I night wean my baby?](https://actuallysleepingllc.com/guides/night-weaning-how-and-when/): Many healthy, well-growing babies can drop night feeds at some point in the second half of the first year; some need the
+- [Does a dream feed help a baby sleep longer?](https://actuallysleepingllc.com/guides/dream-feed-does-it-work/): Sometimes. A dream feed, feeding your baby around 10–11 p.m. without fully waking them, helps some babies between about 
 - [Is the pacifier helping or hurting my baby’s sleep?](https://actuallysleepingllc.com/guides/pacifier-and-baby-sleep/): It is helping if your baby takes it at bedtime and sleeps; the AAP recommends offering a pacifier at sleep onset because
 - [When and how do I stop swaddling?](https://actuallysleepingllc.com/guides/swaddle-transition/): Stop swaddling at the first signs your baby is trying to roll; that is the AAP’s guidance. Rolling usually happens aroun
 - [Why does my baby wake 30–45 minutes after bedtime?](https://actuallysleepingllc.com/guides/false-starts-at-bedtime/): A waking 30–45 minutes after bedtime is called a false start: your baby reached the end of the first sleep cycle and cou
@@ -85,7 +85,7 @@ Key facts (as of 2026-11-09):
 - [My baby will only sleep on me, not in the crib or bassinet. What do I do?](https://actuallysleepingllc.com/guides/baby-wont-sleep-in-crib-or-bassinet/): This is normal in the first weeks and fixable after. In the newborn period, practice one or two put-downs a day and take
 - [Why does my overtired baby fight sleep?](https://actuallysleepingllc.com/guides/overtired-baby-fights-sleep/): When a baby stays awake well past the point their body was ready for sleep, many become more wired and harder to settle,
 - [How do I handle daycare naps when sleep training?](https://actuallysleepingllc.com/guides/daycare-naps-and-sleep-training/): Start sleep training on a Friday night if you can, so bedtime and the first two days of naps happen at home, then keep g
-- [How do I keep my baby sleeping while traveling or changing time zones?](https://actuallysleepingllc.com/guides/baby-sleep-travel-and-time-zones/): Bring the sleep environment with you — dark, white noise, the usual sleep sack and routine — and keep the same way of fa
+- [How do I keep my baby sleeping while traveling or changing time zones?](https://actuallysleepingllc.com/guides/baby-sleep-travel-and-time-zones/): Bring the sleep environment with you (dark, white noise, the usual sleep sack and routine) and keep the same way of fall
 - [How do I adjust my baby’s sleep for daylight saving time?](https://actuallysleepingllc.com/guides/daylight-saving-time-baby-sleep/): Either shift the whole schedule by 15 minutes a day for the four days before the clock change, or change nothing in adva
 - [My baby’s sleep fell apart after being sick. How do I get back on track?](https://actuallysleepingllc.com/guides/baby-sleep-after-illness/): While your baby is sick, comfort comes first: hold, feed and respond as much as needed. Once your baby is fever-free (a 
 - [How do I handle separation anxiety at bedtime?](https://actuallysleepingllc.com/guides/separation-anxiety-at-bedtime/): Separation anxiety is a normal stage that usually starts between 8 and 12 months, peaks between 10 and 18 months, and ta
@@ -507,7 +507,7 @@ How much does Actually Sleeping cost?Pricing is custom to your baby and is set o
 The method
 Is this the cry-it-out method?No. Dr. Sam is a parent too and is specific about this: the team would never simply leave a baby to cry and figure it out. Most of the work happens before the baby goes into the crib, so that the baby understands what is being asked and protests less. Because a baby is learning a new skill, zero tears is not a realistic promise for anyone, but the goal is the least crying overall: typically one harder night, then falling asleep faster each night after.
 How much crying should I expect?It depends on age and habits, so no honest coach will give a number. The usual pattern: Night 1 is the learning night and may involve some protest; from Night 2 the time to fall asleep is typically cut in half; within a few nights most babies settle within minutes for both bedtime and naps. Younger babies with fewer habits generally protest least.
-Will sleep training hurt my baby’s attachment?The research says no. Randomized trials of behavioral sleep training, including a five-year follow-up, found no differences in attachment, emotional health or stress hormones between trained and untrained children. What parents report is the opposite of harm: a rested baby is happier during the day and a rested parent is more present. See Is sleep training safe?
+Will sleep training hurt my baby’s attachment?The research says no. Randomized trials of behavioral sleep training, including a five-year follow-up, found no differences in emotional health, behavior, stress regulation or the parent-child relationship between trained and untrained children. What parents report is the opposite of harm: a rested baby is happier during the day and a rested parent is more present. See Is sleep training safe?
 Will my baby feel abandoned?No. A baby who is set up well during the day, put down by a calm parent, and responded to in a consistent way is not being abandoned; they are being taught. Most babies in the program are going to sleep contentedly in their crib within a few days, and wake happy in the morning.
 What if my baby throws up from crying?This is uncommon. If your baby is prone to it, say so at intake: the plan will include exactly how to respond calmly without undoing progress. Vomiting linked to illness, reflux or feeding is a medical question for your pediatrician, and sleep training pauses during a significant illness.
 What is the worst case scenario?That you follow the plan consistently and correctly and your baby still does not sleep 8–12 hours within 14 days. In that case you receive a full refund; it is in the Terms of Service you sign. The realistic downside is a few focused days of effort.
@@ -972,7 +972,7 @@ Room-share, don’t bed-share, ideally for the first 6 months. A plan can teach 
 No smoke exposure; offer a pacifier at sleep onset once breastfeeding is established; keep up vaccinations.
 Swaddling stops at the first signs of rolling, usually by 8–12 weeks.
 What the research says about sleep training itself
-Randomized controlled trials of behavioral sleep interventions (graduated extinction, bedtime fading, parent-present methods) in infants over 6 months show improved infant sleep and maternal mood, with no measured differences in cortisol, attachment security or emotional and behavioral outcomes at follow-up, including a five-year follow-up of one of the largest trials. Reasonable people differ on method; the evidence does not support the claim that teaching independent sleep harms babies.
+Randomized controlled trials of behavioral sleep interventions (graduated extinction, bedtime fading, parent-present methods) in infants over 6 months show improved infant sleep and maternal mood. A five-year follow-up of one of the largest trials found no differences in children’s emotional health, behavior, stress regulation or the parent-child relationship. A 2016 trial that measured cortisol found it slightly lower, not higher, in the sleep-trained babies, with no differences in attachment at 12 months. Reasonable people differ on method; the evidence does not support the claim that teaching independent sleep harms babies.
 Where coaching adds safety
 A written plan removes the 2 a.m. improvisation that leads to unsafe choices: the exhausted parent who brings the baby into bed, falls asleep on the couch holding them, or props a bottle. Families who are sleeping do not make those decisions.
 When sleep training should wait
@@ -2405,7 +2405,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/night-weaning-how-and-when/
 
 When and how do I night wean my baby?
-Timing varies widely: many healthy, well-growing babies are able to drop night feeds at some point in the second half of the first year, and some need them longer. The timing is your pediatrician’s call, not a calendar’s. Once you have that sign-off, a common approach is to wean gradually over 5–10 nights: move the feed away from falling asleep, shrink it a little every night or two, and add the calories back during the day.
+Many healthy, well-growing babies can drop night feeds at some point in the second half of the first year; some need them longer. Timing is your pediatrician’s call. With that sign-off, a common approach is to wean gradually over 5–10 nights: move the feed away from falling asleep, shrink it a little every night or two, and add the calories back during the day.
 First: is it a hunger feed or a habit feed?
 Young babies need to eat at night, and nothing here applies to them. Never restrict or stretch feeds for a newborn or a young baby, and never night wean a baby whose weight gain is in question. For an older baby, these clues separate the two:
 Looks like hungerLooks like habit
@@ -2445,7 +2445,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/dream-feed-does-it-work/
 
 Does a dream feed help a baby sleep longer?
-Sometimes. A dream feed — feeding your baby around 10–11 p.m. without fully waking them — helps some babies between about 2 and 6 months shift their longest stretch to line up with yours, and does nothing or causes extra waking in others. Try it for 5–7 nights; if the first waking does not move later, drop it.
+Sometimes. A dream feed, feeding your baby around 10–11 p.m. without fully waking them, helps some babies between about 2 and 6 months shift their longest stretch to line up with yours, and does nothing or causes extra waking in others. Try it for 5–7 nights; if the first waking does not move later, drop it.
 What a dream feed is
 You lift your sleeping baby roughly 2–3 hours after bedtime, usually just before you go to bed, feed them while they stay drowsy, and lay them back down. The idea is simple: a baby whose longest stretch runs 7 p.m. to midnight has spent it while you were awake. Topping up at 10:30 may move the next waking to 3 or 4 a.m.
 What the evidence says
@@ -2485,7 +2485,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/pacifier-and-baby-sleep/
 
 Is the pacifier helping or hurting my baby’s sleep?
-It is helping if your baby takes it at bedtime and sleeps; the AAP recommends offering a pacifier at sleep onset because it is associated with a lower risk of SIDS. It is hurting if you are getting up several times a night to put it back in. Many babies can learn to find and replace it themselves once their hand control allows, often in the second half of the first year; before that, your choices are to keep replacing it or to teach your baby to fall asleep without it.
+It is helping if your baby takes it at bedtime and sleeps; the AAP recommends offering a pacifier at sleep onset because it is associated with a lower risk of SIDS. It is hurting if you are up several times a night replacing it. Once hand control allows, often from about 7 months, many babies learn to replace it themselves; before that, keep replacing it or teach your baby to fall asleep without it.
 What the AAP says
 Offer a pacifier when placing your baby down for naps and at night. The protective association holds even if it falls out after the baby is asleep.
 You do not need to put it back in once your baby is asleep, and you should not force it if your baby refuses.
@@ -2685,7 +2685,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/overtired-baby-fights-sleep/
 
 Why does my overtired baby fight sleep?
-When a baby stays awake well past the point their body was ready for sleep, many become more wired and harder to settle, not sleepier. The result looks backwards: the more tired the baby, the harder they fight. The fix is prevention — age-appropriate wake windows, an earlier bedtime on bad nap days — plus a calm, low-stimulation reset when you have already missed the window.
+When a baby stays awake well past the point their body was ready for sleep, many become more wired and harder to settle, not sleepier. The result looks backwards: the more tired the baby, the harder they fight. The fix is prevention (age-appropriate wake windows, an earlier bedtime on bad nap days) plus a calm, low-stimulation reset when you have already missed the window.
 What “overtired” means
 Sleep pressure builds the longer a baby is awake. Past a certain point, many babies get a second wind instead of settling. For parents the practical version is simple: a tired baby settles; an overtired one is wired, frantic and hard to console.
 Tired versus overtired
@@ -2775,7 +2775,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/baby-sleep-travel-and-time-zones/
 
 How do I keep my baby sleeping while traveling or changing time zones?
-Bring the sleep environment with you — dark, white noise, the usual sleep sack and routine — and keep the same way of falling asleep. For a change of 1–2 time zones or a trip of only a few days, staying on home time is often easiest; for 3 or more zones, switch to local time on arrival and use daylight, meals and capped naps to shift the body clock. In adults it adjusts about 1 hour a day after flying east and 1.5 hours after flying west.
+Bring the sleep environment with you (dark, white noise, the usual sleep sack and routine) and keep the same way of falling asleep. For a change of 1–2 time zones or a trip of only a few days, staying on home time is often easiest; for 3 or more, switch to local time on arrival and use daylight, meals and capped naps. Adult clocks shift about 1 hour a day going east.
 Safe sleep away from home
 Same rules as home: on the back, on a firm, flat surface, alone, nothing else in the sleep space.
 Bring or request a crib or play yard that meets current safety standards. Inspect a hotel or rental crib: firm, snug-fitting mattress, no broken or missing parts, no added padding. Use a play yard as the manufacturer supplied it, with no extra mattress or padding added.
@@ -3017,7 +3017,7 @@ Is fortified milk or a special formula schedule a factor overnight?
 Are reflux, breathing or oxygen needs, or apnea history stable enough for a sleep plan?
 Is there any reason my baby should not be given a few minutes to settle?
 What is different for NICU graduates
-Feeding comes first, longer. Many preemies need scheduled feeds, including overnight, well past the point a term baby would. Never stretch or drop a feed without clearance.
+Feeding comes first, longer. Some preemies need scheduled feeds, including overnight, well past the point a term baby would. Never stretch or drop a feed without clearance.
 Home sleep is on the back. Babies are sometimes placed on their stomach or side in the NICU under continuous monitoring. At home, NIH safe sleep guidance says all babies, including those born preterm, sleep on their backs until 1 year: firm and flat, nothing in the crib, no positioners or nests, no inclines.
 Medical equipment. A baby discharged on oxygen or a prescribed monitor needs a plan built with the medical team. The AAP and NIH advise against using heart, breathing or motion monitors as a way to reduce SIDS risk; they do not replace safe sleep.
 Light and noise. After weeks in a bright, alarm-filled unit, some babies sleep through anything and others startle easily. Dark nights, bright days and continuous white noise help build the day–night rhythm.
@@ -3046,7 +3046,7 @@ Not sure if coaching fits your baby? The first step is a free consultation; fami
 URL: https://actuallysleepingllc.com/guides/2-year-old-sleep-regression/
 
 Is there a 2 year old sleep regression?
-Yes. Around age 2, often anywhere from 22 to 30 months, many toddlers who slept well start fighting bedtime, refusing the nap, waking at night or rising early. It is driven by development — independence, language, imagination and new fears — and often by a change such as a new sibling, toilet training or a move to a bed. With steady boundaries it typically passes in 2–6 weeks; a 2-year-old still needs a nap.
+Yes. Around age 2, often anywhere from 22 to 30 months, many toddlers who slept well start fighting bedtime, refusing the nap, waking at night or rising early. It is driven by development (independence, language, imagination and new fears) and often by a change such as a new sibling, toilet training or a move to a bed. It often passes within weeks, and nearly all 2-year-olds still nap.
 What it looks like
 Bedtime stretches from 20 minutes to an hour of requests: water, another book, a different blanket.
 Nap refusal: playing or shouting through the whole nap period.
@@ -3058,17 +3058,17 @@ DriverWhat to do about it
 Independence and limit-testingOffer two harmless choices inside the routine; keep the order and the ending fixed
 Imagination and first fearsTake the fear seriously and briefly; a dim, warm night light; no long searches for monsters
 Nap strikeKeep offering the nap daily; see below
-Two-year molars (often 23–33 months)Comfort, and pain relief only as your pediatrician directs, for the few days around eruption
+Second molars (about 23–31 months for the lower and 25–33 months for the upper, per the ADA)Comfort, and pain relief only as your pediatrician directs, for the few days around eruption
 Big changes: sibling, toilet training, new room, new daycareOne change at a time where you can; keep sleep rules identical through it
 Crib-to-bed moveWait if you can. See when to move to a bed
 Schedule driftNap too late or too long, or bedtime no longer matching sleep need
 Do not drop the nap
-The American Academy of Sleep Medicine recommends 11–14 hours of sleep per 24 for ages 1–2 and 10–13 hours for ages 3–5, naps included. Most children nap until somewhere between 3 and 5. A 2-year-old refusing the nap for a week or two is on strike, not finished.
+The American Academy of Sleep Medicine recommends 11–14 hours of sleep per 24 for ages 1–2 and 10–13 hours for ages 3–5, naps included. A large review found fewer than 2.5% of children stop napping before age 2, while 94% have stopped by 5. A 2-year-old refusing the nap for a week or two is on strike, not finished.
 Offer the nap every day at the same time, usually starting around 12:30–1 p.m.
 Keep your child in the crib or room for at least an hour of quiet time, asleep or not.
 On no-nap days, move bedtime 30–60 minutes earlier.
 If the nap is happening but bedtime has become very late, cap the nap at 1.5–2 hours and end it by about 3 p.m.
-A schedule that fits most 2-year-olds
+A schedule that fits many 2-year-olds (rule of thumb)
 Wake between 6 and 7 a.m.
 One nap of 1.5–2.5 hours beginning about 5–6 hours after waking.
 Bedtime between 7 and 8 p.m., about 4.5–5.5 hours after the nap ends.
@@ -3078,16 +3078,16 @@ A picture chart of the routine. The chart is the boss, which takes the argument 
 Requests go inside the routine: last drink, last toilet trip, two books chosen by your child.
 One clear ending phrase, then leave.
 Brief, boring responses afterwards. In a bed, a silent walk back every time. See my toddler won’t stay in bed.
-Screens off for at least an hour before bed.
+Screens off well before bed; an hour is a common rule of thumb.
 Regression or something else?
 Ask your pediatrician about regular snoring, mouth breathing or pauses in breathing, restless sleep with sweating, pain, or a sleep change alongside loss of skills. Night terrors (screaming while still asleep, no memory in the morning) are different from nightmares and are worth mentioning too.
 If it has gone on longer than six weeks, it has usually stopped being a regression and become the new routine. Actually Sleeping works with toddlers up to age 3, and a plan at this age is mostly about clear, kind limits that both parents hold the same way. Related: the 18 month regression.
 Frequently asked
-How long does the 2 year sleep regression last?Typically 2–6 weeks when boundaries stay consistent. It lasts longer when new habits, such as lying with the child until asleep, begin during it.
-Is my 2 year old ready to stop napping?Probably not. Most children nap until 3–5 years. Keep offering the nap and use quiet time on days it does not happen.
+How long does the 2 year sleep regression last?There is no research-defined length. In practice it often passes within a few weeks when boundaries stay consistent, and lasts longer when new habits, such as lying with the child until asleep, begin during it.
+Is my 2 year old ready to stop napping?Probably not. In a large review, fewer than 2.5% of children had stopped napping before 2; most stop during the preschool years. Keep offering the nap and use quiet time on days it does not happen.
 Should I move my 2 year old to a bed during the regression?No, unless there is a safety reason. Changing beds in the middle of a regression usually makes both harder.
 Why is my 2 year old suddenly scared at bedtime?Imagination develops quickly around this age and fears come with it. Acknowledge the fear briefly, offer a dim night light, and keep the routine and response the same.
-ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.
+ReferencesParuthi S, et al. Recommended Amount of Sleep for Pediatric Populations: A Consensus Statement of the American Academy of Sleep Medicine. J Clin Sleep Med. 2016.Staton S, et al. Many naps, one nap, none: A systematic review and meta-analysis of napping patterns in children 0-12 years. Sleep Med Rev. 2020.American Dental Association (MouthHealthy). Primary Tooth Development chart.
 Related guidesWhy is my 8, 9 or 10 month old suddenly waking at night?Is it the 4 month sleep regression or a real sleep problem?Is the 18 month sleep regression real, and what do I do about it?Why is my 12 month old suddenly waking at night?Sleep at 2½ years: what’s normal, what’s hard, and when to get help
 Not sure if coaching fits your baby? The first step is a free consultation; families are accepted only when the team believes it can get the baby sleeping.Book a free consultation at actuallysleeping.com →
 
