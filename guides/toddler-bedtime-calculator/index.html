@@ -70,7 +70,9 @@ function parseT(s){var p=String(s||'07:00').split(':');var h=parseInt(p[0],10),m
 function hrs(x){return String(Math.round(x*100)/100);}
 
 var IDX_2Y=9;
+var IDX_12M=7;
 function calc(i,wake,napping){var b=D[i];if(!b.aasm){return {none:true,label:b.l};}
+if(!napping&&i<IDX_12M){return {none:false,nonap:true,label:b.l};}
 var n=napping?(b.nap[0]+b.nap[1])/2:0;var lo=b.aasm[0]-n,hi=b.aasm[1]-n;
 var o={none:false,label:b.l,aasm:b.aasm[0]+'–'+b.aasm[1]+' hours',nap:napping?(hrs(b.nap[0])+'–'+hrs(b.nap[1])+' hours (using '+hrs(n)+')'):'none',
 night:hrs(lo)+'–'+hrs(hi)+' hours',early:fmt(wake-hi*60),late:fmt(wake-lo*60),practical:null,young:(!napping)&&(i!==IDX_2Y)&&(i!==IDX_2Y+1)};
@@ -83,6 +85,7 @@ var nap=document.getElementById('bt-nap-yes').checked;
 if(w<240||w>600){document.getElementById('bt-out').innerHTML='<p>Please enter a morning wake-up time between 4:00 and 10:00 a.m.</p>';return;}
 var o=calc(i,w,nap);var h;
 if(o.none){h='<p><strong>Under 4 months:</strong> the AASM makes no sleep-hours recommendation for this age because normal sleep varies so widely, so this calculator shows no number. Feed on cue and expect bedtime to drift earlier on its own over the first months.</p>';}
+else if(o.nonap){h='<p><strong>'+o.label+':</strong> almost all babies this age still nap (a 2020 meta-analysis found fewer than 2.5% of children stop napping before age 2), so for under 12 months this calculator only works out a bedtime with naps included. Please choose “Yes” above. If your baby is refusing most naps, talk with your pediatrician.</p>';}
 else{h='<p><strong>'+o.label+', up at '+fmt(w)+'</strong></p><ul>'+
 '<li>AASM recommended total sleep: '+o.aasm+' per 24 hours, naps included</li>'+
 '<li>Typical daytime sleep (rule of thumb): '+o.nap+'</li>'+
