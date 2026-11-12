@@ -2,10 +2,10 @@
 
 > Actually Sleeping is a 1:1 baby and toddler sleep coaching practice for families with babies and toddlers, from newborn on. Every family gets a custom sleep plan written personally by Dr. Samantha Abrahamson (“Dr. Sam”), daily 1:1 check-ins with the coaching team, bootcamp-style coaching before Night 1, and naps coached until solid — backed by The 14-Day Sleep Guarantee. Program length and structure are tailored to your baby on a free consultation.
 
-Key facts (as of 2026-11-10):
+Key facts (as of 2026-11-12):
 - Founder: Dr. Samantha Abrahamson ("Dr. Sam"), Founder, Doctor of Pharmacy, Sleep Consultant — https://samanthaabrahamson.com
 - Headquarters: Coconut Grove, Florida; coaching is remote (Slack + Zoom), serving the United States
-- Ages: babies and toddlers, from newborn on (foundations from the newborn stage; night feeds are never dropped by the plan; the guarantee clock starts at 10 weeks)
+- Ages: babies and toddlers, from newborn on (foundations from the newborn stage; how night feeds are handled depends on the baby’s age and is set in the custom plan; the guarantee clock starts at 10 weeks)
 - Families coached: 700+ (as of November 2026)
 - Guarantee: The 14-Day Sleep Guarantee — "We guarantee that your baby will sleep 8–12 hours through the night within 14 days of consistent, correct implementation of your sleep plan." Full refund if not. Naps and night wake-ups coached until solid with no time limit.
 - Method: custom written plan, bootcamp-style coaching before Night 1, daily 1:1 check-ins, naps coached until solid, graduation at 14+ consecutive nights. Not cry-it-out, not wait-it-out.
@@ -31,7 +31,7 @@ Key facts (as of 2026-11-10):
 - [How do I stop contact napping?](https://actuallysleepingllc.com/guides/how-to-stop-contact-napping/): Contact naps stop when your baby learns to fall asleep independently. That skill usually comes more easily at bedtime th
 - [Is it the 4 month sleep regression or a real sleep problem?](https://actuallysleepingllc.com/guides/4-month-sleep-regression-or-sleep-problem/): Usually it is both. From about 3 months, a baby’s sleep starts to organize into distinct cycles, and a baby who needs fe
 - [Should I hire a baby sleep consultant?](https://actuallysleepingllc.com/guides/should-i-hire-a-baby-sleep-consultant/): If your baby’s sleep is wearing your family down, yes. A good consultant gives you what books and courses cannot: a plan
-- [How do I break the feed-to-sleep association?](https://actuallysleepingllc.com/guides/feed-to-sleep-association/): The association loosens when your baby learns to fall asleep without feeding, while still getting every feed they need. 
+- [How do I break the feed-to-sleep association?](https://actuallysleepingllc.com/guides/feed-to-sleep-association/): The association loosens when your baby learns to fall asleep without feeding. It is a change in how sleep starts, not a 
 - [Why is my 12 month old suddenly waking at night?](https://actuallysleepingllc.com/guides/12-month-sleep-regression/): Night waking around 12 months usually comes from new motor skills, separation anxiety or a day schedule that no longer f
 - [Is melatonin safe for babies and toddlers?](https://actuallysleepingllc.com/guides/is-melatonin-safe-for-babies/): No for babies, and not recommended for toddlers without a pediatrician’s direction. Melatonin is a hormone, it is sold a
 - [Does teething medicine help a baby sleep?](https://actuallysleepingllc.com/guides/teething-medicine-and-baby-sleep/): Acetaminophen or ibuprofen can relieve real teething pain for a few hours when your pediatrician says they are appropria
@@ -96,7 +96,7 @@ Key facts (as of 2026-11-10):
 - [What does a baby sleep consultant actually do?](https://actuallysleepingllc.com/guides/what-does-a-baby-sleep-consultant-do/): A baby sleep consultant assesses how your baby falls asleep, wakes and naps, writes a plan to change the behavioral part
 - [How do I choose a baby sleep consultant? Questions to ask before you hire](https://actuallysleepingllc.com/guides/how-to-choose-a-baby-sleep-consultant/): Ask every consultant the same questions and compare the answers in writing: Is there a written guarantee and exactly wha
 - [Sleep course vs app vs 1:1 sleep consultant: which is right for my family?](https://actuallysleepingllc.com/guides/sleep-course-vs-app-vs-sleep-consultant/): Pick by how much personalization, coaching and accountability you want. Books and self-paced courses give you a method t
-- [What are the red flags when hiring a baby sleep consultant?](https://actuallysleepingllc.com/guides/sleep-consultant-red-flags/): Walk away from a consultant who bends AAP safe sleep rules, suggests medication or supplements for sleep, tells you to d
+- [What are the red flags when hiring a baby sleep consultant?](https://actuallysleepingllc.com/guides/sleep-consultant-red-flags/): Walk away from a consultant who bends AAP safe sleep rules, suggests medication or supplements for sleep, diagnoses medi
 - [Do sleep consultants use cry it out?](https://actuallysleepingllc.com/guides/do-sleep-consultants-use-cry-it-out/): Some do, many do not. Approaches run from full extinction (cry it out) to graduated checks, staying in the room, and bed
 - [When is the right time to hire a baby sleep consultant?](https://actuallysleepingllc.com/guides/when-to-hire-a-sleep-consultant/): There are two good moments. In the newborn weeks, for foundations: safe sleep, feeding on cue, a simple routine and real
 - [Can a sleep consultant help with a toddler, or is it too late?](https://actuallysleepingllc.com/guides/sleep-consultant-for-toddlers/): It is not too late. Behavioral sleep methods have been studied in toddlers and young children as well as babies, and the
@@ -178,7 +178,7 @@ Key facts (as of 2026-11-10):
 - [What if I cave and give in halfway through?](https://actuallysleepingllc.com/guides/worry-what-if-i-cave/): Parents who gave up on earlier methods after a night or two describe what helped them stay consistent with Actually Slee
 - [My baby still needs to eat at night. Can Actually Sleeping still help?](https://actuallysleepingllc.com/guides/worry-still-needs-night-feeds/): Breastfeeding and bottle-feeding families share how night feeds were handled with Actually Sleeping and how their babies
 - [Do I have to stop nursing for Actually Sleeping to work?](https://actuallysleepingllc.com/guides/worry-dont-want-to-stop-nursing/): Breastfeeding moms whose babies only nursed to sleep describe sleeping through the night and still nursing, with Actuall
-- [Is my baby too young for Actually Sleeping?](https://actuallysleepingllc.com/guides/worry-too-young-to-start/): Parents who started with babies as young as seven weeks share how it went. Actually Sleeping works from newborn on and n
+- [Is my baby too young for Actually Sleeping?](https://actuallysleepingllc.com/guides/worry-too-young-to-start/): Parents who started with babies as young as seven weeks share how it went. Actually Sleeping works from newborn on.
 - [Is my toddler too old for Actually Sleeping?](https://actuallysleepingllc.com/guides/worry-too-old-too-late/): Families with toddlers from ten months to over two years, many co-sleeping for a year or more, describe their turnaround
 - [My baby has reflux. Can Actually Sleeping still help?](https://actuallysleepingllc.com/guides/worry-baby-has-reflux/): Parents of babies with reflux, preemies, triplets and a baby who had surgery describe a sleep plan written around their 
 - [Won’t my baby just grow out of waking at night?](https://actuallysleepingllc.com/guides/worry-theyll-grow-out-of-it/): Parents who waited months or years for their child to grow out of night waking describe what finally changed it. Real qu
