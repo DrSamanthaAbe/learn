@@ -81,8 +81,8 @@ html.step #stage{touch-action:none;-webkit-user-select:none;user-select:none;-we
 .bd.ok>img{opacity:1}
 .bd.ok>.fb{display:none}
 .clip{position:absolute;bottom:0;left:-500px;width:1000px;height:1600px;overflow:hidden}
-.lab{position:absolute;top:12px;left:0;width:90px;margin-left:-45px;text-align:center;font-family:var(--f-mono);font-size:13px;line-height:1.25;color:var(--ink);opacity:0}
-.lab.big{font-size:16px;top:14px;width:220px!important;margin-left:-110px!important}
+.lab{position:absolute;left:0;bottom:0;white-space:nowrap;text-align:center;font-family:var(--f-mono);font-size:15px;line-height:1.2;color:var(--ink);background:rgba(247,243,234,.94);padding:4px 11px;border-radius:999px;box-shadow:0 4px 10px -6px rgba(0,0,0,.4);opacity:0}
+.lab.big{font-size:17px}
 .ov{position:absolute;display:flex;align-items:center;justify-content:center;text-align:center;pointer-events:none}
 
 /* CSS fallbacks for missing sprites */
@@ -158,7 +158,7 @@ html.step #stage{touch-action:none;-webkit-user-select:none;user-select:none;-we
 .mono{font-family:var(--f-mono);font-size:12.5px;line-height:1.7}
 @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(9px)}}
 @keyframes trail{0%,100%{opacity:0;transform:translateY(-4px)}45%{opacity:.55;transform:translateY(2px)}}
-.note{position:absolute;left:var(--g);right:var(--g);bottom:calc(84px + env(safe-area-inset-bottom));font-family:var(--f-mono);font-size:13.5px;opacity:0;visibility:hidden}
+.note{position:absolute;left:var(--g);right:var(--g);top:0;font-family:var(--f-mono);font-size:13.5px;opacity:0;visibility:hidden}
 .monos{position:absolute;left:var(--g);right:var(--g);color:var(--ink);font-family:var(--f-mono);font-size:clamp(13.5px,.5vw + 12px,17px);line-height:1.6}
 .monos p{margin:0;opacity:0}
 .card{position:absolute;left:0;top:0;width:min(560px,calc(100vw - 36px));background:var(--paper);color:var(--ink);border-radius:26px;padding:24px 24px 22px;box-shadow:0 28px 60px -24px rgba(10,6,40,.7),0 2px 0 rgba(0,0,0,.05);visibility:hidden}
@@ -206,8 +206,8 @@ html.step #stage{touch-action:none;-webkit-user-select:none;user-select:none;-we
 .ctl .nx.lbl{padding:0 22px 0 24px;font-family:var(--f-mono);font-size:16px;letter-spacing:.04em}
 .ctl .nx.bob{animation:bob 1.3s cubic-bezier(.45,0,.55,1) infinite}
 .ctl .nx svg{width:20px;height:20px}
-.ctl .bk{width:40px;height:40px;border-radius:50%;background:rgba(247,243,234,.85);color:var(--ink);display:flex;align-items:center;justify-content:center;box-shadow:0 6px 14px -8px rgba(0,0,0,.5);transition:opacity .3s ease}
-.ctl .bk svg{width:16px;height:16px}
+.ctl .bk{width:34px;height:34px;border-radius:50%;background:rgba(247,243,234,.55);color:var(--ink);display:flex;align-items:center;justify-content:center;box-shadow:0 6px 14px -8px rgba(0,0,0,.5);transition:opacity .3s ease}
+.ctl .bk svg{width:14px;height:14px}
 .ctl .ct{min-width:40px;white-space:nowrap;font-family:var(--f-mono);font-size:13px;color:var(--ink);background:rgba(247,243,234,.85);padding:5px 9px;border-radius:999px;text-align:center}
 .ctl button:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
 @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(7px)}}
@@ -228,6 +228,8 @@ html.step #stage{touch-action:none;-webkit-user-select:none;user-select:none;-we
 @keyframes pulse{0%{stroke-dashoffset:240}70%{stroke-dashoffset:0}100%{stroke-dashoffset:-240}}
 .gk{position:absolute;width:30px;height:30px;border-radius:50%;background:var(--gold);display:grid;place-items:center;box-shadow:0 4px 10px -4px rgba(0,0,0,.4);transform:scale(0)}
 .gk svg{width:60%;height:60%}
+.drop{position:absolute;left:0;top:0;width:26px;height:26px;margin:-13px 0 0 -13px;border-radius:0 50% 50% 50%;transform:rotate(45deg);background:radial-gradient(circle at 35% 35%,#d8efff,#5aa9ea 60%,#2f7fd0);box-shadow:inset -3px -3px 0 rgba(0,0,0,.12);visibility:hidden}
+.etag{position:absolute;left:var(--g);top:0;font-family:var(--f-mono);font-size:14px;letter-spacing:.04em;color:var(--ink);background:var(--gold);padding:5px 12px;border-radius:999px;visibility:hidden}
 .rule.glow{background:var(--gold);box-shadow:0 0 0 2px rgba(246,183,60,.35),0 0 14px 2px rgba(246,183,60,.8)}
 /* reduced motion: static story */
 #story{display:none}
@@ -284,7 +286,6 @@ html.step #stage{touch-action:none;-webkit-user-select:none;user-select:none;-we
       <div class="ctl" id="ctl">
         <button class="bk" id="bk" type="button" aria-label="Back"><svg viewBox="0 0 16 16"><path d="M3.5 10 8 5.5l4.5 4.5" fill="none" stroke="#1c1917" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
         <button class="nx lbl" id="nx" type="button" aria-label="Next"><span id="nxl">start</span><svg viewBox="0 0 16 16"><path d="M3.5 6 8 10.5 12.5 6" fill="none" stroke="#1c1917" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg></button>
-        <span class="ct" id="ct" aria-live="polite">1 / 1</span>
       </div>
       <div class="close" id="close">
         <a class="cta" id="cta" href="https://27uox5zmhva.typeform.com/to/tNALmTdl#page_source=COOL%20STORY%20SITE"><span class="dot" aria-hidden="true"></span>Book your free consultation</a>
@@ -301,7 +302,7 @@ html.step #stage{touch-action:none;-webkit-user-select:none;user-select:none;-we
     <h1 style="font-family:var(--f-display);font-weight:900;font-size:clamp(34px,8vw,64px);line-height:1;letter-spacing:-.025em;margin:.2em 0 .4em">Scroll to the end and you'll know exactly why your baby is still waking up.</h1>
     <p style="font-weight:400;font-size:20px;opacity:.85">For families where not sleeping isn't an option. The 3 fires behind every bad night, how 700+ families put them out, and why some babies slept through on night one.</p>
     <div class="row"><img data-sp="peg_mom_coffee" alt=""><img data-sp="crib" alt=""></div></div></section>
-  <section style="background:var(--night)"><div class="in"><p>It's 2:47 AM.</p><p class="gw" style="color:var(--coral)">again.</p><p>Everyone says: sleep when the baby sleeps.</p><p>Cute.</p><p>You have surgery at 7. A team to run. A first day back on Monday.</p><p>For your family, not sleeping isn't an option.</p><p>You're not crazy for wanting it fixed. You need a solution.</p><p class="gw" style="color:var(--gold)">solution</p></div></section>
+  <section style="background:var(--night)"><div class="in"><p>It's 2:47 AM.</p><p class="gw" style="color:var(--coral)">again.</p><p>Everyone says: sleep when the baby sleeps.</p><p>Cute.</p><p>You have a job that needs you sharp. A family that needs you present.</p><p>For your family, not sleeping isn't an option.</p><p>You're not crazy for wanting it fixed. You need a solution.</p><p class="gw" style="color:var(--gold)">solution</p></div></section>
   <section style="background:var(--coral);color:var(--ink)"><div class="in"><p>You've tried</p><p class="gw" style="color:var(--paper)">everything</p><p class="mono">books · an app · white noise · a magic bassinet · pacifier #6 · coffee</p></div></section>
   <section style="background:var(--forest)"><div class="in"><p>Your baby isn't a bad sleeper.</p><p>Nobody ever taught them how.</p><p class="gw" style="color:var(--sage)">taught</p><p>Sleep is a skill.</p><p>Skills get taught.</p></div></section>
   <section style="background:var(--ink)"><div class="in"><p>Here's what nobody told you.</p><p>There are three fires keeping your baby awake.</p><p class="gw" style="color:var(--coral)">3 fires</p><p>Put out all three, and your baby sleeps through the night.</p></div></section>
@@ -384,7 +385,7 @@ function bump(x,w){return Math.exp(-(x/w)*(x/w))}
 // scene ids in story order (23 = bridge, 24 = tears, 25 = why)
 // scene ids in story order. 23 bridge, 24 tears, 25 why, 26-33 "why we're different", 34 "not an option". (15 removed)
 var ORDER=[1,2,34,3,4,5,6,7,8,9,10,11,12,23,13,26,27,28,29,30,31,32,33,14,16,24,17,18,19,20,21,25,22];
-var NB=[0,1,3,8,2,3,3,7,4,2,5,5,2,4,3,0,2,2,5,2,5,2,4,2,3,3, 2,1,2,1,2,3,2,2,5]; // beats per scene id
+var NB=[0,1,3,8,2,3,3,7,5,2,5,5,2,4,3,0,2,2,5,2,5,2,11,2,3,3, 2,1,2,1,2,3,2,2,5]; // beats per scene id
 var SC=[], TOTAL=0; ORDER.forEach(function(n){SC[n]=TOTAL;TOTAL+=NB[n];});
 var LAST=TOTAL-1;               // last beat index
 var BEAT_SVH=45;
@@ -392,11 +393,11 @@ var DUR=[]; for(var i=0;i<=LAST+1;i++) DUR[i]=650;
 function K(n,j,f){return SC[n]+j-1+(f===undefined?1:f)}
 function setDur(n,j,ms){DUR[SC[n]+j]=ms}
 setDur(1,0,1000); for(var dj=1;dj<=6;dj++) setDur(3,dj,720); setDur(3,7,1200); for(dj=2;dj<=6;dj++) setDur(7,dj,780);
-setDur(23,0,800); setDur(23,1,850); setDur(24,2,950); setDur(25,0,850); setDur(25,2,850); setDur(22,1,1100); setDur(22,2,900); setDur(22,3,800); setDur(5,0,900); setDur(5,1,1000); setDur(6,1,850);
-setDur(8,0,1200); setDur(8,2,1200); setDur(9,1,900); setDur(10,0,1000);
+setDur(23,0,800); setDur(23,1,850); setDur(24,2,950); setDur(25,0,850); setDur(25,2,850); setDur(22,9,900); setDur(22,10,800); setDur(5,0,900); setDur(5,1,1000); setDur(6,1,850);
+setDur(8,0,1200); setDur(8,1,1100); setDur(8,2,1000); setDur(8,3,1200); setDur(9,1,1300); setDur(10,4,1300); setDur(11,4,1300); setDur(9,1,900); setDur(10,0,1000);
 setDur(11,1,900); setDur(11,2,900); setDur(12,1,900); setDur(13,0,900); setDur(14,0,900);
 setDur(26,0,900); setDur(27,0,900); setDur(28,1,1000); setDur(29,0,1100); setDur(30,0,900); setDur(31,0,950); setDur(32,0,900); setDur(33,0,950); setDur(34,4,800);
-setDur(16,1,900); setDur(19,1,1200); setDur(21,1,1000); setDur(22,0,900); setDur(22,1,900);
+setDur(16,1,900); setDur(19,1,1200); setDur(21,1,1000); setDur(22,0,900);
 var S=-1, target=0, R=0; // S: played story position (beats), R: raw scroll position (beats)
 function bt(n,j,a,b){a=a||0;b=b===undefined?1:b;return cl((S-(SC[n]+j-1)-a)/(b-a))}
 function inSc(n){return S>SC[n]-1 && S<=SC[n]+NB[n]}
@@ -476,6 +477,9 @@ var ovRos=addOv('rosette','r14','14'); var ovRn=['r1','r2','r3'].map(function(id
 var needle=document.createElement('div'); needle.className='needle'; SPR.gauge.bd.appendChild(needle);
 var glabs=['under','just right','over'].map(function(t){var e=document.createElement('div');e.className='glab';e.textContent=t;SPR.gauge.bd.appendChild(e);return e});
 var rules=[]; [[.462,.6],[.555,.44],[.647,.52]].forEach(function(r){var e=document.createElement('div');e.className='rule';SPR.clipboard.bd.appendChild(e);rules.push({el:e,y:r[0],len:r[1]})});
+var drops=[0,1,2,3].map(function(){var e=document.createElement('div');e.className='drop';cast.appendChild(e);return e});
+var shh=[0,1,2].map(function(){var e=document.createElement('div');e.className='zz-g';e.textContent='shh';cast.appendChild(e);return e});
+var etag=document.createElement('div'); etag.className='etag'; etag.textContent='earlier tonight'; typeL.appendChild(etag);
 var zs=[]; for(var zi=0;zi<3;zi++){var z=document.createElement('div');z.className='zz-g';z.textContent='z';cast.appendChild(z);zs.push(z)}
 function aspect(o){var m=AVAIL[o.name];return m?m.w/m.h:o.def.a}
 
@@ -484,7 +488,7 @@ function aspect(o){var m=AVAIL[o.name];return m?m.w/m.h:o.def.a}
 var BLOCKS=[
  {c:'paper',lines:[["It's 2:47 AM.",2,0]],end:[34,0]},
  {c:'paper',lines:[["Everyone says: sleep when the baby sleeps.",34,0],["Cute.",34,1]],end:[34,2]},
- {c:'paper',lines:[["You have surgery at 7. A team to run. A first day back on Monday.",34,2]],end:[34,3]},
+ {c:'paper',lines:[["You have a job that needs you sharp. A family that needs you present.",34,2]],end:[34,3]},
  {c:'paper',lines:[["For your family, not sleeping isn't an option.",34,3]],end:[34,4]},
  {c:'paper',lines:[["You're not crazy for wanting it fixed. You need a solution.",34,4]],end:[3,0]},
  {c:'ink',lines:[["You've tried",3,0]],end:[4,0]},
@@ -494,8 +498,8 @@ var BLOCKS=[
  {c:'paper',lines:[["Put out all three, and your baby sleeps through the night.",6,2]],end:[7,0]},
  {c:'paper',k:1,lines:[["Anything your baby needs in order to fall asleep is a sleep prop.",7,1]],end:[8,0]},
  {c:'paper',k:1,lines:[["Every baby wakes between sleep cycles. All night long.",8,0]],end:[8,1]},
- {c:'paper',k:1,lines:[["And when they wake, they need whatever put them to sleep.",8,1],["If that was you, you're up too.",8,2]],end:[8,3]},
- {c:'paper',k:1,lines:[["Most night wakings aren't hunger. They're habit.",8,3]],end:[9,0]},
+ {c:'paper',k:1,id:'wake',lines:[["And when they wake, they need whatever put them to sleep.",8,1],["If that was you, you're up too.",8,3]],end:[8,4]},
+ {c:'paper',k:1,lines:[["Most night wakings aren't hunger. They're habit.",8,4]],end:[9,0]},
  {c:'paper',k:1,lines:[["The fix: your baby learns to fall asleep on their own.",9,0]],end:[10,0]},
  {c:'ink',k:1,lines:[["Overtired, and cortisol and adrenaline spike. They wake all the way up between cycles.",10,1]],end:[10,2]},
  {c:'ink',k:1,lines:[["Undertired, and there isn't enough sleep pressure. They fight the crib.",10,2]],end:[10,3]},
@@ -523,7 +527,7 @@ var BLOCKS=[
  {c:'ink',id:'tomorrow',lines:[["Now picture tomorrow.",20,0]],end:[21,0]},
  {c:'ink',lines:[["Your baby sleeps 8–12 hours through the night within 14 days of following the plan, or a full refund.",21,1]],end:[25,0]},
  {c:'ink',lines:[["How can we guarantee it?",25,0],["We only take families we know we can help.",25,1],["That's what the consultation is for.",25,2]],end:[22,0]},
- {c:'ink',id:'close',lines:[["This is for you if",22,0]],end:[22,2]}
+ {c:'ink',id:'close',lines:[["This is for you if",22,0]],end:[22,9]}
 ];
 var BID={};
 var MOON='<svg viewBox="0 0 24 24"><path d="M15.5 2.5A9.6 9.6 0 1 0 21.8 17 8 8 0 0 1 15.5 2.5Z" fill="#f6b73c" stroke="rgba(28,25,23,.45)" stroke-width="1.2" stroke-linejoin="round"/></svg>';
@@ -552,9 +556,12 @@ var GIANTS=[
  {text:'taught',c:'sage',at:[4,1],end:[5,0],y:.44},
  {text:'3 fires',c:'coral',at:[6,1],end:[7,0],y:.48},
  {text:'props',c:'gold',at:[7,0],end:[8,0],y:.47},
- {text:'habit',c:'pink',at:[8,3],end:[9,0],y:.45},
- {text:'tired',c:'forest',at:[10,0],end:[11,0],y:.47},
- {text:'battles',c:'night',at:[11,0],end:[12,0],y:.48},
+ {text:'habit',c:'pink',at:[8,4],end:[9,0],y:.45},
+ {text:'out.',c:'paper',at:[9,1],end:[10,0],y:.5},
+ {text:'out.',c:'paper',at:[10,4],end:[11,0],y:.5},
+ {text:'out.',c:'paper',at:[11,4],end:[12,0],y:.5},
+ {text:'tired',c:'forest',at:[10,0],end:[10,4],y:.47},
+ {text:'battles',c:'night',at:[11,0],end:[11,4],y:.48},
  {text:'700+',c:'gold',at:[19,0],end:[20,0],front:1},
  {text:'morning.',c:'ink',at:[21,0],end:[25,0],y:.41}
 ];
@@ -564,7 +571,7 @@ GIANTS.forEach(function(g){
   g.el=el; (g.front?front:sky).appendChild(el);
   g.k=SC[g.at[0]]+g.at[1]-1; g.endK=SC[g.end[0]]+g.end[1]-1;
 });
-var KICKS=[{t:'FIRE 1',n:7,e:10},{t:'FIRE 2',n:10,e:11},{t:'FIRE 3',n:11,e:12},{t:'REASON 1',n:30,e:31},{t:'REASON 2',n:31,e:32},{t:'REASON 3',n:32,e:33}].map(function(k){var e=document.createElement('div');e.className='kick';e.textContent=k.t;typeL.appendChild(e);k.el=e;return k});
+var KICKS=[{t:'FIRE 1',n:7,e:10,out:[9,1]},{t:'FIRE 2',n:10,e:11,out:[10,4]},{t:'FIRE 3',n:11,e:12,out:[11,4]},{t:'REASON 1',n:30,e:31},{t:'REASON 2',n:31,e:32},{t:'REASON 3',n:32,e:33}].map(function(k){var e=document.createElement('div');e.className='kick';e.textContent=k.t;typeL.appendChild(e);k.el=e;return k});
 var NOTES=[
  {t:'> fire 1: out.',at:[9,1],end:[10,0]},{t:'> fire 2: out.',at:[10,4],end:[11,0]},{t:'> fire 3: out.',at:[11,4],end:[12,0]},
  {t:'> you respond to your baby the whole way.',at:[24,2],end:[17,0]}
@@ -592,6 +599,7 @@ var rcards=[].slice.call(rstack.children);
 var magEl=craft('mag','<svg viewBox="0 0 100 100"><defs><radialGradient id="mg" cx=".38" cy=".34" r=".7"><stop offset="0" stop-color="#fff" stop-opacity=".55"/><stop offset=".6" stop-color="#fff" stop-opacity=".12"/><stop offset="1" stop-color="#cfe6ff" stop-opacity=".18"/></radialGradient></defs><rect x="58" y="60" width="16" height="40" rx="8" transform="rotate(-45 66 80)" fill="#c8892a"/><rect x="60" y="62" width="11" height="34" rx="5.5" transform="rotate(-45 66 80)" fill="#e9a53a"/><circle cx="40" cy="40" r="30" fill="url(#mg)" stroke="#f6b73c" stroke-width="9"/><circle cx="40" cy="40" r="30" fill="none" stroke="#c8892a" stroke-width="2" opacity=".5"/><path d="M24 30a18 18 0 0 1 14-10" stroke="#fff" stroke-width="5" stroke-linecap="round" fill="none" opacity=".85"/></svg>');
 var screenEl=craft('screen','<div class="mon"><svg viewBox="0 0 150 90" preserveAspectRatio="none"><path d="M0 60 L22 60 L30 60 L36 30 L44 78 L52 46 L58 60 L82 60 L90 60 L96 36 L104 72 L110 52 L116 60 L150 60"/></svg></div><div class="stand"></div>');
 var GKSVG='<svg viewBox="0 0 14 14"><path d="M2.5 7.4 5.6 10.3 11.5 3.8" fill="none" stroke="#1c1917" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>';
+var pticks=[0,1,2].map(function(){var e=document.createElement('div');e.className='gk';e.style.position='absolute';e.style.left='0';e.style.top='0';e.innerHTML=GKSVG;cast.appendChild(e);return e});
 var gks=[0,1,2].map(function(){var e=document.createElement('div');e.className='gk';e.innerHTML=GKSVG;screenEl.appendChild(e);return e});
 var stepsEl=$('steps'), stepRows=[].slice.call(stepsEl.querySelectorAll('div'));
 var gtick=document.createElement('div'); gtick.className='gtick'; gtick.innerHTML='<svg viewBox="0 0 14 14"><path d="M2.5 7.4 5.6 10.3 11.5 3.8" fill="none" stroke="#1c1917" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"/></svg>'; gtick.style.left='60%'; gtick.style.top='66%'; SPR.clipboard.bd.appendChild(gtick);
@@ -607,7 +615,7 @@ function layout(){
   W=stage.clientWidth; H=stage.clientHeight; desk=W>760;
   G=W<600?20:Math.max(40,Math.min(72,W*.045));
   document.documentElement.style.setProperty('--g',G+'px');
-  FY=Math.round(H*.8); GY=Math.round(FY+(H-FY)*.33);
+  FY=Math.round(H*.78); GY=Math.round(FY+(H-FY)*.3);
   floorEl.style.height=(H-FY)+'px';
   s=desk?H/844*1.1:Math.min(W/390,H/844); s=Math.max(.7,Math.min(s,1.4));
   cw=desk?Math.min(W-2*G,1100,H*1.18):W-2*G+4; cx0=(W-cw)/2;
@@ -621,7 +629,6 @@ function layout(){
     if(o.sh){var sw=w*(o.name.indexOf('peg')===0?.78:.88),shh=Math.max(8,sw*.17);o.sh.style.cssText='width:'+sw+'px;height:'+shh+'px;left:'+(-sw/2)+'px;top:'+(-shh/2)+'px';}
     var f=o.bd.querySelector('.fb-block'); if(f) f.style.setProperty('--fs',(h*.62)+'px');
     var fm=o.bd.querySelector('.fb-moon'); if(fm) fm.style.boxShadow='inset '+(-w*.2)+'px '+(w*.06)+'px 0 0 var(--gold)';
-    if(o.lab){var lw=Math.max(64,Math.min(120,cw/6+4)); o.lab.style.width=lw+'px'; o.lab.style.marginLeft=(-lw/2)+'px';}
   });
   var cf=DEF.clock.face; ovClock.style.cssText='left:'+cf[0]*100+'%;top:'+cf[1]*100+'%;width:'+cf[2]*100+'%;height:'+cf[3]*100+'%;font-size:'+(SPR.clock.w*.24)+'px';
   var kf2=DEF.calendar.face; ovCal.style.cssText='left:'+kf2[0]*100+'%;top:'+kf2[1]*100+'%;width:'+kf2[2]*100+'%;height:'+kf2[3]*100+'%;font-size:'+(SPR.calendar.w*.17)+'px';
@@ -645,6 +652,8 @@ function layout(){
   var g9=GIANTS.filter(function(g){return g.front})[0]; g9.top=Math.round(TOP+4); var b9=BLOCKS.filter(function(b){return b.s19})[0]; b9.el.style.top=(g9.top+g9.h-g9.fs*.06)+'px'; b9.top=b9.el.offsetTop; b9.r=0;
   $('cnt').style.top=(b9.top+8)+'px';
   REV.forEach(function(r){r.w=r.el.offsetWidth;r.h=r.el.offsetHeight});
+  NOTES.forEach(function(n){var k=SC[n.at[0]]+n.at[1], bb=null; BLOCKS.forEach(function(b){if(b.start<k-.5&&b.endK>=k) bb=b}); n.el.style.top=((bb?bb.top+bb.hh:TOP)+14)+'px';});
+  var bw8=BID.wake; etag.style.top=(bw8.top+bw8.hh+12)+'px';
   BUBS.forEach(function(b){b.w=b.el.offsetWidth;b.h=b.el.offsetHeight});
   tcard._w=tcard.offsetWidth; tcard._h=tcard.offsetHeight;
   // scene 13 mono lines, 20 moments, 22 ticks/close
@@ -663,7 +672,7 @@ function layout(){
   WAVE={w:ww,h:wh,amp:amp};
   // dots
   dpr=Math.min(2,window.devicePixelRatio||1); canvas.width=Math.round(W*dpr); canvas.height=Math.round(H*dpr);
-  var y0=b9.top+b9.hh+22,y1=H-96*s,x0=G,x1=W-G,aw=x1-x0,ah=y1-y0,cols=Math.round(Math.sqrt(700*aw/ah)),rows=Math.ceil(700/cols),cwid=aw/cols,chei=ah/rows,pts=[];
+  var y0=b9.top+b9.hh+22,y1=H-130*s,x0=G,x1=W-G,aw=x1-x0,ah=y1-y0,cols=Math.round(Math.sqrt(700*aw/ah)),rows=Math.ceil(700/cols),cwid=aw/cols,chei=ah/rows,pts=[];
   for(var q=0;q<700;q++){var c=q%cols,r=Math.floor(q/cols);pts.push([x0+cwid*(c+.5),y1-chei*(r+.5),(c/cols)*.55+(r/rows)*.45+Math.sin(c*1.7+r*.9)*.03]);}
   grid={pts:pts,rad:Math.min(cwid,chei)*.33};
   rcards.forEach(function(c){c.style.transform='scale('+s.toFixed(3)+')'}); magEl.style.width=magEl.style.height=(96*s)+'px';
@@ -712,7 +721,7 @@ function setS(o,p){
   o.el.style.opacity=p.o.toFixed(3);
   o.bd.style.transform='translate3d(0,'+(-lift).toFixed(1)+'px,0) rotate('+r.toFixed(2)+'deg) scale('+sx.toFixed(3)+','+sy.toFixed(3)+')';
   if(o.sh){var k=sc*(p.sx||1)/(1+lift/(150*s)); o.sh.style.transform='scale('+k.toFixed(3)+')'; o.sh.style.opacity=(1/(1+lift/(80*s))).toFixed(3);}
-  if(o.lab) o.lab.style.opacity=(p.lo||0).toFixed(3);
+  if(o.lab){ o.lab.style.opacity=(p.lo||0).toFixed(3); o.lab.style.transform='translate3d(-50%,'+(-(o.h*sc*(p.sy||1)+lift+10*s)).toFixed(1)+'px,0)'; }
 }
 function setLab(o,t,big){ big=!!big; if(o.labT!==t||o.labB!==big){o.labT=t;o.labB=big;o.lab.textContent=t;o.lab.classList.toggle('big',big)} }
 function setSky(o,p){
@@ -762,15 +771,20 @@ function render(){
   /* ===== crib ===== */
   var X=SPR, OLv=OL, ORv=OR;
   var mh=desk?.3:.16;
-  var cribX=kf(S,[[-1,desk?.66:.79],[K(2,0,0),desk?.66:.79],[K(2,0,.6),.665,eio],[K(3,0,0),.665],[K(3,0,.5),OLv,ei],[K(8,0,0),ORv,st],[K(8,0,.3),.63,eo],[K(10,0,0),.63],[K(10,0,.45),ORv,ei],[K(12,0,0),OLv,st],[K(12,0,.6),.5,eo],[K(13,0,0),.5],[K(13,0,.4),ORv,ei],[K(26,0,0),OLv,st],[K(26,0,.6),.6,eo],[K(27,0,0),.6],[K(27,0,.45),ORv,ei],[K(24,0,0),ORv],[K(24,0,.6),.5,eo],[K(17,0,0),.5],[K(17,0,.6),.66,eio],[K(19,0,0),.66],[K(19,0,.4),ORv,ei],[K(20,2,0),OLv,st],[K(20,2,.6),.72,eo],[K(25,0,0),.72],[K(25,0,.5),ORv,ei],[K(22,0,0),ORv],[K(22,0,.6),FX(.62),eo]]);
-  var cribSc=kf(S,[[-1,.5],[0,HSC*(desk?.94:.84),back],[K(2,0,0),HSC*(desk?.94:.84)],[K(2,0,.6),1,eio],[K(8,0,0),1,st],[K(12,0,0),1.12,st],[K(13,0,.45),1,st],[K(26,0,0),.8,st],[K(24,0,0),1.05,st],[K(17,0,0),1.05],[K(17,0,.6),.82],[K(20,2,0),.7,st],[K(22,0,0),SC22*.95,st]]);
+  var cribX=kf(S,[[-1,desk?.66:.79],[K(2,0,0),desk?.66:.79],[K(2,0,.6),.665,eio],[K(3,0,0),.665],[K(3,0,.5),OLv,ei],[K(8,0,0),ORv,st],[K(8,0,.3),.63,eo],[K(9,1,0),.63],[K(9,1,.35),.84,eo],[K(10,0,0),.84],[K(10,0,.45),ORv,ei],[K(12,0,0),OLv,st],[K(12,0,.6),.5,eo],[K(13,0,0),.5],[K(13,0,.4),ORv,ei],[K(26,0,0),OLv,st],[K(26,0,.6),.6,eo],[K(27,0,0),.6],[K(27,0,.45),ORv,ei],[K(24,0,0),ORv],[K(24,0,.6),.5,eo],[K(17,0,0),.5],[K(17,0,.6),.66,eio],[K(19,0,0),.66],[K(19,0,.4),ORv,ei],[K(20,2,0),OLv,st],[K(20,2,.6),.72,eo],[K(25,0,0),.72],[K(25,0,.5),ORv,ei],[K(22,0,0),ORv],[K(22,0,.6),FX(.62),eo]]);
+  var cribSc=kf(S,[[-1,.5],[0,HSC*(desk?.94:.84),back],[K(2,0,0),HSC*(desk?.94:.84)],[K(2,0,.6),1,eio],[K(8,0,0),1,st],[K(9,1,0),1],[K(9,1,.35),.62,eo],[K(10,0,.5),.62],[K(10,0,.51),1,st],[K(12,0,0),1.12,st],[K(13,0,.45),1,st],[K(26,0,0),.8,st],[K(24,0,0),1.05,st],[K(17,0,0),1.05],[K(17,0,.6),.82],[K(20,2,0),.7,st],[K(22,0,0),SC22*.95,st]]);
   var cribD=kf(S,[[K(20,2,0),0],[K(20,2,0)+.001,-12,st],[K(22,0,0),-34,st]]);
   var cribO=(S>K(26,0,0)&&S<K(27,0,.5))||S<K(3,0,.55)||(S>K(8,0,0)&&S<K(10,0,.5))||(S>K(12,0,0)&&S<K(13,0,.45))||(S>K(24,0,0)&&S<K(19,0,.45))||(S>K(20,2,0)&&S<K(25,0,.55))||S>K(22,0,0)?1:0;
   setS(X.crib,{x:cribX,sc:cribSc,d:cribD,o:cribO*cl((S+1)*3),idle:'soft'});
   var peek=X.crib.h*cribSc*DEF.crib.peek;
 
+  var momX=kf(S,[[-1,OLv],[0,mh,back],[K(2,0,0),mh],[K(2,0,.5),OLv,ei],[K(2,2,0),OLv],[K(2,2,.7),.17,eo],[K(3,0,0),.17],[K(3,0,.5),OLv,ei],[K(7,6,0),ORv,st],[K(7,6,.8),.52,eo],[K(8,0,0),.52],[K(8,0,.3),OLv,ei],[K(8,1,0),OLv],[K(8,1,.35),.3,eo],[K(8,2,0),.3],[K(8,2,.85),.05,eio],[K(8,3,.42),.05],[K(8,3,.72),.3,eo],[K(9,0,0),.3],[K(9,0,.5),OLv,ei],[K(11,2,0),OLv],[K(11,2,.5),.35,eo],[K(11,3,0),.35],[K(11,3,.5),.18,eo],[K(11,4,0),.18],[K(11,4,.4),.08,eo],[K(12,0,0),.08],[K(12,0,.4),OLv,ei],[K(16,0,0),OLv],[K(16,0,.6),.13,eo],[K(24,0,0),.13],[K(24,0,.5),OLv,ei],[K(17,0,0),OLv],[K(17,0,.6),.1,eo],[K(19,0,0),.1],[K(19,0,.4),OLv,ei]]);
+  var momSc=kf(S,[[-1,HSC],[K(2,0,.5),HSC],[K(2,0,.51),1,st],[K(7,6,0),.95,st],[K(8,1,0),.86,st],[K(11,2,0),.84,st],[K(11,4,0),.84],[K(11,4,.4),.62,eo],[K(12,0,0),.62],[K(16,0,0),.8,st],[K(17,0,0),.8],[K(17,0,.6),.76]]);
+  // s08: mom rocks the baby (held weight HW), tiptoes off, comes back
+  var HW=eio(bt(8,1,.25,.7))*(1-eio(bt(8,2,0,.55)))+eio(bt(8,3,.62,.95))*(1-eio(bt(9,0,0,.5))), rock=Math.sin(NOW*1.7);
+  momX+=rock*.016*HW;
   /* ===== baby (one character, four skins) ===== */
-  var SK=[[-2,'bA'],[K(2,1,.12),'bC'],[K(4,0,.3),'bA'],[K(9,0,.4),'bS'],[K(10,0,.55),'bA'],[K(10,1,.3),'bG'],[K(10,2,.3),'bA'],[K(10,3,.35),'bS'],[K(13,0,.5),'bA'],[K(26,0,.95),'bS'],[K(27,0,.5),'bA'],[K(24,0,0),'bC'],[K(24,2,.35),'bS']];
+  var SK=[[-2,'bA'],[K(2,1,.12),'bC'],[K(4,0,.3),'bA'],[K(8,2,.45),'bS'],[K(8,3,.42),'bC'],[K(9,0,.4),'bS'],[K(10,0,.55),'bA'],[K(10,1,.3),'bG'],[K(10,2,.3),'bA'],[K(10,3,.35),'bS'],[K(13,0,.5),'bA'],[K(26,0,.95),'bS'],[K(27,0,.5),'bA'],[K(24,0,0),'bC'],[K(24,2,.35),'bS']];
   var skin='bA', prevSkin='bA', skinT=1;
   for(var i=0;i<SK.length;i++){ if(S>=SK[i][0]){ prevSkin=skin; skin=SK[i][1]; skinT=cl((S-SK[i][0])/.1); } }
   var ride=(S>=K(26,0,.95)&&S<K(27,0,.5))||S<K(3,0,.55)||(S>=K(8,0,0)&&S<K(10,0,.5))||(S>=K(12,0,0)&&S<K(13,0,.45))||(S>=K(24,0,0)&&S<K(19,0,.45))||(S>=K(20,2,0)&&S<K(25,0,.55))||S>=K(22,0,0);
@@ -779,13 +793,14 @@ function render(){
   if(ride){
     B.x=cribX; B.d=cribD-1; B.sc=cribSc; B.lift=peek; B.o=cribO;
     if(S<K(4,0,0)){ var cu=bt(2,1,0,.5); B.lift+=Math.sin(Math.PI*Math.min(cu,.5))*0+ (cu>0? lerp(0,18*s,eo(cl(cu*2))) + Math.sin(Math.PI*cl(cu*2))*40*s :0); if(S>K(2,1)) B.lift=peek+18*s; }
-    if(S>=K(8,0,0)&&S<K(9,0,0)){ // sleep-cycle wave: hidden low, pops at crests
+    if(S>=K(8,0,0)&&S<K(9,0,.6)){ // sleep-cycle wave, rocking, crying at the next crest
       var low=peek-bh*cribSc*.55, w0=cl((bt(8,0)-.3)/.7), up=0;
       [.125,.375,.625,.875].forEach(function(c){up=Math.max(up,bump(w0-c,.05))}); up=Math.max(up,cl((w0-.9)/.1));
-      var w2=cl((bt(8,2)-.25)/.75), up2=0; [.125,.375,.625,.875].forEach(function(c){up2=Math.max(up2,bump(w2-c,.05))});
-      B.lift=lerp(low,peek,up)+up2*26*s*(w2<1?1:0);
+      var inCrib=S<K(8,1,0)?lerp(low,peek,up):peek, w3=cl((bt(8,3)-.1)/.6), cryUp=cl((w3-.33)/.06)*(S<K(9,0,0)?1:0);
+      inCrib+=cryUp*26*s+Math.abs(Math.sin(NOW*9))*6*s*cryUp*(1-HW);
+      var hx=momX, hl=X.mom.h*momSc*.3;
+      B.x=lerp(cribX,hx,HW); B.lift=lerp(inCrib,hl,HW)+Math.sin(Math.PI*HW)*40*s*(HW>0&&HW<1?1:0); B.sc=lerp(cribSc,.9,HW); B.d=lerp(cribD-1,4,HW); B.r=rock*4*HW;
     }
-    if(S>=K(8,3,0)&&S<K(9,0,.4)) B.lift=peek;
     if(S>=K(24,0,0)&&S<K(17,0,0)){ var cry=1-cl(bt(24,2,.2,.6)); B.lift=peek+cry*16*s; }
   } else if(S<K(5,0,0)){ // s04: hops in alone, small, centre
     var du=bt(4,0,.15,.85); B.x=lerp(OLv,.5,eo(du)); B.lift=hop(du,3,26*s); B.o=du>0?1:0;
@@ -812,16 +827,15 @@ function render(){
     if(id===skin&&id===prevSkin) wgt=1;
     var q={}; for(var k in B) q[k]=B[k]; q.o=B.o*wgt; q.sy=B.sy*(1-.12*Math.sin(Math.PI*skinT)*(id===skin?1:0)); q.sx=B.sx*(1+.08*Math.sin(Math.PI*skinT)*(id===skin?1:0));
     if(id==='bS') q.idle='soft';
-    setS(X[id],q);
+    X[id].el.style.zIndex=HW>.5?'6':''; setS(X[id],q);
   });
 
   /* ===== mom (tired, with mug) ===== */
-  var momX=kf(S,[[-1,OLv],[0,mh,back],[K(2,0,0),mh],[K(2,0,.5),OLv,ei],[K(2,2,0),OLv],[K(2,2,.7),.17,eo],[K(3,0,0),.17],[K(3,0,.5),OLv,ei],[K(7,6,0),ORv,st],[K(7,6,.8),.52,eo],[K(8,0,0),.52],[K(8,0,.3),OLv,ei],[K(8,2,0),OLv],[K(8,2,.25),.15,eo],[K(9,0,0),.15],[K(9,0,.4),OLv,ei],[K(11,2,0),OLv],[K(11,2,.5),.35,eo],[K(11,3,0),.35],[K(11,3,.5),.18,eo],[K(12,0,0),.18],[K(12,0,.4),OLv,ei],[K(16,0,0),OLv],[K(16,0,.6),.13,eo],[K(24,0,0),.13],[K(24,0,.5),OLv,ei],[K(17,0,0),OLv],[K(17,0,.6),.1,eo],[K(19,0,0),.1],[K(19,0,.4),OLv,ei]]);
-  var momSc=kf(S,[[-1,HSC],[K(2,0,.5),HSC],[K(2,0,.51),1,st],[K(7,6,0),.95,st],[K(8,2,0),.86,st],[K(11,2,0),.84,st],[K(16,0,0),.8,st],[K(17,0,0),.8],[K(17,0,.6),.76]]);
   var momL=0, momR=0;
   if(S>K(2,2,0)&&S<K(2,2,.7)) momL=hop(bt(2,2,0,.7),3,10*s);
   if(S>K(7,6,0)&&S<K(7,6,.8)) momL=hop(bt(7,6,0,.8),3,22*s);
-  if(S>K(8,2,0)&&S<K(9,0,0)){ var w3=cl((bt(8,2)-.25)/.75), pp=0; [.125,.375,.625,.875].forEach(function(c){pp=Math.max(pp,bump(w3-c,.05))}); momL=pp*46*s*(w3<1?1:0); }
+  if(S>K(8,2,0)&&S<K(8,2,.85)) momL=hop(bt(8,2,0,.85),6,7*s);
+  momR+=rock*3*HW;
   var bk=bt(11,2,.45,.9); if(bk>0&&bk<1){ momR=Math.sin(bk*Math.PI*3)*(1-bk)*10; }
   momR+=Math.sin(Math.PI*bt(34,1,.1,.8))*-9;
   var bonk=bump(bt(11,2,.4,.8)-.35,.25)*(bt(11,2,.4,.8)<1?1:0)*.04;
@@ -829,8 +843,8 @@ function render(){
   setLab(X.mom,'you',true);
 
   /* ===== dad ===== */
-  var dadX=kf(S,[[K(11,2,0),ORv],[K(11,2,.5),.65,eo],[K(11,3,0),.65],[K(11,3,.5),.82,eo],[K(12,0,0),.82],[K(12,0,.4),ORv,ei],[K(16,0,0),ORv],[K(16,0,.6),.87,eo],[K(24,0,0),.87],[K(24,0,.5),ORv,ei],[K(17,0,0),ORv],[K(17,0,.7),.28,eo],[K(19,0,0),.3],[K(19,0,.4),OLv,ei],[K(20,4,0),OLv,st],[K(20,4,.6),.32,eo],[K(25,0,0),.32],[K(25,0,.5),OLv,ei],[K(22,0,0),OLv],[K(22,0,.65),FX(.33),eo]]);
-  var dadSc=kf(S,[[K(11,2,0),.84],[K(16,0,0),.8,st],[K(17,0,0),.8],[K(17,0,.7),.76],[K(20,4,0),.78,st],[K(22,0,0),SC22,st]]);
+  var dadX=kf(S,[[K(11,2,0),ORv],[K(11,2,.5),.65,eo],[K(11,3,0),.65],[K(11,3,.5),.82,eo],[K(11,4,0),.82],[K(11,4,.4),.92,eo],[K(12,0,0),.92],[K(12,0,.4),ORv,ei],[K(16,0,0),ORv],[K(16,0,.6),.87,eo],[K(24,0,0),.87],[K(24,0,.5),ORv,ei],[K(17,0,0),ORv],[K(17,0,.7),.28,eo],[K(19,0,0),.3],[K(19,0,.4),OLv,ei],[K(20,4,0),OLv,st],[K(20,4,.6),.32,eo],[K(25,0,0),.32],[K(25,0,.5),OLv,ei],[K(22,0,0),OLv],[K(22,0,.65),FX(.33),eo]]);
+  var dadSc=kf(S,[[K(11,2,0),.84],[K(11,4,0),.84],[K(11,4,.4),.62,eo],[K(12,0,0),.62],[K(16,0,0),.8,st],[K(17,0,0),.8],[K(17,0,.7),.76],[K(20,4,0),.78,st],[K(22,0,0),SC22,st]]);
   setS(X.dad,{x:dadX-bonk,sc:dadSc,d:-2,r:-momR,o:1,idle:'breath'});
 
   /* ===== mom happy ===== */
@@ -850,26 +864,34 @@ function render(){
   setS(X.teamB,{x:lerp(lerp(ORv,.87,eo(tin)),ORv,ei(tout)),sc:.62,lift:hop(tin,3,24*s)+hop(tout,2,20*s),d:-2,o:tin>0&&tout<1?1:0,idle:'breath'});
 
   /* ===== flames & puffs ===== */
-  var fx=[.18,.5,.82];
+  var fx=[.18,.5,.82], FOUT=[[9,1],[10,4],[11,4]], PF=[];
+  // water drops on the flame being put out
+  var dOn=null; FOUT.forEach(function(ob){var u=bt(ob[0],ob[1]); if(u>0&&u<1) dOn=u;});
+  drops.forEach(function(dp,k){ if(dOn===null){vis(dp,0);return} var a=cl((dOn-.06-k*.045)/.22); if(a<=0||a>=1){vis(dp,0);return} var fxp=cx0+.5*cw+[-34,12,38,-10][k]*s, ftop=GY+22*s-X.f1.h*1.45; var y=lerp(ftop-300*s,ftop+X.f1.h*.4,ei(a)); vis(dp,a<.9?1:(1-a)*10,'translate3d('+fxp.toFixed(1)+'px,'+y.toFixed(1)+'px,0) rotate(45deg) scale('+(1.2*s).toFixed(2)+')'); });
   [X.f1,X.f2,X.f3].forEach(function(f,i){
     var pop=bt(6,1,.3+i*.15,.75+i*.08), side=bt(7,0,0,.5), x=fx[i], sc=back(pop)*1.08, d=6, o=pop>0?1:0;
-    if(i===0){ x=lerp(fx[0],.08,eio(side)); sc*=lerp(1,.8,eio(side)); d=lerp(6,-26,side); var outA=bt(9,1,0,.4); sc*=1-ei(outA); }
-    else { sc*=1-ei(side); if(i===1){var a2=bt(10,0,.4,.9); if(a2>0){x=.08; sc=back(a2)*.88; d=-26; o=1;} sc*=1-ei(bt(10,4,0,.4)); if(S>K(11,0,0)) o=0;}
-      if(i===2){var a3=bt(11,0,.3,.8); if(a3>0){x=.08; sc=back(a3)*.88; d=-26; o=1;} sc*=1-ei(bt(11,4,0,.4)); if(S>K(12,0,0)) o=0;} }
-    if(i===0&&S>K(10,0,0)) o=0;
-    setS(f,{x:x,sc:Math.max(0,sc),d:d,o:o,idle:'flame',lo:bt(6,1,.6,1)*(1-bt(7,0,0,.3))});
+    if(i===0){ x=lerp(fx[0],.08,eio(side)); sc*=lerp(1,.8,eio(side)); d=lerp(6,-26,side); }
+    else { sc*=1-ei(side); if(i===1){var a2=bt(10,0,.4,.9); if(a2>0){x=.08; sc=back(a2)*.88; d=-26; o=1;}}
+      if(i===2){var a3=bt(11,0,.3,.8); if(a3>0){x=.08; sc=back(a3)*.88; d=-26; o=1;}} }
+    var OB=FOUT[i], ou=bt(OB[0],OB[1]), r=0;
+    if(ou>0){ var mv=eio(cl(ou/.25)), hs=cl((ou-.42)/.3); x=lerp(.08,.5,mv); sc=lerp(.85,1.45,mv)*(1-.7*eio(hs)); d=lerp(-26,22,mv); r=Math.sin(NOW*46)*14*hs*(1-hs)*3; o=1-cl((ou-.62)/.22); }
+    if(S>=K(OB[0],OB[1])) o=0;
+    setS(f,{x:x,sc:Math.max(0,sc),d:d,o:o,r:r,idle:'flame',lo:bt(6,1,.6,1)*(1-bt(7,0,0,.3))});
     setLab(f,String(i+1),true);
   });
   [[X.p1,9,10],[X.p2,10,11],[X.p3,11,12]].forEach(function(pq,i){
-    var p=pq[0], n=pq[1], u=bt(n,i===0?1:4,.3,1), leave=bt(pq[2],0,0,.6);
-    var o=u>0?1:0, lift=lerp(0,210*s,eo(u))+leave*40*s, x=.08+.05*u, sc=back(u)*.75;
+    var p=pq[0], n=pq[1], u=bt(n,i===0?1:4,.6,.92), leave=bt(pq[2],0,0,.6);
+    var o=u>0?1:0, lift=24*s+leave*260*s, x=.5, sc=back(u)*1.15;
     // scene 12: all three puffs gather above the crib then float away
     var g=bt(12,0,.2,.8), fl=bt(12,1,0,1), gone=bt(23,0,0,.6);
-    if(S>K(12,0,0)){ x=lerp(x,[.2,.5,.8][i],eio(g)); lift=lerp(210*s,X.crib.h*1.12+40*s+(i%2?50*s:0),eio(g))+eo(fl)*150*s+ei(gone)*H; o=(g>0||i===2?1:0)*(1-gone); sc=lerp(.75,1,g)+fl*.15; leave=0; }
+    if(S>K(12,0,0)){ x=lerp(x,[.2,.5,.8][i],eio(g)); lift=lerp(24*s,X.crib.h*1.12+40*s+(i%2?50*s:0),eio(g))+eo(fl)*150*s+ei(gone)*H; o=(g>0||i===2?1:0)*(1-gone); sc=lerp(.75,1,g)+fl*.15; leave=0; }
     else o*=1-leave;
-    setS(p,{x:x,lift:lift,sc:sc,d:-28,o:o,idle:'puff'});
+    var pd=S>K(12,0,0)?-28:22; PF[i]={x:x,lift:lift,sc:sc,d:pd,o:o,on:S>K(12,0,.5)&&S<K(23,0,.6)};
+    setS(p,{x:x,lift:lift,sc:sc,d:pd,o:o,idle:'puff'});
   });
 
+  // gold ticks on the three puffs in "Three fires. All out."
+  pticks.forEach(function(t,i){ var q=PF[i]; if(!q||!q.on){vis(t,0);return} var u=bt(12,0,.55+i*.12,.8+i*.08); var tx=cx0+q.x*cw+X.p1.w*q.sc*.32, ty=GY+q.d*s-q.lift-X.p1.h*q.sc*.95; vis(t,q.o,'translate3d('+(tx-15).toFixed(1)+'px,'+(ty-15).toFixed(1)+'px,0) scale('+(back(u)*s).toFixed(3)+')'); });
   /* ===== s03 props one at a time / s07 parade / s11 battles / s23 bridge ===== */
   var px=[.083,.25,.417,.583,.75,.917], BIG3=[2.7,2.3,2.5,2.05,3.0,3.3], ROWSC=.85;
   function p3(i){ // one large prop per beat, then all six small in a row (last beat), off in s04
@@ -921,10 +943,11 @@ function render(){
 
   /* ===== clock ===== */
   var clH=X.clock.h;
-  var clL=kf(S,[[K(2,0,.1),-clH*1.05],[K(2,0,.75),0,back],[K(3,0,0),0],[K(3,0,.5),-clH*1.05,ei],[K(20,0,.2),-clH*1.05],[K(20,0,.85),0,back],[K(21,0,0),0],[K(21,0,.5),-clH*1.05,ei]]);
-  var clOn=(S>K(2,0,.05)&&S<K(3,0,.55))||(S>K(20,0,.15)&&S<K(21,0,.55));
+  var clL=kf(S,[[K(2,0,.1),-clH*1.05],[K(2,0,.75),0,back],[K(3,0,0),0],[K(3,0,.5),-clH*1.05,ei],[K(8,3,.1),-clH*1.05],[K(8,3,.5),0,back],[K(9,0,0),0],[K(9,0,.4),-clH*1.05,ei],[K(20,0,.2),-clH*1.05],[K(20,0,.85),0,back],[K(21,0,0),0],[K(21,0,.5),-clH*1.05,ei]]);
+  var s8c=S>K(8,0,0)&&S<SC[10];
+  var clOn=(S>K(8,3,.05)&&S<K(9,0,.45))||(S>K(2,0,.05)&&S<K(3,0,.55))||(S>K(20,0,.15)&&S<K(21,0,.55));
   var rattle=(S>K(34,2,.3)&&S<K(34,3,0))?Math.sin(NOW*38)*5:0;
-  setS(X.clock,{r:rattle,x:S<SC[10]?.43:.55,d:S<SC[10]?32:36,sc:S<SC[10]?1:.95,lift:clL,o:clOn?1:0,idle:clL>-2?'soft':''});
+  setS(X.clock,{r:rattle,x:s8c?.88:(S<SC[10]?.43:.55),d:s8c?44:(S<SC[10]?32:36),sc:s8c?.6:(S<SC[10]?1:.95),lift:clL,o:clOn?1:0,idle:clL>-2?'soft':''});
   var times=['2:47','6:59','7:00','10:15','7:00','8:00'], ap=['AM','AM','AM','AM','PM','PM'];
   var cj=Math.ceil(S-1e-6)-SC[20], cu2=S-(Math.ceil(S-1e-6)-1), ti=0, flip=1, tEl=$('tm');
   if(S>SC[10]){ var jj=cl(cj,0,4); ti=1+jj; if(jj>=1&&cu2<.5&&cj<=4) ti=jj; if(jj>=1&&cj<=4) flip=cu2<.5?1-cl(cu2/.5):cl((cu2-.5)/.4); if(cj>4){ti=5;flip=1} }
@@ -932,7 +955,8 @@ function render(){
 
   /* ===== gauge ===== */
   var gIn=bt(10,0,.25,.75), gOut=bt(11,0,0,.4), gdr=drop(gIn,FY*.9);
-  if(S<K(32,0,0)) setS(X.gauge,{x:.45,d:6,lift:gdr.lift,sx:gdr.sx,sy:gdr.sy,sc:1-ei(gOut),o:gIn>0&&gOut<1?gdr.o:0});
+  var gA=eio(bt(10,4,0,.35));
+  if(S<K(32,0,0)) setS(X.gauge,{x:lerp(.45,.17,gA),d:6,lift:gdr.lift,sx:gdr.sx,sy:gdr.sy,sc:(1-ei(gOut))*lerp(1,.5,gA),o:gIn>0&&gOut<1?gdr.o:0});
   else { var tI=bt(32,0,.1,.6), tdr=drop(tI,FY*.9), tl=eio(bt(33,0,0,.6)), tO=bt(14,0,0,.35);
     setS(X.gauge,{x:lerp(.3,.89,tl),d:lerp(6,26,tl),sc:lerp(.78,.5,tl)*(1-ei(tO)),lift:tdr.lift,sx:tdr.sx,sy:tdr.sy,o:tI>0&&tO<1?tdr.o:0}); }
   var ang=kf(S,[[K(10,0,.5),-90],[K(10,0,1),-20,spring],[K(10,1,.2),-20],[K(10,1,.9),58,spring],[K(10,2,.2),58],[K(10,2,.9),-58,spring],[K(10,3,.2),-58],[K(10,3,1),0,spring]]);
@@ -941,7 +965,8 @@ function render(){
 
   /* ===== clipboard, calendar, rosette, teddy ===== */
   var cbIn=bt(11,3,.2,.75), cbDr=drop(cbIn,FY*.9), cbOut=bt(12,0,0,.4), cb14=bt(14,0,0,.55), cbOut2=bt(16,0,0,.4), CB=null;
-  if(S<SC[13]) setS(X.clipboard,{x:.5,d:34,sc:.72*(1-ei(cbOut)),lift:cbDr.lift,sx:cbDr.sx,sy:cbDr.sy,o:cbIn>0&&cbOut<1?cbDr.o:0});
+  var cbA=eio(bt(11,4,0,.35));
+  if(S<SC[13]) setS(X.clipboard,{x:lerp(.5,.74,cbA),d:34,sc:lerp(.72,.42,cbA)*(1-ei(cbOut)),lift:cbDr.lift,sx:cbDr.sx,sy:cbDr.sy,o:cbIn>0&&cbOut<1?cbDr.o:0});
   else if(S<SC[33]-1){ var c6=bt(30,0,.15,.7), c6o=bt(31,0,0,.4); CB={x:.5,d:12,sc:back(c6)*1.05*(1-ei(c6o)),o:c6>0&&c6o<1?1:0,r:(1-c6)*-8}; setS(X.clipboard,CB); }
   else if(S<SC[14]-1){ var c9=bt(33,0,.25,.75), c9o=bt(14,0,0,.3); CB={x:.13,d:30,sc:back(c9)*.6*(1-ei(c9o)),o:c9>0&&c9o<1?1:0}; setS(X.clipboard,CB); }
   else if(S<SC[25]-1) setS(X.clipboard,{x:.6,d:10,sc:back(cb14)*(1-ei(cbOut2)),o:cb14>0&&cbOut2<1?1:0,r:(1-cb14)*-8});
@@ -986,7 +1011,7 @@ function render(){
   var sunX, sunY, sunSc=1, sunO=0;
   if(S>SC[20]-1){ sunO=1; sunSc=back(bt(20,0,0,.6)); sunX=lerp(.12,.88,sunP); sunY=lerp(H*.44,H*.5,sunP)-Math.sin(Math.PI*sunP)*H*.13;
     if(S>K(22,0,0)){ var su=eio(bt(22,0,0,.7)); sunX=lerp(sunX,.9,su); sunY=lerp(sunY,Math.max(H*.1,70),su); sunSc=lerp(1,.6,su); } }
-  setSky(X.sun,{x:sunX||0,y:sunY||0,o:sunO*(desk?1:1-bt(22,2,0,.4)),sc:sunSc*(1+.03*Math.sin(NOW*2)),r:NOW*8});
+  setSky(X.sun,{x:sunX||0,y:sunY||0,o:sunO*(desk?1:1-bt(22,9,0,.4)),sc:sunSc*(1+.03*Math.sin(NOW*2)),r:NOW*8});
 
   /* z's */
   zs.forEach(function(z,i){
@@ -995,18 +1020,20 @@ function render(){
     var ph=((NOW*.35)+i/3)%1, Xz=cx0+cribX*cw+X.crib.w*.08*cribSc+i*10*s+Math.sin(ph*6+i)*8*s, Yz=GY-X.crib.h*cribSc*.62-ph*150*s;
     vis(z,a*Math.sin(ph*Math.PI),'translate3d('+Xz.toFixed(1)+'px,'+Yz.toFixed(1)+'px,0) rotate('+(-10+ph*20).toFixed(1)+'deg)');
   });
-  var dimC=bt(22,1,0,.4)*(1-bt(22,2,0,.5));
+  var dimC=bt(22,1,0,.4)*(1-bt(22,9,0,.5));
+  shh.forEach(function(z,i){ var a=cl((HW-.5)*2)*(S<K(9,0,.3)?1:0); if(a<=0){vis(z,0);return} var ph=((NOW*.4)+i/3)%1, xz=cx0+momX*cw+40*s+i*12*s+Math.sin(ph*6+i)*8*s, yz=GY-X.mom.h*momSc*.9-ph*90*s; z.style.fontSize=(22*s)+'px'; vis(z,a*Math.sin(ph*Math.PI),'translate3d('+xz.toFixed(1)+'px,'+yz.toFixed(1)+'px,0) rotate('+(-8+ph*16).toFixed(1)+'deg)'); });
+  vis(etag,bt(8,1,.1,.4)*(1-bt(8,2,0,.3)));
   cast.style.opacity=(1-.72*dim-.94*dimC).toFixed(3); cast.style.transform='translate3d(0,'+((dim*24+dimC*60)*s).toFixed(1)+'px,0) scale('+(1-.04*dim).toFixed(3)+')';
 
   /* ===== sleep-cycle wave (s08) ===== */
-  var wvIn=bt(8,0,.3,1), wvOut=bt(8,3,0,.4)+bt(9,0,0,.4);
+  var wvIn=bt(8,0,.3,1), wvOut=bt(8,4,0,.4)+bt(9,0,0,.4);
   var wv=$('wave');
   if(wvIn>0&&wvOut<1&&S<SC[10]){
     var wy=GY-X.crib.h-WAVE.h*.5-46*s;
     wv.style.visibility='visible'; wv.style.opacity=(1-cl(wvOut)).toFixed(3);
     var ws=Math.max(.001,wvIn); wv.style.transform='translate3d('+G+'px,'+(wy-WAVE.h/2).toFixed(1)+'px,0) scaleX('+ws.toFixed(4)+')';
     $('wsvg').style.transform='scaleX('+(1/ws).toFixed(4)+')';
-    var w4=S<K(8,2,0)?wvIn:cl((bt(8,2)-.25)/.75), dx=G+w4*WAVE.w, dy=wy-WAVE.amp*Math.sin(2*Math.PI*4*w4-Math.PI/2);
+    var w4=S<K(8,3,0)?wvIn:cl((bt(8,3)-.1)/.6), dx=G+w4*WAVE.w, dy=wy-WAVE.amp*Math.sin(2*Math.PI*4*w4-Math.PI/2);
     vis($('wdot'),(w4>0&&w4<1?1:0)*(1-cl(wvOut)),'translate3d('+dx.toFixed(1)+'px,'+dy.toFixed(1)+'px,0)');
   } else { wv.style.visibility='hidden'; vis($('wdot'),0); }
 
@@ -1031,6 +1058,7 @@ function render(){
     mk.style.transform='translate3d('+(lerp(from.x,to.x,hu)+em*.14).toFixed(1)+'px,'+(lerp(from.y,to.y,hu)+to.h*.22-Math.sin(Math.PI*hu)*em*.55).toFixed(1)+'px,0) rotate('+(-25+hu*25+Math.sin(NOW*2)*6).toFixed(1)+'deg)';
   });
   KICKS.forEach(function(k){var a=bt(k.n,0,0,.4), z2=bt(k.e,0,0,.4);
+    if(k.out){ var isOut=S>K(k.out[0],k.out[1],.35), tx=isOut?k.t+' · OUT':k.t; if(k.el.textContent!==tx){k.el.textContent=tx; k.el.style.background=isOut?'var(--sage)':''; k.el.style.boxShadow=isOut?'inset 0 0 0 1.5px var(--ink)':'';} }
     vis(k.el,a*(1-z2),'scale('+(.6+.4*back(a)).toFixed(3)+')');});
 
   /* ===== giants ===== */
@@ -1048,7 +1076,7 @@ function render(){
   });
 
   /* ===== notes, mono lines ===== */
-  NOTES.forEach(function(n){var a=bt(n.at[0],n.at[1],.3,.8), z2=bt(n.end[0],n.end[1],0,.3), fl=FLOOR[n.at[0]]; n.el.style.color=(fl==='night'||fl==='forest')?'var(--paper)':'var(--ink)'; vis(n.el,a*(1-z2),'translate3d(0,'+((1-eo(a))*10).toFixed(1)+'px,0)')});
+  NOTES.forEach(function(n){var a=bt(n.at[0],n.at[1],.3,.8), z2=bt(n.end[0],n.end[1],0,.3), fl=WALL[n.at[0]]; n.el.style.color=LIGHT[fl]?'var(--ink)':'var(--paper)'; vis(n.el,a*(1-z2),'translate3d(0,'+((1-eo(a))*10).toFixed(1)+'px,0)')});
   monoPs.forEach(function(p,i){var a=bt(13,i+1,0,.5), z2=bt(26,0,0,.4); vis(p,a*(1-z2),'translate3d(0,'+((1-eo(a))*10).toFixed(1)+'px,0)')});
   vis($('monos13'),S>K(13,0,0)&&S<K(26,0,.5)?1:0);
 
@@ -1093,19 +1121,19 @@ function render(){
   });
 
   /* ===== close (s22) ===== */
-  var tOut=bt(22,2,0,.4);
-  tickEls.forEach(function(li,k){var u=bt(22,1,.05+k*.1,.3+k*.1); vis(li,u*(1-tOut),'translate3d(0,'+((1-eo(u))*14-tOut*20).toFixed(1)+'px,0)'); tickPaths[k].style.strokeDashoffset=(20*(1-eo(cl(u*1.4-.3)))).toFixed(2)});
-  vis($('tnote'),bt(22,1,.75,1)*(1-tOut));
-  var su2=bt(22,2,.2,.7); vis(stepsEl,su2,'translate3d(0,'+((1-eo(su2))*22).toFixed(1)+'px,0) scale('+(.94+.06*back(su2)).toFixed(3)+')');
-  stepRows.forEach(function(r,i){var u=bt(22,2,.25+i*.2,.55+i*.2); r.style.opacity=cl(u*2).toFixed(3); r.style.transform='translate3d('+((1-eo(u))*-12).toFixed(1)+'px,0,0)'});
-  var cu=bt(22,3,0,.7); vis($('close'),cu,'translate3d(0,'+((1-back(cu))*18).toFixed(1)+'px,0)');
+  var tOut=bt(22,9,0,.4);
+  tickEls.forEach(function(li,k){var u=bt(22,k+1,0,.5); vis(li,u*(1-tOut),'translate3d(0,'+((1-eo(u))*14-tOut*20).toFixed(1)+'px,0)'); tickPaths[k].style.strokeDashoffset=(20*(1-eo(cl(u*1.4-.3)))).toFixed(2)});
+  vis($('tnote'),bt(22,8,0,.5)*(1-tOut));
+  var su2=bt(22,9,.2,.7); vis(stepsEl,su2,'translate3d(0,'+((1-eo(su2))*22).toFixed(1)+'px,0) scale('+(.94+.06*back(su2)).toFixed(3)+')');
+  stepRows.forEach(function(r,i){var u=bt(22,9,.25+i*.2,.55+i*.2); r.style.opacity=cl(u*2).toFixed(3); r.style.transform='translate3d('+((1-eo(u))*-12).toFixed(1)+'px,0,0)'});
+  var cu=bt(22,10,0,.7); vis($('close'),cu,'translate3d(0,'+((1-back(cu))*18).toFixed(1)+'px,0)');
   $('close').style.pointerEvents=cu>.5?'auto':'none';
   // controls
   var last=target>=LAST, nx=$('nx'), settled=S===target;
   nx.style.opacity=last?'0':'1'; nx.style.pointerEvents=last?'none':'auto'; nx.classList.toggle('bob',settled&&started&&!last);
   var lbl=target===0; if(nx._l!==lbl){nx._l=lbl; nx.classList.toggle('lbl',lbl); $('nxl').style.display=lbl?'inline':'none'; nx.setAttribute('aria-label',lbl?'Start':'Next');}
-  $('bk').style.opacity=target>0?'1':'0'; $('bk').style.pointerEvents=target>0?'auto':'none';
-  var ctt=(target+1)+' / '+(LAST+1); if($('ct').textContent!==ctt) $('ct').textContent=ctt;
+  $('bk').style.opacity=target>0?'.75':'0'; $('bk').style.pointerEvents=target>0?'auto':'none';
+
 }
 
 function drawDots(wave,appear){
