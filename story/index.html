@@ -298,7 +298,7 @@ body[data-tone=light]{--tone-fg:var(--ink);--tone-bg:var(--paper)}
     <p class="gw">morning.</p><p>Your baby sleeps 8–12 hours through the night within 14 days of following the plan, or a full refund.</p>
     <p>How can we guarantee it?</p><p>We only take families we know we can help.</p><p>That's what the consultation is for.</p></div></section>
   <section style="background:var(--butter);color:var(--ink)"><div class="in">
-    <p>This is for you if</p><ul><li>your baby is 8 weeks to 2+ years</li><li>you're both in</li><li>you're ready to start now</li></ul>
+    <p>This is for you if</p><ul><li>your little one is a newborn to 5 years old</li><li>you're both in</li><li>you're ready to start now</li></ul>
     <p style="font-size:20px;font-weight:600;margin-top:1em">What happens next</p>
     <ol style="font-size:18px;line-height:1.4;padding-left:1.2em"><li>a two-minute survey</li><li>if it's a fit, you pick a time for your free consultation</li><li>we tell you what's keeping your baby up, and whether we can help</li></ol>
     <p><a class="cta" id="cta2" href="https://27uox5zmhva.typeform.com/to/tNALmTdl#page_source=COOL%20STORY%20SITE"><span class="dot" aria-hidden="true"></span>Book your free consultation</a></p>
@@ -525,7 +525,7 @@ var BUBS=["how did the nap go?","you've got this.","here's tonight's tweak."].ma
 var CHECK='<svg viewBox="0 0 14 14"><path d="M2.5 7.4 5.6 10.3 11.5 3.8" fill="none" stroke="#f7f3ea" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>';
 var tcard=document.createElement('div'); tcard.className='tcard'; tcard.innerHTML=["plan read","room ready","both of you in"].map(function(t){return '<div><span class="ck">'+CHECK+'</span><span>'+t+'</span></div>'}).join(''); typeL.appendChild(tcard);
 var tRows=[].slice.call(tcard.children), tPaths=[].slice.call(tcard.querySelectorAll('path'));
-["your baby is 8 weeks to 2+ years","you're both in","you're ready to start now"].forEach(function(t){var li=document.createElement('li');li.innerHTML='<span class="ck">'+CHECK+'</span><span>'+t+'</span>';$('ticks').appendChild(li)});
+["your little one is a newborn to 5 years old","you're both in","you're ready to start now"].forEach(function(t){var li=document.createElement('li');li.innerHTML='<span class="ck">'+CHECK+'</span><span>'+t+'</span>';$('ticks').appendChild(li)});
 var tickEls=[].slice.call($('ticks').children), tickPaths=[].slice.call($('ticks').querySelectorAll('path'));
 var MOMENTS=[['7:00 AM','You wake up first. The coffee is hot.'],['10:15 AM','Nap. In the crib. No fight.'],['7:00 PM','Bedtime takes minutes.'],['8:00 PM','An evening. Remember those?']].map(function(m){var e=document.createElement('div');e.className='moment';e.innerHTML='<span class="tm">'+m[0]+'</span><p>'+m[1]+'</p>';typeL.appendChild(e);return {el:e,t:m[0]}});
 var monoPs=[].slice.call($('monos13').children);
