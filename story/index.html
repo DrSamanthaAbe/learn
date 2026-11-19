@@ -259,7 +259,7 @@ body[data-tone=light]{--tone-fg:var(--ink);--tone-bg:var(--paper)}
     </div>
     <div class="layer" id="ui" style="pointer-events:none">
       <div class="close" id="close">
-        <a class="cta" id="cta" href="https://27uox5zmhva.typeform.com/to/tNALmTdl#page_source=story"><span class="dot" aria-hidden="true"></span>Book your free consultation</a>
+        <a class="cta" id="cta" href="https://27uox5zmhva.typeform.com/to/tNALmTdl#page_source=COOL%20STORY%20SITE"><span class="dot" aria-hidden="true"></span>Book your free consultation</a>
         <div class="mono" aria-hidden="true">&gt; two minutes. no pressure.</div>
       </div>
     </div>
@@ -301,7 +301,7 @@ body[data-tone=light]{--tone-fg:var(--ink);--tone-bg:var(--paper)}
     <p>This is for you if</p><ul><li>your baby is 8 weeks to 2+ years</li><li>you're both in</li><li>you're ready to start now</li></ul>
     <p style="font-size:20px;font-weight:600;margin-top:1em">What happens next</p>
     <ol style="font-size:18px;line-height:1.4;padding-left:1.2em"><li>a two-minute survey</li><li>if it's a fit, you pick a time for your free consultation</li><li>we tell you what's keeping your baby up, and whether we can help</li></ol>
-    <p><a class="cta" id="cta2" href="https://27uox5zmhva.typeform.com/to/tNALmTdl#page_source=story"><span class="dot" aria-hidden="true"></span>Book your free consultation</a></p>
+    <p><a class="cta" id="cta2" href="https://27uox5zmhva.typeform.com/to/tNALmTdl#page_source=COOL%20STORY%20SITE"><span class="dot" aria-hidden="true"></span>Book your free consultation</a></p>
     <p class="mono">&gt; two minutes. no pressure.<br>actuallysleeping.com</p>
     <div class="row"><img data-sp="peg_mom_happy" alt=""><img data-sp="peg_dad" alt=""><img data-sp="crib" alt=""></div></div></section>
 </article>
@@ -1060,8 +1060,8 @@ if(RM) loadManifest();
 (function(){
   try{
     var q=new URLSearchParams(window.location.search);
-    var ps=q.get('page_source'); if(!ps||!/^[A-Za-z0-9-]+$/.test(ps)) ps='story';
-    var h='page_source='+ps;
+    var ps=q.get('page_source'); if(!ps||!/^[A-Za-z0-9-]+$/.test(ps)) ps='COOL STORY SITE';
+    var h='page_source='+encodeURIComponent(ps);
     ['utm_source','utm_medium','utm_campaign','utm_content','fbclid'].forEach(function(k){var v=q.get(k); if(v) h+='&'+k+'='+encodeURIComponent(v);});
     var url='https://27uox5zmhva.typeform.com/to/tNALmTdl#'+h;
     [].forEach.call(document.querySelectorAll('a.cta'),function(a){a.href=url;});
